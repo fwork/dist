@@ -1,0 +1,443 @@
+{
+  "checksum": {
+    "previous": "",
+    "current": "7b2da1f6f21073e63016a1c559081a8dbc6a36466ba329f4158dba8336c12e9a"
+  },
+  "fonts": [
+
+  ],
+  "glyphs": {
+    "ambulance-with-light": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/ambulance-with-light.svg",
+      "codepoint": 61696
+    },
+    "automobile-steering-wheel": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/automobile-steering-wheel.svg",
+      "codepoint": 61697
+    },
+    "barrier-and-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/barrier-and-car.svg",
+      "codepoint": 61698
+    },
+    "car-accident": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-accident.svg",
+      "codepoint": 61699
+    },
+    "car-accident-1": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-accident-1.svg",
+      "codepoint": 61700
+    },
+    "car-at-gas-station": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-at-gas-station.svg",
+      "codepoint": 61701
+    },
+    "car-battery": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-battery.svg",
+      "codepoint": 61702
+    },
+    "car-board": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-board.svg",
+      "codepoint": 61703
+    },
+    "car-compass": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-compass.svg",
+      "codepoint": 61704
+    },
+    "car-crash": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-crash.svg",
+      "codepoint": 61705
+    },
+    "car-draw": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-draw.svg",
+      "codepoint": 61706
+    },
+    "car-falling": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-falling.svg",
+      "codepoint": 61707
+    },
+    "car-falling-into-the-water": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-falling-into-the-water.svg",
+      "codepoint": 61708
+    },
+    "car-heating": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-heating.svg",
+      "codepoint": 61709
+    },
+    "car-in-garage": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-in-garage.svg",
+      "codepoint": 61710
+    },
+    "car-in-service": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-in-service.svg",
+      "codepoint": 61711
+    },
+    "car-key": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-key.svg",
+      "codepoint": 61712
+    },
+    "car-locked": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-locked.svg",
+      "codepoint": 61713
+    },
+    "car-on-a-frame": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-a-frame.svg",
+      "codepoint": 61714
+    },
+    "car-on-fire": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-fire.svg",
+      "codepoint": 61715
+    },
+    "car-on-laptop": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-laptop.svg",
+      "codepoint": 61716
+    },
+    "car-on-stairs": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-stairs.svg",
+      "codepoint": 61717
+    },
+    "car-on-tablet": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-tablet.svg",
+      "codepoint": 61718
+    },
+    "car-on-the-bridge": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-the-bridge.svg",
+      "codepoint": 61719
+    },
+    "car-on-the-hill": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-the-hill.svg",
+      "codepoint": 61720
+    },
+    "car-on-the-hill-1": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-on-the-hill-1.svg",
+      "codepoint": 61721
+    },
+    "car-placeholder": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-placeholder.svg",
+      "codepoint": 61722
+    },
+    "car-pollution": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-pollution.svg",
+      "codepoint": 61723
+    },
+    "car-price": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-price.svg",
+      "codepoint": 61724
+    },
+    "car-scaffold": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-scaffold.svg",
+      "codepoint": 61725
+    },
+    "car-seat": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-seat.svg",
+      "codepoint": 61726
+    },
+    "car-secure": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-secure.svg",
+      "codepoint": 61727
+    },
+    "car-service": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-service.svg",
+      "codepoint": 61728
+    },
+    "car-settings": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-settings.svg",
+      "codepoint": 61729
+    },
+    "car-sign": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-sign.svg",
+      "codepoint": 61730
+    },
+    "car-stopped-traffic-lights": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-stopped-traffic-lights.svg",
+      "codepoint": 61731
+    },
+    "car-washing-machine": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-washing-machine.svg",
+      "codepoint": 61732
+    },
+    "car-wheel": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-wheel.svg",
+      "codepoint": 61733
+    },
+    "car-with-gps": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-gps.svg",
+      "codepoint": 61734
+    },
+    "car-with-luggage": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-luggage.svg",
+      "codepoint": 61735
+    },
+    "car-with-medicine": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-medicine.svg",
+      "codepoint": 61736
+    },
+    "car-with-music": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-music.svg",
+      "codepoint": 61737
+    },
+    "car-with-oil-sign": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-oil-sign.svg",
+      "codepoint": 61738
+    },
+    "car-with-spare-tire": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-spare-tire.svg",
+      "codepoint": 61739
+    },
+    "car-with-trailer": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/car-with-trailer.svg",
+      "codepoint": 61740
+    },
+    "change-gear": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/change-gear.svg",
+      "codepoint": 61741
+    },
+    "changing-car-oil": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/changing-car-oil.svg",
+      "codepoint": 61742
+    },
+    "checked-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/checked-car.svg",
+      "codepoint": 61743
+    },
+    "climate-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/climate-car.svg",
+      "codepoint": 61744
+    },
+    "delivery-truck": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/delivery-truck.svg",
+      "codepoint": 61745
+    },
+    "destroying-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/destroying-car.svg",
+      "codepoint": 61746
+    },
+    "eco-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/eco-car.svg",
+      "codepoint": 61747
+    },
+    "family-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/family-car.svg",
+      "codepoint": 61748
+    },
+    "front-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/front-car.svg",
+      "codepoint": 61749
+    },
+    "frontal-taxi-cab": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/frontal-taxi-cab.svg",
+      "codepoint": 61750
+    },
+    "gps-on-screen": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/gps-on-screen.svg",
+      "codepoint": 61751
+    },
+    "hospital-ambulance": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/hospital-ambulance.svg",
+      "codepoint": 61752
+    },
+    "inflate-wheel": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/inflate-wheel.svg",
+      "codepoint": 61753
+    },
+    "man-with-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/man-with-car.svg",
+      "codepoint": 61754
+    },
+    "mechanic-with-wrench": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/mechanic-with-wrench.svg",
+      "codepoint": 61755
+    },
+    "minibus": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/minibus.svg",
+      "codepoint": 61756
+    },
+    "no-parking-sign": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/no-parking-sign.svg",
+      "codepoint": 61757
+    },
+    "normal-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/normal-car.svg",
+      "codepoint": 61758
+    },
+    "oil-can": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/oil-can.svg",
+      "codepoint": 61759
+    },
+    "old-petrol-station": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/old-petrol-station.svg",
+      "codepoint": 61760
+    },
+    "overturned-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/overturned-car.svg",
+      "codepoint": 61761
+    },
+    "painted-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/painted-car.svg",
+      "codepoint": 61762
+    },
+    "parked-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/parked-car.svg",
+      "codepoint": 61763
+    },
+    "paying-car-ticket": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/paying-car-ticket.svg",
+      "codepoint": 61764
+    },
+    "petrol-can": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/petrol-can.svg",
+      "codepoint": 61765
+    },
+    "police-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/police-car.svg",
+      "codepoint": 61766
+    },
+    "police-car-1": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/police-car-1.svg",
+      "codepoint": 61767
+    },
+    "present-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/present-car.svg",
+      "codepoint": 61768
+    },
+    "private-garage": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/private-garage.svg",
+      "codepoint": 61769
+    },
+    "refreshing-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/refreshing-car.svg",
+      "codepoint": 61770
+    },
+    "rent-a-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/rent-a-car.svg",
+      "codepoint": 61771
+    },
+    "repair-service": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/repair-service.svg",
+      "codepoint": 61772
+    },
+    "repairing-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/repairing-car.svg",
+      "codepoint": 61773
+    },
+    "repairing-car-1": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/repairing-car-1.svg",
+      "codepoint": 61774
+    },
+    "repairing-service": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/repairing-service.svg",
+      "codepoint": 61775
+    },
+    "sale-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/sale-car.svg",
+      "codepoint": 61776
+    },
+    "searching-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/searching-car.svg",
+      "codepoint": 61777
+    },
+    "security-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/security-car.svg",
+      "codepoint": 61778
+    },
+    "skidding-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/skidding-car.svg",
+      "codepoint": 61779
+    },
+    "small-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/small-car.svg",
+      "codepoint": 61780
+    },
+    "speed-road-radar": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/speed-road-radar.svg",
+      "codepoint": 61781
+    },
+    "sport-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/sport-car.svg",
+      "codepoint": 61782
+    },
+    "sportive-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/sportive-car.svg",
+      "codepoint": 61783
+    },
+    "stop-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/stop-car.svg",
+      "codepoint": 61784
+    },
+    "stop-truck": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/stop-truck.svg",
+      "codepoint": 61785
+    },
+    "three-wheels": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/three-wheels.svg",
+      "codepoint": 61786
+    },
+    "towing-a-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/towing-a-car.svg",
+      "codepoint": 61787
+    },
+    "trailer-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/trailer-car.svg",
+      "codepoint": 61788
+    },
+    "transportation-van": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/transportation-van.svg",
+      "codepoint": 61789
+    },
+    "truck-with-another-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/truck-with-another-car.svg",
+      "codepoint": 61790
+    },
+    "two-cars-in-line": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/two-cars-in-line.svg",
+      "codepoint": 61791
+    },
+    "umbrella-car": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/umbrella-car.svg",
+      "codepoint": 61792
+    },
+    "wheel-and-wrench": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/wheel-and-wrench.svg",
+      "codepoint": 61793
+    },
+    "wheel-frontal-view": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/wheel-frontal-view.svg",
+      "codepoint": 61794
+    },
+    "wrench-and-screwdriver-crossed": {
+      "source": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg/wrench-and-screwdriver-crossed.svg",
+      "codepoint": 61795
+    }
+  },
+  "options": {
+    "input": {
+      "vectors": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg",
+      "templates": "/var/www/static/flaticon/zip_packs/111500-automobiles/svg"
+    },
+    "output": {
+      "fonts": "/var/www/static/flaticon/zip_packs/111500-automobiles/font",
+      "css": "/var/www/static/flaticon/zip_packs/111500-automobiles/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111500-automobiles/font"
+    },
+    "config": false,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ],
+    "font_name": "Flaticon",
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "css_selector": ".flaticon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": true,
+    "debug": false,
+    "force": true,
+    "quiet": true
+  },
+  "templates": [
+
+  ]
+}

@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "flaticon18";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon18-"]:before, [class*=" flaticon18-"]:before,
+[class^="flaticon18-"]:after, [class*=" flaticon18-"]:after {   
+	font-family: flaticon18;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon18-archive4:before {
+	content: "\e000";
+}
+.flaticon18-bars-graphic1:before {
+	content: "\e001";
+}
+.flaticon18-binary10:before {
+	content: "\e002";
+}
+.flaticon18-binary11:before {
+	content: "\e003";
+}
+.flaticon18-chart59:before {
+	content: "\e004";
+}
+.flaticon18-cloud383:before {
+	content: "\e005";
+}
+.flaticon18-cloud392:before {
+	content: "\e006";
+}
+.flaticon18-computers13:before {
+	content: "\e007";
+}
+.flaticon18-data2:before {
+	content: "\e008";
+}
+.flaticon18-earth1:before {
+	content: "\e009";
+}
+.flaticon18-folder275:before {
+	content: "\e00a";
+}
+.flaticon18-folder283:before {
+	content: "\e00b";
+}
+.flaticon18-funnel2:before {
+	content: "\e00c";
+}
+.flaticon18-global45:before {
+	content: "\e00d";
+}
+.flaticon18-load:before {
+	content: "\e00e";
+}
+.flaticon18-magnifying glass1:before {
+	content: "\e00f";
+}
+.flaticon18-magnifying-glass40:before {
+	content: "\e010";
+}
+.flaticon18-mail 1:before {
+	content: "\e011";
+}
+.flaticon18-servers1:before {
+	content: "\e012";
+}
+.flaticon18-storage33:before {
+	content: "\e013";
+}

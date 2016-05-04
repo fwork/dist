@@ -1,0 +1,248 @@
+{
+  "checksum": {
+    "previous": "641ea9eccb3b6dc848c214005e37f3c00f65cdd91826b61ed851290dd814290f",
+    "current": "641ea9eccb3b6dc848c214005e37f3c00f65cdd91826b61ed851290dd814290f"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "24-hours": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/24-hours.svg"
+    },
+    "aerosol": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/aerosol.svg"
+    },
+    "air-filter": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/air-filter.svg"
+    },
+    "airbag": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/airbag.svg"
+    },
+    "autolift": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/autolift.svg"
+    },
+    "automatic-wash-car": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/automatic-wash-car.svg"
+    },
+    "balancing": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/balancing.svg"
+    },
+    "battery": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/battery.svg"
+    },
+    "brake-disk": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/brake-disk.svg"
+    },
+    "car": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/car.svg"
+    },
+    "car-painting": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/car-painting.svg"
+    },
+    "car-search": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/car-search.svg"
+    },
+    "car-wash": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/car-wash.svg"
+    },
+    "chassis": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/chassis.svg"
+    },
+    "cracked-windshield": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/cracked-windshield.svg"
+    },
+    "cross-wrench": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/cross-wrench.svg"
+    },
+    "damage": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/damage.svg"
+    },
+    "electric-car": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/electric-car.svg"
+    },
+    "evacuator": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/evacuator.svg"
+    },
+    "exhaust-pipe": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/exhaust-pipe.svg"
+    },
+    "fix-sign": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/fix-sign.svg"
+    },
+    "flat-tire": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/flat-tire.svg"
+    },
+    "funnel": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/funnel.svg"
+    },
+    "fuse": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/fuse.svg"
+    },
+    "garage": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/garage.svg"
+    },
+    "gas-station": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/gas-station.svg"
+    },
+    "gears": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/gears.svg"
+    },
+    "hammer-and-wrench": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/hammer-and-wrench.svg"
+    },
+    "headlight": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/headlight.svg"
+    },
+    "jerrycan": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/jerrycan.svg"
+    },
+    "key": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/key.svg"
+    },
+    "mirror": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/mirror.svg"
+    },
+    "motor": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/motor.svg"
+    },
+    "oil": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/oil.svg"
+    },
+    "piston": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/piston.svg"
+    },
+    "radiator": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/radiator.svg"
+    },
+    "screwdriver-and-wrench": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/screwdriver-and-wrench.svg"
+    },
+    "shock-absorber": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/shock-absorber.svg"
+    },
+    "signaling": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/signaling.svg"
+    },
+    "spark-plug": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/spark-plug.svg"
+    },
+    "steering-wheel": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/steering-wheel.svg"
+    },
+    "tachometer": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/tachometer.svg"
+    },
+    "tank": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/tank.svg"
+    },
+    "timing-belt": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/timing-belt.svg"
+    },
+    "tinting": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/tinting.svg"
+    },
+    "traffic-cone": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/traffic-cone.svg"
+    },
+    "transmision": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/transmision.svg"
+    },
+    "voltage": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/voltage.svg"
+    },
+    "wheel": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/wheel.svg"
+    },
+    "wheel-and-manometer": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg/wheel-and-manometer.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112073-car-repair/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112073-car-repair/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112073-car-repair/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112073-car-repair/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112073-car-repair/font/flaticon.css"
+  ]
+}

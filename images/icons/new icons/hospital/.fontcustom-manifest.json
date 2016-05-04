@@ -1,0 +1,248 @@
+{
+  "checksum": {
+    "previous": "ef46a27fcf8b8ec17438180704bab24023d0fea80a7a4b85b307dea1fa1900ec",
+    "current": "ef46a27fcf8b8ec17438180704bab24023d0fea80a7a4b85b307dea1fa1900ec"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "ambiental-mercury-thermometer": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/ambiental-mercury-thermometer.svg"
+    },
+    "ambulance-silhouette": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/ambulance-silhouette.svg"
+    },
+    "blood-perfusion": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/blood-perfusion.svg"
+    },
+    "cardiogram-in-a-heart": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/cardiogram-in-a-heart.svg"
+    },
+    "cardiologist-stethoscope": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/cardiologist-stethoscope.svg"
+    },
+    "downstairs-sign": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/downstairs-sign.svg"
+    },
+    "female-doctor": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/female-doctor.svg"
+    },
+    "flask-with-medicine": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/flask-with-medicine.svg"
+    },
+    "health-clinic-sign": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/health-clinic-sign.svg"
+    },
+    "hospital-apple-silhouette": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-apple-silhouette.svg"
+    },
+    "hospital-band-aid": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-band-aid.svg"
+    },
+    "hospital-bandage": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-bandage.svg"
+    },
+    "hospital-bed": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-bed.svg"
+    },
+    "hospital-bed-silhouette": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-bed-silhouette.svg"
+    },
+    "hospital-building": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-building.svg"
+    },
+    "hospital-garbage-can": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-garbage-can.svg"
+    },
+    "hospital-leaflet": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-leaflet.svg"
+    },
+    "hospital-location": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-location.svg"
+    },
+    "hospital-phone": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-phone.svg"
+    },
+    "hospital-pipette": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-pipette.svg"
+    },
+    "hospital-secretary": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-secretary.svg"
+    },
+    "hospital-sign": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-sign.svg"
+    },
+    "hospital-sign-silhouette": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-sign-silhouette.svg"
+    },
+    "hospital-supplies": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-supplies.svg"
+    },
+    "hospital-test-tube": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospital-test-tube.svg"
+    },
+    "hospitals-computer": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospitals-computer.svg"
+    },
+    "hospitals-lift": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/hospitals-lift.svg"
+    },
+    "icu-monitor": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/icu-monitor.svg"
+    },
+    "injection-needle": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/injection-needle.svg"
+    },
+    "medical-chart": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medical-chart.svg"
+    },
+    "medical-equipment": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medical-equipment.svg"
+    },
+    "medical-kit": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medical-kit.svg"
+    },
+    "medication-bottles": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medication-bottles.svg"
+    },
+    "medicine-bottle": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medicine-bottle.svg"
+    },
+    "medicine-bottle-1": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medicine-bottle-1.svg"
+    },
+    "medicine-pot": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/medicine-pot.svg"
+    },
+    "mercury-thermometer": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/mercury-thermometer.svg"
+    },
+    "microscope-silhouette": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/microscope-silhouette.svg"
+    },
+    "nurse-head": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/nurse-head.svg"
+    },
+    "nurse-uniform": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/nurse-uniform.svg"
+    },
+    "patient-in-a-stretcher": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/patient-in-a-stretcher.svg"
+    },
+    "pill-and-tablet": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/pill-and-tablet.svg"
+    },
+    "scalpel": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/scalpel.svg"
+    },
+    "smartphone-sign-in-hospital": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/smartphone-sign-in-hospital.svg"
+    },
+    "stairs-sign-silhouette": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/stairs-sign-silhouette.svg"
+    },
+    "steel-forceps": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/steel-forceps.svg"
+    },
+    "surgeon-icon": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/surgeon-icon.svg"
+    },
+    "syrup": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/syrup.svg"
+    },
+    "tablets-outline": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/tablets-outline.svg"
+    },
+    "x-ray-sign": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/111426-hospital/svg/x-ray-sign.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111426-hospital/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111426-hospital/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111426-hospital/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111426-hospital/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111426-hospital/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111426-hospital/font/flaticon.css"
+  ]
+}

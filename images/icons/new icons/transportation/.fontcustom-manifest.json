@@ -1,0 +1,208 @@
+{
+  "checksum": {
+    "previous": "5d867e60bbb1edaa4b4b2d4075e9ed5ca9696f4c436239f85f53711e4e16211a",
+    "current": "5d867e60bbb1edaa4b4b2d4075e9ed5ca9696f4c436239f85f53711e4e16211a"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "ambulance": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/ambulance.svg"
+    },
+    "automobile": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/automobile.svg"
+    },
+    "baby-carriage": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/baby-carriage.svg"
+    },
+    "bicycle": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/bicycle.svg"
+    },
+    "box-trolley": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/box-trolley.svg"
+    },
+    "bus-front-view": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/bus-front-view.svg"
+    },
+    "cable-car-cabin": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/cable-car-cabin.svg"
+    },
+    "car-frontal-view": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/car-frontal-view.svg"
+    },
+    "cruiser-front-view": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/cruiser-front-view.svg"
+    },
+    "delivery-truck": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/delivery-truck.svg"
+    },
+    "delivery-van": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/delivery-van.svg"
+    },
+    "ferry": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/ferry.svg"
+    },
+    "helicopter": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/helicopter.svg"
+    },
+    "hot-air-balloon": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/hot-air-balloon.svg"
+    },
+    "logistics-truck": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/logistics-truck.svg"
+    },
+    "paper-sailboat": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/paper-sailboat.svg"
+    },
+    "pickup-truck": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/pickup-truck.svg"
+    },
+    "plane": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/plane.svg"
+    },
+    "railroad-with-wood-planks": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/railroad-with-wood-planks.svg"
+    },
+    "road-sign": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/road-sign.svg"
+    },
+    "school-bus": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/school-bus.svg"
+    },
+    "scooter-bike": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/scooter-bike.svg"
+    },
+    "speedboat": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/speedboat.svg"
+    },
+    "speedboat-1": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/speedboat-1.svg"
+    },
+    "sports-car": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/sports-car.svg"
+    },
+    "tanker": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/tanker.svg"
+    },
+    "taxi": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/taxi.svg"
+    },
+    "taxi-front-view": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/taxi-front-view.svg"
+    },
+    "three-door-car": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/three-door-car.svg"
+    },
+    "touring-car": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/touring-car.svg"
+    },
+    "train-front-view": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/train-front-view.svg"
+    },
+    "train-wagon": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/train-wagon.svg"
+    },
+    "transportation-truck": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/transportation-truck.svg"
+    },
+    "transportation-truck-1": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/transportation-truck-1.svg"
+    },
+    "transportation-truck-2": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/transportation-truck-2.svg"
+    },
+    "truck-with-hook-lift": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/truck-with-hook-lift.svg"
+    },
+    "unicycle": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/unicycle.svg"
+    },
+    "war-tank": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/war-tank.svg"
+    },
+    "wide-rear-wheel-car": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/wide-rear-wheel-car.svg"
+    },
+    "youth-bicycle": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111392-transportation/svg/youth-bicycle.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111392-transportation/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111392-transportation/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111392-transportation/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111392-transportation/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111392-transportation/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111392-transportation/font/flaticon.css"
+  ]
+}

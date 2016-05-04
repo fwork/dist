@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "flaticon34";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon34-"]:before, [class*=" flaticon34-"]:before,
+[class^="flaticon34-"]:after, [class*=" flaticon34-"]:after {   
+	font-family: flaticon34;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon34-industrial1:before {
+	content: "\e000";
+}
+.flaticon34-industrial2:before {
+	content: "\e001";
+}
+.flaticon34-industry1:before {
+	content: "\e002";
+}
+.flaticon34-industry2:before {
+	content: "\e003";
+}
+.flaticon34-industry:before {
+	content: "\e004";
+}
+.flaticon34-mechanic3:before {
+	content: "\e005";
+}
+.flaticon34-worker7:before {
+	content: "\e006";
+}
+.flaticon34-worker8:before {
+	content: "\e007";
+}
+.flaticon34-worker9:before {
+	content: "\e008";
+}

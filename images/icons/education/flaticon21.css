@@ -1,0 +1,607 @@
+@font-face {
+	font-family: "flaticon21";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon21-"]:before, [class*=" flaticon21-"]:before,
+[class^="flaticon21-"]:after, [class*=" flaticon21-"]:after {   
+	font-family: flaticon21;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon21-152:before {
+	content: "\e000";
+}
+.flaticon21-303:before {
+	content: "\e001";
+}
+.flaticon21-60:before {
+	content: "\e002";
+}
+.flaticon21-a1:before {
+	content: "\e003";
+}
+.flaticon21-abc16:before {
+	content: "\e004";
+}
+.flaticon21-address:before {
+	content: "\e005";
+}
+.flaticon21-agenda2:before {
+	content: "\e006";
+}
+.flaticon21-alphabet9:before {
+	content: "\e007";
+}
+.flaticon21-american-football2:before {
+	content: "\e008";
+}
+.flaticon21-applicattion:before {
+	content: "\e009";
+}
+.flaticon21-arms2:before {
+	content: "\e00a";
+}
+.flaticon21-atomic2:before {
+	content: "\e00b";
+}
+.flaticon21-atoms2:before {
+	content: "\e00c";
+}
+.flaticon21-autobus:before {
+	content: "\e00d";
+}
+.flaticon21-award63:before {
+	content: "\e00e";
+}
+.flaticon21-bag54:before {
+	content: "\e00f";
+}
+.flaticon21-ball68:before {
+	content: "\e010";
+}
+.flaticon21-battery-status8:before {
+	content: "\e011";
+}
+.flaticon21-bell3:before {
+	content: "\e012";
+}
+.flaticon21-bold1:before {
+	content: "\e013";
+}
+.flaticon21-book10:before {
+	content: "\e014";
+}
+.flaticon21-book11:before {
+	content: "\e015";
+}
+.flaticon21-book12:before {
+	content: "\e016";
+}
+.flaticon21-book14:before {
+	content: "\e017";
+}
+.flaticon21-book259:before {
+	content: "\e018";
+}
+.flaticon21-book260:before {
+	content: "\e019";
+}
+.flaticon21-book261:before {
+	content: "\e01a";
+}
+.flaticon21-book262:before {
+	content: "\e01b";
+}
+.flaticon21-book263:before {
+	content: "\e01c";
+}
+.flaticon21-book264:before {
+	content: "\e01d";
+}
+.flaticon21-book38:before {
+	content: "\e01e";
+}
+.flaticon21-book39:before {
+	content: "\e01f";
+}
+.flaticon21-book40:before {
+	content: "\e020";
+}
+.flaticon21-book6:before {
+	content: "\e021";
+}
+.flaticon21-book7:before {
+	content: "\e022";
+}
+.flaticon21-book8:before {
+	content: "\e023";
+}
+.flaticon21-book9:before {
+	content: "\e024";
+}
+.flaticon21-books49:before {
+	content: "\e025";
+}
+.flaticon21-books50:before {
+	content: "\e026";
+}
+.flaticon21-bulb:before {
+	content: "\e027";
+}
+.flaticon21-bulb1:before {
+	content: "\e028";
+}
+.flaticon21-calendar4:before {
+	content: "\e029";
+}
+.flaticon21-calentar:before {
+	content: "\e02a";
+}
+.flaticon21-car197:before {
+	content: "\e02b";
+}
+.flaticon21-cart12:before {
+	content: "\e02c";
+}
+.flaticon21-chemistry29:before {
+	content: "\e02d";
+}
+.flaticon21-circular-clock3:before {
+	content: "\e02e";
+}
+.flaticon21-clock4:before {
+	content: "\e02f";
+}
+.flaticon21-cloud-storage9:before {
+	content: "\e030";
+}
+.flaticon21-college1:before {
+	content: "\e031";
+}
+.flaticon21-computer-mouse:before {
+	content: "\e032";
+}
+.flaticon21-computer-screen1:before {
+	content: "\e033";
+}
+.flaticon21-computer12:before {
+	content: "\e034";
+}
+.flaticon21-computer212:before {
+	content: "\e035";
+}
+.flaticon21-computer213:before {
+	content: "\e036";
+}
+.flaticon21-computer214:before {
+	content: "\e037";
+}
+.flaticon21-conference2:before {
+	content: "\e038";
+}
+.flaticon21-cubes5:before {
+	content: "\e039";
+}
+.flaticon21-cup63:before {
+	content: "\e03a";
+}
+.flaticon21-curriculum3:before {
+	content: "\e03b";
+}
+.flaticon21-cut2:before {
+	content: "\e03c";
+}
+.flaticon21-delete110:before {
+	content: "\e03d";
+}
+.flaticon21-diploma19:before {
+	content: "\e03e";
+}
+.flaticon21-diploma20:before {
+	content: "\e03f";
+}
+.flaticon21-diploma21:before {
+	content: "\e040";
+}
+.flaticon21-diploma23:before {
+	content: "\e041";
+}
+.flaticon21-display2:before {
+	content: "\e042";
+}
+.flaticon21-dna17:before {
+	content: "\e043";
+}
+.flaticon21-documents25:before {
+	content: "\e044";
+}
+.flaticon21-down-arrow18:before {
+	content: "\e045";
+}
+.flaticon21-down-arrow19:before {
+	content: "\e046";
+}
+.flaticon21-down-arrow20:before {
+	content: "\e047";
+}
+.flaticon21-drawing18:before {
+	content: "\e048";
+}
+.flaticon21-drawing19:before {
+	content: "\e049";
+}
+.flaticon21-earth-globe3:before {
+	content: "\e04a";
+}
+.flaticon21-email120:before {
+	content: "\e04b";
+}
+.flaticon21-envelope:before {
+	content: "\e04c";
+}
+.flaticon21-exam-results:before {
+	content: "\e04d";
+}
+.flaticon21-eyesight:before {
+	content: "\e04e";
+}
+.flaticon21-file-format:before {
+	content: "\e04f";
+}
+.flaticon21-first:before {
+	content: "\e050";
+}
+.flaticon21-first1:before {
+	content: "\e051";
+}
+.flaticon21-flag2:before {
+	content: "\e052";
+}
+.flaticon21-folder7:before {
+	content: "\e053";
+}
+.flaticon21-fruit53:before {
+	content: "\e054";
+}
+.flaticon21-function1:before {
+	content: "\e055";
+}
+.flaticon21-games:before {
+	content: "\e056";
+}
+.flaticon21-globe34:before {
+	content: "\e057";
+}
+.flaticon21-goverment:before {
+	content: "\e058";
+}
+.flaticon21-graduation47:before {
+	content: "\e059";
+}
+.flaticon21-graduation48:before {
+	content: "\e05a";
+}
+.flaticon21-graduation49:before {
+	content: "\e05b";
+}
+.flaticon21-graduation50:before {
+	content: "\e05c";
+}
+.flaticon21-graduation51:before {
+	content: "\e05d";
+}
+.flaticon21-graduation52:before {
+	content: "\e05e";
+}
+.flaticon21-graduation53:before {
+	content: "\e05f";
+}
+.flaticon21-graph27:before {
+	content: "\e060";
+}
+.flaticon21-graphic42:before {
+	content: "\e061";
+}
+.flaticon21-greek13:before {
+	content: "\e062";
+}
+.flaticon21-hands17:before {
+	content: "\e063";
+}
+.flaticon21-head37:before {
+	content: "\e064";
+}
+.flaticon21-idea1:before {
+	content: "\e065";
+}
+.flaticon21-image7:before {
+	content: "\e066";
+}
+.flaticon21-ipad38:before {
+	content: "\e067";
+}
+.flaticon21-laboratory1:before {
+	content: "\e068";
+}
+.flaticon21-laptop:before {
+	content: "\e069";
+}
+.flaticon21-laptop128:before {
+	content: "\e06a";
+}
+.flaticon21-laptop129:before {
+	content: "\e06b";
+}
+.flaticon21-laptop2:before {
+	content: "\e06c";
+}
+.flaticon21-leaf-outline:before {
+	content: "\e06d";
+}
+.flaticon21-letter109:before {
+	content: "\e06e";
+}
+.flaticon21-letter111:before {
+	content: "\e06f";
+}
+.flaticon21-magnet:before {
+	content: "\e070";
+}
+.flaticon21-map1:before {
+	content: "\e071";
+}
+.flaticon21-math:before {
+	content: "\e072";
+}
+.flaticon21-mathematics12:before {
+	content: "\e073";
+}
+.flaticon21-mathematics13:before {
+	content: "\e074";
+}
+.flaticon21-maths31:before {
+	content: "\e075";
+}
+.flaticon21-measuring-utensils:before {
+	content: "\e076";
+}
+.flaticon21-medical1:before {
+	content: "\e077";
+}
+.flaticon21-molecular1:before {
+	content: "\e078";
+}
+.flaticon21-molecule12:before {
+	content: "\e079";
+}
+.flaticon21-mouse2:before {
+	content: "\e07a";
+}
+.flaticon21-museum1:before {
+	content: "\e07b";
+}
+.flaticon21-music-files:before {
+	content: "\e07c";
+}
+.flaticon21-music-player13:before {
+	content: "\e07d";
+}
+.flaticon21-musical-instrument3:before {
+	content: "\e07e";
+}
+.flaticon21-necktie2:before {
+	content: "\e07f";
+}
+.flaticon21-network45:before {
+	content: "\e080";
+}
+.flaticon21-network46:before {
+	content: "\e081";
+}
+.flaticon21-note:before {
+	content: "\e082";
+}
+.flaticon21-note1:before {
+	content: "\e083";
+}
+.flaticon21-notebook88:before {
+	content: "\e084";
+}
+.flaticon21-office-material:before {
+	content: "\e085";
+}
+.flaticon21-online:before {
+	content: "\e086";
+}
+.flaticon21-open-book:before {
+	content: "\e087";
+}
+.flaticon21-open-book1:before {
+	content: "\e088";
+}
+.flaticon21-origami7:before {
+	content: "\e089";
+}
+.flaticon21-paint93:before {
+	content: "\e08a";
+}
+.flaticon21-paper19:before {
+	content: "\e08b";
+}
+.flaticon21-pen22:before {
+	content: "\e08c";
+}
+.flaticon21-pen81:before {
+	content: "\e08d";
+}
+.flaticon21-physics7:before {
+	content: "\e08e";
+}
+.flaticon21-picture47:before {
+	content: "\e08f";
+}
+.flaticon21-pin7:before {
+	content: "\e090";
+}
+.flaticon21-planet:before {
+	content: "\e091";
+}
+.flaticon21-play4:before {
+	content: "\e092";
+}
+.flaticon21-pointer26:before {
+	content: "\e093";
+}
+.flaticon21-portfolio38:before {
+	content: "\e094";
+}
+.flaticon21-qualification:before {
+	content: "\e095";
+}
+.flaticon21-question-mark1:before {
+	content: "\e096";
+}
+.flaticon21-question59:before {
+	content: "\e097";
+}
+.flaticon21-research1:before {
+	content: "\e098";
+}
+.flaticon21-reunion:before {
+	content: "\e099";
+}
+.flaticon21-rubber1:before {
+	content: "\e09a";
+}
+.flaticon21-rule3:before {
+	content: "\e09b";
+}
+.flaticon21-sand-timer1:before {
+	content: "\e09c";
+}
+.flaticon21-school1:before {
+	content: "\e09d";
+}
+.flaticon21-school84:before {
+	content: "\e09e";
+}
+.flaticon21-science30:before {
+	content: "\e09f";
+}
+.flaticon21-science44:before {
+	content: "\e0a0";
+}
+.flaticon21-screen108:before {
+	content: "\e0a1";
+}
+.flaticon21-searcher1:before {
+	content: "\e0a2";
+}
+.flaticon21-shopping-cart5:before {
+	content: "\e0a3";
+}
+.flaticon21-smartphone:before {
+	content: "\e0a4";
+}
+.flaticon21-smartphone55:before {
+	content: "\e0a5";
+}
+.flaticon21-social32:before {
+	content: "\e0a6";
+}
+.flaticon21-sound-waves1:before {
+	content: "\e0a7";
+}
+.flaticon21-space51:before {
+	content: "\e0a8";
+}
+.flaticon21-speech3:before {
+	content: "\e0a9";
+}
+.flaticon21-stage:before {
+	content: "\e0aa";
+}
+.flaticon21-star2:before {
+	content: "\e0ab";
+}
+.flaticon21-statistic:before {
+	content: "\e0ac";
+}
+.flaticon21-statistics1:before {
+	content: "\e0ad";
+}
+.flaticon21-stethoscope-:before {
+	content: "\e0ae";
+}
+.flaticon21-student:before {
+	content: "\e0af";
+}
+.flaticon21-student1:before {
+	content: "\e0b0";
+}
+.flaticon21-student2:before {
+	content: "\e0b1";
+}
+.flaticon21-tablet-screen1:before {
+	content: "\e0b2";
+}
+.flaticon21-tablet-screen2:before {
+	content: "\e0b3";
+}
+.flaticon21-teacher43:before {
+	content: "\e0b4";
+}
+.flaticon21-teacher44:before {
+	content: "\e0b5";
+}
+.flaticon21-teacher45:before {
+	content: "\e0b6";
+}
+.flaticon21-tick1:before {
+	content: "\e0b7";
+}
+.flaticon21-timer41:before {
+	content: "\e0b8";
+}
+.flaticon21-university:before {
+	content: "\e0b9";
+}
+.flaticon21-university1:before {
+	content: "\e0ba";
+}
+.flaticon21-user36:before {
+	content: "\e0bb";
+}
+.flaticon21-video-play:before {
+	content: "\e0bc";
+}
+.flaticon21-video190:before {
+	content: "\e0bd";
+}
+.flaticon21-video4:before {
+	content: "\e0be";
+}
+.flaticon21-winner17:before {
+	content: "\e0bf";
+}
+.flaticon21-word-document1:before {
+	content: "\e0c0";
+}
+.flaticon21-world2:before {
+	content: "\e0c1";
+}
+.flaticon21-writing-tool:before {
+	content: "\e0c2";
+}
+.flaticon21-writing29:before {
+	content: "\e0c3";
+}
+.flaticon21-writing30:before {
+	content: "\e0c4";
+}

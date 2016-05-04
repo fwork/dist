@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "flaticon12";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon12-"]:before, [class*=" flaticon12-"]:before,
+[class^="flaticon12-"]:after, [class*=" flaticon12-"]:after {   
+	font-family: flaticon12;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon12-5g:before {
+	content: "\e000";
+}
+.flaticon12-cloud228:before {
+	content: "\e001";
+}
+.flaticon12-cloud229:before {
+	content: "\e002";
+}
+.flaticon12-cloud230:before {
+	content: "\e003";
+}
+.flaticon12-cloud231:before {
+	content: "\e004";
+}
+.flaticon12-cloud232:before {
+	content: "\e005";
+}
+.flaticon12-computers7:before {
+	content: "\e006";
+}
+.flaticon12-computing:before {
+	content: "\e007";
+}
+.flaticon12-connected21:before {
+	content: "\e008";
+}
+.flaticon12-increasing14:before {
+	content: "\e009";
+}
+.flaticon12-internet16:before {
+	content: "\e00a";
+}
+.flaticon12-man234:before {
+	content: "\e00b";
+}
+.flaticon12-man235:before {
+	content: "\e00c";
+}
+.flaticon12-man237:before {
+	content: "\e00d";
+}
+.flaticon12-men14:before {
+	content: "\e00e";
+}
+.flaticon12-wireless29:before {
+	content: "\e00f";
+}

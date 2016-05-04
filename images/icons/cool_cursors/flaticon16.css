@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon16";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon16";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon16-"]:before, [class*=" flaticon16-"]:before,
+[class^="flaticon16-"]:after, [class*=" flaticon16-"]:after {   
+  font-family: flaticon16;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon16-add-cursor:before { content: "\f100"; }
+.flaticon16-add-mark:before { content: "\f101"; }
+.flaticon16-add-point:before { content: "\f102"; }
+.flaticon16-align-cursor:before { content: "\f103"; }
+.flaticon16-bleed:before { content: "\f104"; }
+.flaticon16-crop-symbol:before { content: "\f105"; }
+.flaticon16-cursor:before { content: "\f106"; }
+.flaticon16-delete-cursor:before { content: "\f107"; }
+.flaticon16-delete-point:before { content: "\f108"; }
+.flaticon16-diagonal-resize:before { content: "\f109"; }
+.flaticon16-disabled:before { content: "\f10a"; }
+.flaticon16-hand-pointer:before { content: "\f10b"; }
+.flaticon16-hand-pointer-1:before { content: "\f10c"; }
+.flaticon16-help-cursor:before { content: "\f10d"; }
+.flaticon16-horizontal-resize:before { content: "\f10e"; }
+.flaticon16-horizontal-resize-1:before { content: "\f10f"; }
+.flaticon16-loading-cursor:before { content: "\f110"; }
+.flaticon16-loupe:before { content: "\f111"; }
+.flaticon16-move-cursor:before { content: "\f112"; }
+.flaticon16-move-up:before { content: "\f113"; }
+.flaticon16-pen-tool:before { content: "\f114"; }
+.flaticon16-redo:before { content: "\f115"; }
+.flaticon16-rotate:before { content: "\f116"; }
+.flaticon16-text-symbol:before { content: "\f117"; }
+.flaticon16-type-move:before { content: "\f118"; }
+.flaticon16-vertical-resize:before { content: "\f119"; }
+.flaticon16-wait:before { content: "\f11a"; }
+.flaticon16-waiting-cursor:before { content: "\f11b"; }
+.flaticon16-zoom-in:before { content: "\f11c"; }
+.flaticon16-zoom-out:before { content: "\f11d"; }

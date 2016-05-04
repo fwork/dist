@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "flaticon15";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon15-"]:before, [class*=" flaticon15-"]:before,
+[class^="flaticon15-"]:after, [class*=" flaticon15-"]:after {   
+	font-family: flaticon15;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon15-concrete1:before {
+	content: "\e000";
+}
+.flaticon15-concrete:before {
+	content: "\e001";
+}
+.flaticon15-construction13:before {
+	content: "\e002";
+}
+.flaticon15-construction14:before {
+	content: "\e003";
+}
+.flaticon15-construction15:before {
+	content: "\e004";
+}
+.flaticon15-construction16:before {
+	content: "\e005";
+}
+.flaticon15-construction17:before {
+	content: "\e006";
+}
+.flaticon15-excavator1:before {
+	content: "\e007";
+}
+.flaticon15-excavator2:before {
+	content: "\e008";
+}
+.flaticon15-excavator3:before {
+	content: "\e009";
+}
+.flaticon15-excavator4:before {
+	content: "\e00a";
+}
+.flaticon15-forklift2:before {
+	content: "\e00b";
+}
+.flaticon15-roller1:before {
+	content: "\e00c";
+}
+.flaticon15-tractor2:before {
+	content: "\e00d";
+}
+.flaticon15-tractor3:before {
+	content: "\e00e";
+}
+.flaticon15-truck30:before {
+	content: "\e00f";
+}

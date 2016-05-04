@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "flaticon1";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+	font-family: flaticon1;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon1-business191:before {
+	content: "\e000";
+}
+.flaticon1-chat98:before {
+	content: "\e001";
+}
+.flaticon1-cloud318:before {
+	content: "\e002";
+}
+.flaticon1-commands:before {
+	content: "\e003";
+}
+.flaticon1-favourites9:before {
+	content: "\e004";
+}
+.flaticon1-message28:before {
+	content: "\e005";
+}
+.flaticon1-news27:before {
+	content: "\e006";
+}
+.flaticon1-padlock66:before {
+	content: "\e007";
+}
+.flaticon1-play116:before {
+	content: "\e008";
+}
+.flaticon1-searching46:before {
+	content: "\e009";
+}
+.flaticon1-setting3:before {
+	content: "\e00a";
+}
+.flaticon1-situation:before {
+	content: "\e00b";
+}
+.flaticon1-smartphone33:before {
+	content: "\e00c";
+}
+.flaticon1-smartphone34:before {
+	content: "\e00d";
+}
+.flaticon1-text157:before {
+	content: "\e00e";
+}
+.flaticon1-touch19:before {
+	content: "\e00f";
+}
+.flaticon1-touch screen2:before {
+	content: "\e010";
+}
+.flaticon1-volume57:before {
+	content: "\e011";
+}
+.flaticon1-web40:before {
+	content: "\e012";
+}
+.flaticon1-write21:before {
+	content: "\e013";
+}

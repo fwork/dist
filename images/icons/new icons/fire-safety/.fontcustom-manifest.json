@@ -1,0 +1,128 @@
+{
+  "checksum": {
+    "previous": "bd911924d5ad081f691e3436172fef1c81c41a936965c5b1830132d2d151937e",
+    "current": "bd911924d5ad081f691e3436172fef1c81c41a936965c5b1830132d2d151937e"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "alarm": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/alarm.svg"
+    },
+    "electric-socket-on-fire": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/electric-socket-on-fire.svg"
+    },
+    "emergency-bell": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/emergency-bell.svg"
+    },
+    "emergency-exit": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/emergency-exit.svg"
+    },
+    "empty-bucket": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/empty-bucket.svg"
+    },
+    "fire-axe": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-axe.svg"
+    },
+    "fire-extinguisher": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-extinguisher.svg"
+    },
+    "fire-hose": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-hose.svg"
+    },
+    "fire-hydrant": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-hydrant.svg"
+    },
+    "fire-in-the-house": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-in-the-house.svg"
+    },
+    "fire-over-line": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/fire-over-line.svg"
+    },
+    "firefighter-hat": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/firefighter-hat.svg"
+    },
+    "first-aid-kit": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/first-aid-kit.svg"
+    },
+    "gas-mask": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/gas-mask.svg"
+    },
+    "ladder": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/ladder.svg"
+    },
+    "lifeguard-float": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/lifeguard-float.svg"
+    },
+    "match-fire": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/match-fire.svg"
+    },
+    "megaphone-side-view": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/megaphone-side-view.svg"
+    },
+    "no-smoking": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/no-smoking.svg"
+    },
+    "pine-tree-on-fire": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg/pine-tree-on-fire.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111377-fire-safety/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111377-fire-safety/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111377-fire-safety/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111377-fire-safety/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111377-fire-safety/font/flaticon.css"
+  ]
+}

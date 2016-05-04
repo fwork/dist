@@ -1,0 +1,168 @@
+{
+  "checksum": {
+    "previous": "4fe5d167f28eb380ab72ad3c60ed5acc56d4c2a65a336336a027b842c93abd75",
+    "current": "4fe5d167f28eb380ab72ad3c60ed5acc56d4c2a65a336336a027b842c93abd75"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "add-cursor": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/add-cursor.svg"
+    },
+    "add-mark": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/add-mark.svg"
+    },
+    "add-point": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/add-point.svg"
+    },
+    "align-symbol": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/align-symbol.svg"
+    },
+    "bleed": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/bleed.svg"
+    },
+    "crop": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/crop.svg"
+    },
+    "delete-cursor": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/delete-cursor.svg"
+    },
+    "delete-point": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/delete-point.svg"
+    },
+    "diagonal-resize": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/diagonal-resize.svg"
+    },
+    "disabled": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/disabled.svg"
+    },
+    "hand-tool": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/hand-tool.svg"
+    },
+    "help-cursor": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/help-cursor.svg"
+    },
+    "horizontal-resize": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/horizontal-resize.svg"
+    },
+    "loading-cursor": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/loading-cursor.svg"
+    },
+    "mouse-arrow": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/mouse-arrow.svg"
+    },
+    "move-arrows": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/move-arrows.svg"
+    },
+    "move-type": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/move-type.svg"
+    },
+    "move-up": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/move-up.svg"
+    },
+    "pen": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/pen.svg"
+    },
+    "pointer": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/pointer.svg"
+    },
+    "redo-arrow": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/redo-arrow.svg"
+    },
+    "resize": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/resize.svg"
+    },
+    "rotate-option": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/rotate-option.svg"
+    },
+    "search": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/search.svg"
+    },
+    "text": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/text.svg"
+    },
+    "vertical-resize": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/vertical-resize.svg"
+    },
+    "waiting": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/waiting.svg"
+    },
+    "working-cursor": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/working-cursor.svg"
+    },
+    "zoom-in": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/zoom-in.svg"
+    },
+    "zoom-out": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg/zoom-out.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112126-generic-cursor-fill/font/flaticon.css"
+  ]
+}

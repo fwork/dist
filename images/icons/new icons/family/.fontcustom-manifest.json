@@ -1,0 +1,208 @@
+{
+  "checksum": {
+    "previous": "87f1fe12e46ac41842bd3f893bf5a862e6103a5dd486157fe33775ebcb209865",
+    "current": "87f1fe12e46ac41842bd3f893bf5a862e6103a5dd486157fe33775ebcb209865"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111223-family/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111223-family/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111223-family/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111223-family/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "boy-silhouette-playing-soccer": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/boy-silhouette-playing-soccer.svg"
+    },
+    "businessman-with-handbag-standing-silhouette": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/businessman-with-handbag-standing-silhouette.svg"
+    },
+    "couple-in-love": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/couple-in-love.svg"
+    },
+    "couple-portrait-with-frame": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/couple-portrait-with-frame.svg"
+    },
+    "couple-silhouette": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/couple-silhouette.svg"
+    },
+    "couple-with-baby-silhouettes-of-a-family-group": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/couple-with-baby-silhouettes-of-a-family-group.svg"
+    },
+    "elderly-couple": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/elderly-couple.svg"
+    },
+    "elderly-couple-silhouettes-with-canes": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/elderly-couple-silhouettes-with-canes.svg"
+    },
+    "familiar-group-of-two-children-father-and-mother": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/familiar-group-of-two-children-father-and-mother.svg"
+    },
+    "family-group-of-four": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/family-group-of-four.svg"
+    },
+    "family-group-of-three": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/family-group-of-three.svg"
+    },
+    "family-of-six-including-a-baby": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/family-of-six-including-a-baby.svg"
+    },
+    "family-silhouette": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/family-silhouette.svg"
+    },
+    "family-with-balloons": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/family-with-balloons.svg"
+    },
+    "father-daughter-and-mother": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/father-daughter-and-mother.svg"
+    },
+    "father-mother-and-son-silhouette": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/father-mother-and-son-silhouette.svg"
+    },
+    "father-playing-with-son": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/father-playing-with-son.svg"
+    },
+    "father-with-children-raising-arms": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/father-with-children-raising-arms.svg"
+    },
+    "father-with-son-on-shopping-cart": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/father-with-son-on-shopping-cart.svg"
+    },
+    "girl-with-butterflies": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/girl-with-butterflies.svg"
+    },
+    "grandmother-and-grandfather-with-child-familiar-silhouettes": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/grandmother-and-grandfather-with-child-familiar-silhouettes.svg"
+    },
+    "grandson-with-grandfather": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/grandson-with-grandfather.svg"
+    },
+    "happy-shopper-jumping-with-shopping-bags": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/happy-shopper-jumping-with-shopping-bags.svg"
+    },
+    "hugging-couple": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/hugging-couple.svg"
+    },
+    "jumping-man": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/jumping-man.svg"
+    },
+    "man-giving-flowers-present-to-a-woman": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/man-giving-flowers-present-to-a-woman.svg"
+    },
+    "man-silhouette-playing-soccer": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/man-silhouette-playing-soccer.svg"
+    },
+    "mother-and-son-silhouettes": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/mother-and-son-silhouettes.svg"
+    },
+    "mother-and-son-silhouettes-1": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/mother-and-son-silhouettes-1.svg"
+    },
+    "mother-with-baby": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/mother-with-baby.svg"
+    },
+    "mother-with-son-silhouettes": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/mother-with-son-silhouettes.svg"
+    },
+    "mother-with-two-childs": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/mother-with-two-childs.svg"
+    },
+    "person-playing-making-soap-bubbles": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/person-playing-making-soap-bubbles.svg"
+    },
+    "person-riding-a-bike-ecological-transport": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/person-riding-a-bike-ecological-transport.svg"
+    },
+    "person-with-baby": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/person-with-baby.svg"
+    },
+    "two-childs-playing-silhouettes": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/two-childs-playing-silhouettes.svg"
+    },
+    "walking-family-group-of-father-mother-and-daughter": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/walking-family-group-of-father-mother-and-daughter.svg"
+    },
+    "woman-holding-a-heart": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/woman-holding-a-heart.svg"
+    },
+    "woman-silhouette-with-hearts-balloons": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/woman-silhouette-with-hearts-balloons.svg"
+    },
+    "woman-with-balloon": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111223-family/svg/woman-with-balloon.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111223-family/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111223-family/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111223-family/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111223-family/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111223-family/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111223-family/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111223-family/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111223-family/font/flaticon.css"
+  ]
+}

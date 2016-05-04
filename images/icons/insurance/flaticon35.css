@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "flaticon35";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon35-"]:before, [class*=" flaticon35-"]:before,
+[class^="flaticon35-"]:after, [class*=" flaticon35-"]:after {   
+	font-family: flaticon35;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon35-air7:before {
+	content: "\e000";
+}
+.flaticon35-car97:before {
+	content: "\e001";
+}
+.flaticon35-checkered7:before {
+	content: "\e002";
+}
+.flaticon35-familiar17:before {
+	content: "\e003";
+}
+.flaticon35-family26:before {
+	content: "\e004";
+}
+.flaticon35-fire34:before {
+	content: "\e005";
+}
+.flaticon35-glasses23:before {
+	content: "\e006";
+}
+.flaticon35-health3:before {
+	content: "\e007";
+}
+.flaticon35-heart258:before {
+	content: "\e008";
+}
+.flaticon35-home120:before {
+	content: "\e009";
+}
+.flaticon35-home121:before {
+	content: "\e00a";
+}
+.flaticon35-house117:before {
+	content: "\e00b";
+}
+.flaticon35-insurance1:before {
+	content: "\e00c";
+}
+.flaticon35-insurance2:before {
+	content: "\e00d";
+}
+.flaticon35-insurance3:before {
+	content: "\e00e";
+}
+.flaticon35-insurance:before {
+	content: "\e00f";
+}
+.flaticon35-locked17:before {
+	content: "\e010";
+}
+.flaticon35-medical68:before {
+	content: "\e011";
+}
+.flaticon35-moving4:before {
+	content: "\e012";
+}
+.flaticon35-tsunami1:before {
+	content: "\e013";
+}

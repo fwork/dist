@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/04/2016 11:32
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-brazilian-real:before { content: "\f100"; }
+.flaticon-canadian-dollar:before { content: "\f101"; }
+.flaticon-colon:before { content: "\f102"; }
+.flaticon-czech-koruna:before { content: "\f103"; }
+.flaticon-danish-krone:before { content: "\f104"; }
+.flaticon-dollar:before { content: "\f105"; }
+.flaticon-dong:before { content: "\f106"; }
+.flaticon-dram:before { content: "\f107"; }
+.flaticon-euro:before { content: "\f108"; }
+.flaticon-forint:before { content: "\f109"; }
+.flaticon-hong-kong-dollar:before { content: "\f10a"; }
+.flaticon-indonesian-rupiah:before { content: "\f10b"; }
+.flaticon-lev:before { content: "\f10c"; }
+.flaticon-malaysian-ringgit:before { content: "\f10d"; }
+.flaticon-new-shekel:before { content: "\f10e"; }
+.flaticon-new-taiwan-dollar:before { content: "\f10f"; }
+.flaticon-philippine-peso:before { content: "\f110"; }
+.flaticon-pound-sterling:before { content: "\f111"; }
+.flaticon-renminbi:before { content: "\f112"; }
+.flaticon-ruble:before { content: "\f113"; }
+.flaticon-rupee:before { content: "\f114"; }
+.flaticon-rupee-1:before { content: "\f115"; }
+.flaticon-singapore-dollar:before { content: "\f116"; }
+.flaticon-south-african-rand:before { content: "\f117"; }
+.flaticon-south-korean-won:before { content: "\f118"; }
+.flaticon-swiss-franc:before { content: "\f119"; }
+.flaticon-thai-baht:before { content: "\f11a"; }
+.flaticon-tugrik:before { content: "\f11b"; }
+.flaticon-turkish-lira:before { content: "\f11c"; }
+.flaticon-zloty:before { content: "\f11d"; }

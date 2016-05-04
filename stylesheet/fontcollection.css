@@ -1,0 +1,19 @@
+/***********
+font Collection 
+***********/
+
+#@font-face{ 
+#	font-family: 'f20db';
+#	src: url('../fonts/1942-webfont.eot');
+#	src: url('../fonts/1942-webfont.eot?#iefix') format('embedded-opentype'),
+#	     url('../fonts/1942-webfont.woff') format('woff'),
+#	     url('../fonts/1942-webfont.ttf') format('truetype'),
+#	     url('../fonts/1942-webfont.svg#webfont') format('svg');
+#}
+
+#p {
+ #   font-size: 14px;
+  #  line-height: 24px;
+   # font-weight: 300;
+    #font-family: 'f20db', arial1;
+#}

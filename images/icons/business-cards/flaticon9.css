@@ -1,0 +1,58 @@
+@font-face {
+	font-family: "flaticon9";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon9-"]:before, [class*=" flaticon9-"]:before,
+[class^="flaticon9-"]:after, [class*=" flaticon9-"]:after {   
+	font-family: flaticon9;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon9-add100:before {
+	content: "\e000";
+}
+.flaticon9-business124:before {
+	content: "\e001";
+}
+.flaticon9-business129:before {
+	content: "\e002";
+}
+.flaticon9-business130:before {
+	content: "\e003";
+}
+.flaticon9-business131:before {
+	content: "\e004";
+}
+.flaticon9-business133:before {
+	content: "\e005";
+}
+.flaticon9-business134:before {
+	content: "\e006";
+}
+.flaticon9-business137:before {
+	content: "\e007";
+}
+.flaticon9-business138:before {
+	content: "\e008";
+}
+.flaticon9-business139:before {
+	content: "\e009";
+}
+.flaticon9-businessman189:before {
+	content: "\e00a";
+}
+.flaticon9-minus51:before {
+	content: "\e00b";
+}
+.flaticon9-personal19:before {
+	content: "\e00c";
+}
+.flaticon9-personal20:before {
+	content: "\e00d";
+}

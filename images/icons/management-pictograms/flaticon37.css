@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "flaticon37";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon37-"]:before, [class*=" flaticon37-"]:before,
+[class^="flaticon37-"]:after, [class*=" flaticon37-"]:after {   
+	font-family: flaticon37;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon37-analysis6:before {
+	content: "\e000";
+}
+.flaticon37-budget2:before {
+	content: "\e001";
+}
+.flaticon37-businessman280:before {
+	content: "\e002";
+}
+.flaticon37-businessmen35:before {
+	content: "\e003";
+}
+.flaticon37-customer-service2:before {
+	content: "\e004";
+}
+.flaticon37-customer service:before {
+	content: "\e005";
+}
+.flaticon37-magnifying-glass38:before {
+	content: "\e006";
+}
+.flaticon37-management1:before {
+	content: "\e007";
+}
+.flaticon37-management2:before {
+	content: "\e008";
+}
+.flaticon37-management3:before {
+	content: "\e009";
+}
+.flaticon37-management4:before {
+	content: "\e00a";
+}
+.flaticon37-management5:before {
+	content: "\e00b";
+}
+.flaticon37-management:before {
+	content: "\e00c";
+}
+.flaticon37-manager2:before {
+	content: "\e00d";
+}
+.flaticon37-manager3:before {
+	content: "\e00e";
+}
+.flaticon37-pin84:before {
+	content: "\e00f";
+}
+.flaticon37-text5:before {
+	content: "\e010";
+}
+.flaticon37-user193:before {
+	content: "\e011";
+}
+.flaticon37-user194:before {
+	content: "\e012";
+}
+.flaticon37-user195:before {
+	content: "\e013";
+}

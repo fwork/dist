@@ -1,0 +1,61 @@
+@font-face {
+	font-family: "flaticon57";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon57-"]:before, [class*=" flaticon57-"]:before,
+[class^="flaticon57-"]:after, [class*=" flaticon57-"]:after {   
+	font-family: flaticon57;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon57-bag30:before {
+	content: "\e000";
+}
+.flaticon57-boat18:before {
+	content: "\e001";
+}
+.flaticon57-coconut8:before {
+	content: "\e002";
+}
+.flaticon57-compass67:before {
+	content: "\e003";
+}
+.flaticon57-credit70:before {
+	content: "\e004";
+}
+.flaticon57-directions2:before {
+	content: "\e005";
+}
+.flaticon57-earth186:before {
+	content: "\e006";
+}
+.flaticon57-passport2:before {
+	content: "\e007";
+}
+.flaticon57-photo147:before {
+	content: "\e008";
+}
+.flaticon57-place4:before {
+	content: "\e009";
+}
+.flaticon57-plane15:before {
+	content: "\e00a";
+}
+.flaticon57-plate17:before {
+	content: "\e00b";
+}
+.flaticon57-sun70:before {
+	content: "\e00c";
+}
+.flaticon57-taxi14:before {
+	content: "\e00d";
+}
+.flaticon57-wallet17:before {
+	content: "\e00e";
+}

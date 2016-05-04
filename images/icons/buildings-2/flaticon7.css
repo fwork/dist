@@ -1,0 +1,91 @@
+@font-face {
+	font-family: "flaticon7";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon7-"]:before, [class*=" flaticon7-"]:before,
+[class^="flaticon7-"]:after, [class*=" flaticon7-"]:after {   
+	font-family: flaticon7;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon7-big100:before {
+	content: "\e000";
+}
+.flaticon7-big101:before {
+	content: "\e001";
+}
+.flaticon7-building29:before {
+	content: "\e002";
+}
+.flaticon7-building30:before {
+	content: "\e003";
+}
+.flaticon7-building31:before {
+	content: "\e004";
+}
+.flaticon7-building32:before {
+	content: "\e005";
+}
+.flaticon7-building33:before {
+	content: "\e006";
+}
+.flaticon7-building34:before {
+	content: "\e007";
+}
+.flaticon7-building35:before {
+	content: "\e008";
+}
+.flaticon7-building36:before {
+	content: "\e009";
+}
+.flaticon7-building37:before {
+	content: "\e00a";
+}
+.flaticon7-building38:before {
+	content: "\e00b";
+}
+.flaticon7-building39:before {
+	content: "\e00c";
+}
+.flaticon7-building40:before {
+	content: "\e00d";
+}
+.flaticon7-building41:before {
+	content: "\e00e";
+}
+.flaticon7-buildings10:before {
+	content: "\e00f";
+}
+.flaticon7-buildings9:before {
+	content: "\e010";
+}
+.flaticon7-city21:before {
+	content: "\e011";
+}
+.flaticon7-house109:before {
+	content: "\e012";
+}
+.flaticon7-house110:before {
+	content: "\e013";
+}
+.flaticon7-house111:before {
+	content: "\e014";
+}
+.flaticon7-house112:before {
+	content: "\e015";
+}
+.flaticon7-modern13:before {
+	content: "\e016";
+}
+.flaticon7-stepped:before {
+	content: "\e017";
+}
+.flaticon7-urban8:before {
+	content: "\e018";
+}

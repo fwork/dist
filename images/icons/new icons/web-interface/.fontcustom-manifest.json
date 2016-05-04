@@ -1,0 +1,196 @@
+{
+  "checksum": {
+    "previous": "76d2f2514251542bad78ff2a0d34114edc4f409f9d49318338ee42943ed5d0a9",
+    "current": "76d2f2514251542bad78ff2a0d34114edc4f409f9d49318338ee42943ed5d0a9"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "add-button": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/add-button.svg"
+    },
+    "antique-telephone": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/antique-telephone.svg"
+    },
+    "arrow-button-pointing-down-right": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/arrow-button-pointing-down-right.svg"
+    },
+    "bold-check-button": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/bold-check-button.svg"
+    },
+    "check-box": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/check-box.svg"
+    },
+    "check-sign": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/check-sign.svg"
+    },
+    "close-button": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/close-button.svg"
+    },
+    "closed-door-with-glass": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/closed-door-with-glass.svg"
+    },
+    "closed-email": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/closed-email.svg"
+    },
+    "cross-mark": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/cross-mark.svg"
+    },
+    "decreasing-bar-graph": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/decreasing-bar-graph.svg"
+    },
+    "diagonal-up-arrow-button": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/diagonal-up-arrow-button.svg"
+    },
+    "down-arrow-button": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/down-arrow-button.svg"
+    },
+    "download-symbol": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/download-symbol.svg"
+    },
+    "downwards-arrow": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/downwards-arrow.svg"
+    },
+    "email-messages": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/email-messages.svg"
+    },
+    "four-arrows": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/four-arrows.svg"
+    },
+    "four-arrows-facing-each-other": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/four-arrows-facing-each-other.svg"
+    },
+    "google-plus-symbol": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/google-plus-symbol.svg"
+    },
+    "graduation-cap": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/graduation-cap.svg"
+    },
+    "inconsistent-bar-graph": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/inconsistent-bar-graph.svg"
+    },
+    "information-circular-button": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/information-circular-button.svg"
+    },
+    "linkedin-button-logo": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/linkedin-button-logo.svg"
+    },
+    "next-arrow": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/next-arrow.svg"
+    },
+    "no-entry-sign": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/no-entry-sign.svg"
+    },
+    "pinterest-logotype": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/pinterest-logotype.svg"
+    },
+    "speech-bubble-chat": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/speech-bubble-chat.svg"
+    },
+    "square": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/square.svg"
+    },
+    "three-bar-graph": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/three-bar-graph.svg"
+    },
+    "upload-sign": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/upload-sign.svg"
+    },
+    "upper-left-arrow": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/upper-left-arrow.svg"
+    },
+    "upwards-arrow": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/upwards-arrow.svg"
+    },
+    "video-camera": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/video-camera.svg"
+    },
+    "vimeo-logo-button": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/vimeo-logo-button.svg"
+    },
+    "white-arrow-to-the-left": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/white-arrow-to-the-left.svg"
+    },
+    "wordpress-logo-button": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/wordpress-logo-button.svg"
+    },
+    "youtube-web-logo": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg/youtube-web-logo.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/110843-web-interface/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/110843-web-interface/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/110843-web-interface/font",
+      "preview": "/var/www/static/flaticon/zip_packs/110843-web-interface/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/110843-web-interface/font/flaticon.css"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "checksum": {
+    "previous": "ec885a4af18e06127908d8d8c04807218ffc38383e0b6deb10b734d38ac7f9d2",
+    "current": "ec885a4af18e06127908d8d8c04807218ffc38383e0b6deb10b734d38ac7f9d2"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "alien-head": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/alien-head.svg"
+    },
+    "assistant": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/assistant.svg"
+    },
+    "atom": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/atom.svg"
+    },
+    "atom-1": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/atom-1.svg"
+    },
+    "board": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/board.svg"
+    },
+    "brain": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/brain.svg"
+    },
+    "bulb-on-fire": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/bulb-on-fire.svg"
+    },
+    "calculator": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/calculator.svg"
+    },
+    "cardiogram": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/cardiogram.svg"
+    },
+    "compass": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/compass.svg"
+    },
+    "dividers": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/dividers.svg"
+    },
+    "dna": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/dna.svg"
+    },
+    "dna-1": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/dna-1.svg"
+    },
+    "earth-globe": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/earth-globe.svg"
+    },
+    "electron": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/electron.svg"
+    },
+    "flask": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/flask.svg"
+    },
+    "gears": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/gears.svg"
+    },
+    "germs": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/germs.svg"
+    },
+    "glasses": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/glasses.svg"
+    },
+    "gloves": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/gloves.svg"
+    },
+    "light-bulb": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/light-bulb.svg"
+    },
+    "loupe": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/loupe.svg"
+    },
+    "magnet": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/magnet.svg"
+    },
+    "measurer": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/measurer.svg"
+    },
+    "microscope": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/microscope.svg"
+    },
+    "molecule": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/molecule.svg"
+    },
+    "molecule-1": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/molecule-1.svg"
+    },
+    "molecule-2": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/molecule-2.svg"
+    },
+    "monitor-with-stats": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/monitor-with-stats.svg"
+    },
+    "monkey": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/monkey.svg"
+    },
+    "newton-cradle": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/newton-cradle.svg"
+    },
+    "observatory": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/observatory.svg"
+    },
+    "pipette": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/pipette.svg"
+    },
+    "pulse": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/pulse.svg"
+    },
+    "radar": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/radar.svg"
+    },
+    "radiation": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/radiation.svg"
+    },
+    "rat": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/rat.svg"
+    },
+    "report": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/report.svg"
+    },
+    "satellite": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/satellite.svg"
+    },
+    "saturn": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/saturn.svg"
+    },
+    "science-book": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/science-book.svg"
+    },
+    "scientist": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/scientist.svg"
+    },
+    "scientist-1": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/scientist-1.svg"
+    },
+    "scientist-woman": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/scientist-woman.svg"
+    },
+    "syringe": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/syringe.svg"
+    },
+    "telescope": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/telescope.svg"
+    },
+    "thermometer": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/thermometer.svg"
+    },
+    "three-test-tubes": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/three-test-tubes.svg"
+    },
+    "virus": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/virus.svg"
+    },
+    "water": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg/water.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112151-scientifics-study/font/flaticon.css"
+  ]
+}

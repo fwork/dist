@@ -1,0 +1,316 @@
+@font-face {
+	font-family: "flaticon24";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon24-"]:before, [class*=" flaticon24-"]:before,
+[class^="flaticon24-"]:after, [class*=" flaticon24-"]:after {   
+	font-family: flaticon24;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon24-agenda4:before {
+	content: "\e000";
+}
+.flaticon24-agenda5:before {
+	content: "\e001";
+}
+.flaticon24-agenda6:before {
+	content: "\e002";
+}
+.flaticon24-agenda7:before {
+	content: "\e003";
+}
+.flaticon24-airplane115:before {
+	content: "\e004";
+}
+.flaticon24-award58:before {
+	content: "\e005";
+}
+.flaticon24-balance9:before {
+	content: "\e006";
+}
+.flaticon24-bank19:before {
+	content: "\e007";
+}
+.flaticon24-briefcase71:before {
+	content: "\e008";
+}
+.flaticon24-briefcase72:before {
+	content: "\e009";
+}
+.flaticon24-briefcase73:before {
+	content: "\e00a";
+}
+.flaticon24-building104:before {
+	content: "\e00b";
+}
+.flaticon24-calculator1:before {
+	content: "\e00c";
+}
+.flaticon24-calendar189:before {
+	content: "\e00d";
+}
+.flaticon24-certificate1:before {
+	content: "\e00e";
+}
+.flaticon24-chair21:before {
+	content: "\e00f";
+}
+.flaticon24-check-box2:before {
+	content: "\e010";
+}
+.flaticon24-clerk:before {
+	content: "\e011";
+}
+.flaticon24-clip26:before {
+	content: "\e012";
+}
+.flaticon24-clock164:before {
+	content: "\e013";
+}
+.flaticon24-clock165:before {
+	content: "\e014";
+}
+.flaticon24-clock166:before {
+	content: "\e015";
+}
+.flaticon24-coffee131:before {
+	content: "\e016";
+}
+.flaticon24-computer220:before {
+	content: "\e017";
+}
+.flaticon24-computer221:before {
+	content: "\e018";
+}
+.flaticon24-computer-screen5:before {
+	content: "\e019";
+}
+.flaticon24-conference6:before {
+	content: "\e01a";
+}
+.flaticon24-contract:before {
+	content: "\e01b";
+}
+.flaticon24-credit-card28:before {
+	content: "\e01c";
+}
+.flaticon24-customer-service1:before {
+	content: "\e01d";
+}
+.flaticon24-dartboard:before {
+	content: "\e01e";
+}
+.flaticon24-directional-sign11:before {
+	content: "\e01f";
+}
+.flaticon24-document9:before {
+	content: "\e020";
+}
+.flaticon24-dollar-bill1:before {
+	content: "\e021";
+}
+.flaticon24-email126:before {
+	content: "\e022";
+}
+.flaticon24-employee7:before {
+	content: "\e023";
+}
+.flaticon24-folder264:before {
+	content: "\e024";
+}
+.flaticon24-folder265:before {
+	content: "\e025";
+}
+.flaticon24-folders7:before {
+	content: "\e026";
+}
+.flaticon24-glasses32:before {
+	content: "\e027";
+}
+.flaticon24-gold7:before {
+	content: "\e028";
+}
+.flaticon24-graduation-cap2:before {
+	content: "\e029";
+}
+.flaticon24-graphic45:before {
+	content: "\e02a";
+}
+.flaticon24-graphic46:before {
+	content: "\e02b";
+}
+.flaticon24-graphic47:before {
+	content: "\e02c";
+}
+.flaticon24-graphic48:before {
+	content: "\e02d";
+}
+.flaticon24-graphic49:before {
+	content: "\e02e";
+}
+.flaticon24-headset:before {
+	content: "\e02f";
+}
+.flaticon24-hourglass:before {
+	content: "\e030";
+}
+.flaticon24-identification13:before {
+	content: "\e031";
+}
+.flaticon24-key197:before {
+	content: "\e032";
+}
+.flaticon24-letter113:before {
+	content: "\e033";
+}
+.flaticon24-light-bulb8:before {
+	content: "\e034";
+}
+.flaticon24-lock81:before {
+	content: "\e035";
+}
+.flaticon24-magnifying-glass23:before {
+	content: "\e036";
+}
+.flaticon24-magnifying-glass24:before {
+	content: "\e037";
+}
+.flaticon24-map-location1:before {
+	content: "\e038";
+}
+.flaticon24-medal65:before {
+	content: "\e039";
+}
+.flaticon24-money172:before {
+	content: "\e03a";
+}
+.flaticon24-money174:before {
+	content: "\e03b";
+}
+.flaticon24-money175:before {
+	content: "\e03c";
+}
+.flaticon24-money176:before {
+	content: "\e03d";
+}
+.flaticon24-money-bag4:before {
+	content: "\e03e";
+}
+.flaticon24-network48:before {
+	content: "\e03f";
+}
+.flaticon24-network49:before {
+	content: "\e040";
+}
+.flaticon24-newspaper1:before {
+	content: "\e041";
+}
+.flaticon24-notepad19:before {
+	content: "\e042";
+}
+.flaticon24-padlock79:before {
+	content: "\e043";
+}
+.flaticon24-payment7:before {
+	content: "\e044";
+}
+.flaticon24-payment-method3:before {
+	content: "\e045";
+}
+.flaticon24-pen7:before {
+	content: "\e046";
+}
+.flaticon24-percentage2:before {
+	content: "\e047";
+}
+.flaticon24-pie-chart10:before {
+	content: "\e048";
+}
+.flaticon24-pie-chart9:before {
+	content: "\e049";
+}
+.flaticon24-pin74:before {
+	content: "\e04a";
+}
+.flaticon24-power6:before {
+	content: "\e04b";
+}
+.flaticon24-premium1:before {
+	content: "\e04c";
+}
+.flaticon24-price22:before {
+	content: "\e04d";
+}
+.flaticon24-puzzle2:before {
+	content: "\e04e";
+}
+.flaticon24-rocket78:before {
+	content: "\e04f";
+}
+.flaticon24-safe-box:before {
+	content: "\e050";
+}
+.flaticon24-save2:before {
+	content: "\e051";
+}
+.flaticon24-schedule:before {
+	content: "\e052";
+}
+.flaticon24-secretary1:before {
+	content: "\e053";
+}
+.flaticon24-settings7:before {
+	content: "\e054";
+}
+.flaticon24-shield116:before {
+	content: "\e055";
+}
+.flaticon24-smartphone62:before {
+	content: "\e056";
+}
+.flaticon24-sound-box:before {
+	content: "\e057";
+}
+.flaticon24-stopwatch:before {
+	content: "\e058";
+}
+.flaticon24-tablet3:before {
+	content: "\e059";
+}
+.flaticon24-target59:before {
+	content: "\e05a";
+}
+.flaticon24-telephone124:before {
+	content: "\e05b";
+}
+.flaticon24-telephone126:before {
+	content: "\e05c";
+}
+.flaticon24-thinking3:before {
+	content: "\e05d";
+}
+.flaticon24-tie10:before {
+	content: "\e05e";
+}
+.flaticon24-wifi107:before {
+	content: "\e05f";
+}
+.flaticon24-work7:before {
+	content: "\e060";
+}
+.flaticon24-worker27:before {
+	content: "\e061";
+}
+.flaticon24-wrench78:before {
+	content: "\e062";
+}
+.flaticon24-wristwatch1:before {
+	content: "\e063";
+}

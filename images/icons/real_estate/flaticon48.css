@@ -1,0 +1,71 @@
+	/*
+  	flaticon48 icon font: flaticon48
+  	Creation date: 18/03/2016 11:07
+  	*/
+
+@font-face {
+  font-family: "flaticon48";
+  src: url("./flaticon.eot");
+  src: url("./flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./flaticon.woff") format("woff"),
+       url("./flaticon.ttf") format("truetype"),
+       url("./flaticon.svg#flaticon48") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon48";
+    src: url("./flaticon.svg#flaticon48") format("svg");
+  }
+}
+
+[class^="flaticon48-"]:before, [class*=" flaticon48-"]:before,
+[class^="flaticon48-"]:after, [class*=" flaticon48-"]:after {   
+  font-family: flaticon48;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon48-air-conditioner:before { content: "\f100"; }
+.flaticon48-amount:before { content: "\f101"; }
+.flaticon48-bathtub:before { content: "\f102"; }
+.flaticon48-blueprint:before { content: "\f103"; }
+.flaticon48-box:before { content: "\f104"; }
+.flaticon48-briefcase:before { content: "\f105"; }
+.flaticon48-calculator:before { content: "\f106"; }
+.flaticon48-camera:before { content: "\f107"; }
+.flaticon48-check:before { content: "\f108"; }
+.flaticon48-coin:before { content: "\f109"; }
+.flaticon48-contract:before { content: "\f10a"; }
+.flaticon48-directions:before { content: "\f10b"; }
+.flaticon48-duplex:before { content: "\f10c"; }
+.flaticon48-fall:before { content: "\f10d"; }
+.flaticon48-fence:before { content: "\f10e"; }
+.flaticon48-flat:before { content: "\f10f"; }
+.flaticon48-garage:before { content: "\f110"; }
+.flaticon48-hammer:before { content: "\f111"; }
+.flaticon48-home:before { content: "\f112"; }
+.flaticon48-house:before { content: "\f113"; }
+.flaticon48-house-1:before { content: "\f114"; }
+.flaticon48-house-2:before { content: "\f115"; }
+.flaticon48-house-3:before { content: "\f116"; }
+.flaticon48-house-4:before { content: "\f117"; }
+.flaticon48-house-5:before { content: "\f118"; }
+.flaticon48-houses:before { content: "\f119"; }
+.flaticon48-investment:before { content: "\f11a"; }
+.flaticon48-key:before { content: "\f11b"; }
+.flaticon48-location:before { content: "\f11c"; }
+.flaticon48-mansion:before { content: "\f11d"; }
+.flaticon48-mobile-phone:before { content: "\f11e"; }
+.flaticon48-new:before { content: "\f11f"; }
+.flaticon48-prize:before { content: "\f120"; }
+.flaticon48-real-estate:before { content: "\f121"; }
+.flaticon48-real-estate-1:before { content: "\f122"; }
+.flaticon48-rent:before { content: "\f123"; }
+.flaticon48-screen:before { content: "\f124"; }
+.flaticon48-signature:before { content: "\f125"; }
+.flaticon48-sold:before { content: "\f126"; }
+.flaticon48-truck:before { content: "\f127"; }

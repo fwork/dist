@@ -1,0 +1,81 @@
+	/*
+  	flaticon55 icon font: flaticon55
+  	Creation date: 18/03/2016 16:23
+  	*/
+
+@font-face {
+  font-family: "flaticon55";
+  src: url("./flaticon.eot");
+  src: url("./flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./flaticon.woff") format("woff"),
+       url("./flaticon.ttf") format("truetype"),
+       url("./flaticon.svg#flaticon55") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon55";
+    src: url("./flaticon.svg#flaticon") format("svg");
+  }
+}
+
+[class^="flaticon55-"]:before, [class*=" flaticon55-"]:before,
+[class^="flaticon55-"]:after, [class*=" flaticon55-"]:after {   
+  font-family: flaticon55;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon55-apple:before { content: "\f100"; }
+.flaticon55-avocado:before { content: "\f101"; }
+.flaticon55-bag:before { content: "\f102"; }
+.flaticon55-bleach:before { content: "\f103"; }
+.flaticon55-bottle:before { content: "\f104"; }
+.flaticon55-bottle-1:before { content: "\f105"; }
+.flaticon55-bottle-2:before { content: "\f106"; }
+.flaticon55-bottle-3:before { content: "\f107"; }
+.flaticon55-bottle-4:before { content: "\f108"; }
+.flaticon55-bottle-5:before { content: "\f109"; }
+.flaticon55-bottle-6:before { content: "\f10a"; }
+.flaticon55-bread:before { content: "\f10b"; }
+.flaticon55-bread-1:before { content: "\f10c"; }
+.flaticon55-cake:before { content: "\f10d"; }
+.flaticon55-candy:before { content: "\f10e"; }
+.flaticon55-carrot:before { content: "\f10f"; }
+.flaticon55-cherries:before { content: "\f110"; }
+.flaticon55-chicken:before { content: "\f111"; }
+.flaticon55-chips:before { content: "\f112"; }
+.flaticon55-cleaning-spray:before { content: "\f113"; }
+.flaticon55-cleaning-spray-1:before { content: "\f114"; }
+.flaticon55-coffee-beans:before { content: "\f115"; }
+.flaticon55-cupcake:before { content: "\f116"; }
+.flaticon55-egg:before { content: "\f117"; }
+.flaticon55-fish:before { content: "\f118"; }
+.flaticon55-fried-egg:before { content: "\f119"; }
+.flaticon55-grapes:before { content: "\f11a"; }
+.flaticon55-hamburger:before { content: "\f11b"; }
+.flaticon55-hot-dog:before { content: "\f11c"; }
+.flaticon55-ice-cream:before { content: "\f11d"; }
+.flaticon55-ice-cream-1:before { content: "\f11e"; }
+.flaticon55-ice-cream-2:before { content: "\f11f"; }
+.flaticon55-ice-cream-3:before { content: "\f120"; }
+.flaticon55-jar:before { content: "\f121"; }
+.flaticon55-leaves:before { content: "\f122"; }
+.flaticon55-lollipop:before { content: "\f123"; }
+.flaticon55-mushroom:before { content: "\f124"; }
+.flaticon55-olives:before { content: "\f125"; }
+.flaticon55-paper-bag:before { content: "\f126"; }
+.flaticon55-paper-cup:before { content: "\f127"; }
+.flaticon55-paper-cup-1:before { content: "\f128"; }
+.flaticon55-pear:before { content: "\f129"; }
+.flaticon55-sausage:before { content: "\f12a"; }
+.flaticon55-shopping-basket:before { content: "\f12b"; }
+.flaticon55-shopping-cart:before { content: "\f12c"; }
+.flaticon55-soap:before { content: "\f12d"; }
+.flaticon55-soda:before { content: "\f12e"; }
+.flaticon55-spray-bottle:before { content: "\f12f"; }
+.flaticon55-sushi:before { content: "\f130"; }
+.flaticon55-wine-glass:before { content: "\f131"; }

@@ -1,0 +1,81 @@
+	/*
+  	flaticon49 icon font: flaticon49
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon49";
+  src: url("./flaticon.eot");
+  src: url("./flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./flaticon.woff") format("woff"),
+       url("./flaticon.ttf") format("truetype"),
+       url("./flaticon.svg#flaticon49") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon49";
+    src: url("./flaticon.svg#flaticon49") format("svg");
+  }
+}
+
+[class^="flaticon49-"]:before, [class*=" flaticon49-"]:before,
+[class^="flaticon49-"]:after, [class*=" flaticon49-"]:after {   
+  font-family: flaticon49;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon49-alien-head:before { content: "\f100"; }
+.flaticon49-assistant:before { content: "\f101"; }
+.flaticon49-atom:before { content: "\f102"; }
+.flaticon49-atom-1:before { content: "\f103"; }
+.flaticon49-board:before { content: "\f104"; }
+.flaticon49-brain:before { content: "\f105"; }
+.flaticon49-bulb-on-fire:before { content: "\f106"; }
+.flaticon49-calculator:before { content: "\f107"; }
+.flaticon49-cardiogram:before { content: "\f108"; }
+.flaticon49-compass:before { content: "\f109"; }
+.flaticon49-dividers:before { content: "\f10a"; }
+.flaticon49-dna:before { content: "\f10b"; }
+.flaticon49-dna-1:before { content: "\f10c"; }
+.flaticon49-earth-globe:before { content: "\f10d"; }
+.flaticon49-electron:before { content: "\f10e"; }
+.flaticon49-flask:before { content: "\f10f"; }
+.flaticon49-gears:before { content: "\f110"; }
+.flaticon49-germs:before { content: "\f111"; }
+.flaticon49-glasses:before { content: "\f112"; }
+.flaticon49-gloves:before { content: "\f113"; }
+.flaticon49-light-bulb:before { content: "\f114"; }
+.flaticon49-loupe:before { content: "\f115"; }
+.flaticon49-magnet:before { content: "\f116"; }
+.flaticon49-measurer:before { content: "\f117"; }
+.flaticon49-microscope:before { content: "\f118"; }
+.flaticon49-molecule:before { content: "\f119"; }
+.flaticon49-molecule-1:before { content: "\f11a"; }
+.flaticon49-molecule-2:before { content: "\f11b"; }
+.flaticon49-monitor-with-stats:before { content: "\f11c"; }
+.flaticon49-monkey:before { content: "\f11d"; }
+.flaticon49-newton-cradle:before { content: "\f11e"; }
+.flaticon49-observatory:before { content: "\f11f"; }
+.flaticon49-pipette:before { content: "\f120"; }
+.flaticon49-pulse:before { content: "\f121"; }
+.flaticon49-radar:before { content: "\f122"; }
+.flaticon49-radiation:before { content: "\f123"; }
+.flaticon49-rat:before { content: "\f124"; }
+.flaticon49-report:before { content: "\f125"; }
+.flaticon49-satellite:before { content: "\f126"; }
+.flaticon49-saturn:before { content: "\f127"; }
+.flaticon49-science-book:before { content: "\f128"; }
+.flaticon49-scientist:before { content: "\f129"; }
+.flaticon49-scientist-1:before { content: "\f12a"; }
+.flaticon49-scientist-woman:before { content: "\f12b"; }
+.flaticon49-syringe:before { content: "\f12c"; }
+.flaticon49-telescope:before { content: "\f12d"; }
+.flaticon49-thermometer:before { content: "\f12e"; }
+.flaticon49-three-test-tubes:before { content: "\f12f"; }
+.flaticon49-virus:before { content: "\f130"; }
+.flaticon49-water:before { content: "\f131"; }

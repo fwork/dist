@@ -1,0 +1,23 @@
+ErrorDocument 400 /error_page1/400.shtml
+ErrorDocument 401 /error_page1/401.shtml
+ErrorDocument 403 /error_page1/403.shtml
+ErrorDocument 404 /error_page1/404.shtml
+ErrorDocument 405 /error_page1/405.shtml
+ErrorDocument 406 /error_page1/406.shtml
+ErrorDocument 408 /error_page1/408.shtml
+ErrorDocument 500 /error_page1/500.shtml
+ErrorDocument 501 /error_page1/501.shtml
+ErrorDocument 502 /error_page1/502.shtml
+ErrorDocument 503 /error_page1/503.shtml
+ErrorDocument 504 /error_page1/504.shtml
+
+ 
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?datamgt.nci.org.au [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ - [NC,F,L]
+
+<Files ~ "\.txt">
+  Order allow,deny
+  Deny from all
+</Files>

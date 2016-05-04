@@ -1,0 +1,176 @@
+{
+  "checksum": {
+    "previous": "fe8904fc391018d2e0679a22fe027806e38dd85336382cc2f35e6eb2b74584bc",
+    "current": "fe8904fc391018d2e0679a22fe027806e38dd85336382cc2f35e6eb2b74584bc"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "24-hour-signal": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/24-hour-signal.svg"
+    },
+    "atlas-book": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/atlas-book.svg"
+    },
+    "bottle-and-ice-bucket": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/bottle-and-ice-bucket.svg"
+    },
+    "breakfast-time": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/breakfast-time.svg"
+    },
+    "chef-hat": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/chef-hat.svg"
+    },
+    "computer-screen-tool": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/computer-screen-tool.svg"
+    },
+    "cooker-and-a-bell": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/cooker-and-a-bell.svg"
+    },
+    "door-hang-sign": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/door-hang-sign.svg"
+    },
+    "electric-iron": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/electric-iron.svg"
+    },
+    "geolocate": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/geolocate.svg"
+    },
+    "gift-box-with-white-ribbon": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/gift-box-with-white-ribbon.svg"
+    },
+    "gym-dumbbell": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/gym-dumbbell.svg"
+    },
+    "half-wine-glass": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/half-wine-glass.svg"
+    },
+    "hanger-with-towel": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/hanger-with-towel.svg"
+    },
+    "hotel-bell": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/hotel-bell.svg"
+    },
+    "hotel-bellman": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/hotel-bellman.svg"
+    },
+    "hotel-building": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/hotel-building.svg"
+    },
+    "hotel-trolley-with-luggage-inside": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/hotel-trolley-with-luggage-inside.svg"
+    },
+    "laptop-computer": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/laptop-computer.svg"
+    },
+    "laundry-machine": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/laundry-machine.svg"
+    },
+    "person-on-wheelchair": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/person-on-wheelchair.svg"
+    },
+    "plastic-cards": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/plastic-cards.svg"
+    },
+    "pool-stairs": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/pool-stairs.svg"
+    },
+    "restaurant-utensils-crossed": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/restaurant-utensils-crossed.svg"
+    },
+    "school-trolley-bag": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/school-trolley-bag.svg"
+    },
+    "scissors-and-comb": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/scissors-and-comb.svg"
+    },
+    "security-safe-box": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/security-safe-box.svg"
+    },
+    "sleeping-bed": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/sleeping-bed.svg"
+    },
+    "squared-hand-bag": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/squared-hand-bag.svg"
+    },
+    "telephone-with-wire": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/telephone-with-wire.svg"
+    },
+    "travel-luggage-with-stickers": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/travel-luggage-with-stickers.svg"
+    },
+    "tub-with-two-holes": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/110853-hotel/svg/tub-with-two-holes.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/110853-hotel/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/110853-hotel/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/110853-hotel/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/110853-hotel/font",
+      "preview": "/var/www/static/flaticon/zip_packs/110853-hotel/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/110853-hotel/font/flaticon.css"
+  ]
+}

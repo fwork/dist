@@ -1,0 +1,61 @@
+	/*
+  	flaticon14 icon font: flaticon14
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon14";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon14";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon14-"]:before, [class*=" flaticon14-"]:before,
+[class^="flaticon14-"]:after, [class*=" flaticon14-"]:after {   
+  font-family: flaticon14;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon14-alarm:before { content: "\f100"; }
+.flaticon14-bomb:before { content: "\f101"; }
+.flaticon14-computer-secure:before { content: "\f102"; }
+.flaticon14-hacked-computer:before { content: "\f103"; }
+.flaticon14-infected-file:before { content: "\f104"; }
+.flaticon14-infected-folder:before { content: "\f105"; }
+.flaticon14-key:before { content: "\f106"; }
+.flaticon14-life-preserver:before { content: "\f107"; }
+.flaticon14-locked-email:before { content: "\f108"; }
+.flaticon14-magnifying-glass:before { content: "\f109"; }
+.flaticon14-open-padlock:before { content: "\f10a"; }
+.flaticon14-password:before { content: "\f10b"; }
+.flaticon14-secure-cloud:before { content: "\f10c"; }
+.flaticon14-secure-download:before { content: "\f10d"; }
+.flaticon14-secure-file:before { content: "\f10e"; }
+.flaticon14-secure-pendrive:before { content: "\f10f"; }
+.flaticon14-secure-smartphone:before { content: "\f110"; }
+.flaticon14-security-camera:before { content: "\f111"; }
+.flaticon14-security-code:before { content: "\f112"; }
+.flaticon14-security-code-1:before { content: "\f113"; }
+.flaticon14-shield:before { content: "\f114"; }
+.flaticon14-spam:before { content: "\f115"; }
+.flaticon14-spy:before { content: "\f116"; }
+.flaticon14-spy-1:before { content: "\f117"; }
+.flaticon14-spy-alarm-on-laptop:before { content: "\f118"; }
+.flaticon14-strongbox:before { content: "\f119"; }
+.flaticon14-trojan:before { content: "\f11a"; }
+.flaticon14-virus:before { content: "\f11b"; }
+.flaticon14-wall:before { content: "\f11c"; }
+.flaticon14-warning:before { content: "\f11d"; }

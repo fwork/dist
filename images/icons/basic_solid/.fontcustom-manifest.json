@@ -1,0 +1,464 @@
+{
+  "checksum": {
+    "previous": "633331c918bd7139557619e0a9d473326eb7ef8c3e3f3062d2d27c1af0cdfc41",
+    "current": "633331c918bd7139557619e0a9d473326eb7ef8c3e3f3062d2d27c1af0cdfc41"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/add.svg"
+    },
+    "add-contact": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/add-contact.svg"
+    },
+    "android": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/android.svg"
+    },
+    "bars": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/bars.svg"
+    },
+    "bars-1": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/bars-1.svg"
+    },
+    "battery": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/battery.svg"
+    },
+    "battery-1": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/battery-1.svg"
+    },
+    "briefcase": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/briefcase.svg"
+    },
+    "calendar": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/calendar.svg"
+    },
+    "cancel": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/cancel.svg"
+    },
+    "circular-clock": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/circular-clock.svg"
+    },
+    "clock": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/clock.svg"
+    },
+    "cloud": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/cloud.svg"
+    },
+    "coins": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/coins.svg"
+    },
+    "copy": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/copy.svg"
+    },
+    "copy-1": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/copy-1.svg"
+    },
+    "down-arrow": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/down-arrow.svg"
+    },
+    "download": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/download.svg"
+    },
+    "edit": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/edit.svg"
+    },
+    "expand": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/expand.svg"
+    },
+    "eye": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/eye.svg"
+    },
+    "facebook": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/facebook.svg"
+    },
+    "fast-forward": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/fast-forward.svg"
+    },
+    "file": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/file.svg"
+    },
+    "flag": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/flag.svg"
+    },
+    "forbidden": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/forbidden.svg"
+    },
+    "full-screen": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/full-screen.svg"
+    },
+    "game-controller": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/game-controller.svg"
+    },
+    "garbage": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/garbage.svg"
+    },
+    "google-plus": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/google-plus.svg"
+    },
+    "headphones": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/headphones.svg"
+    },
+    "heart": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/heart.svg"
+    },
+    "home": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/home.svg"
+    },
+    "information-button": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/information-button.svg"
+    },
+    "internet": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/internet.svg"
+    },
+    "light-bulb": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/light-bulb.svg"
+    },
+    "like": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/like.svg"
+    },
+    "link": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/link.svg"
+    },
+    "loading": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/loading.svg"
+    },
+    "location": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/location.svg"
+    },
+    "mail": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/mail.svg"
+    },
+    "menu": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/menu.svg"
+    },
+    "menu-1": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/menu-1.svg"
+    },
+    "messages": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/messages.svg"
+    },
+    "microphone": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/microphone.svg"
+    },
+    "money-bill": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/money-bill.svg"
+    },
+    "musical-note": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/musical-note.svg"
+    },
+    "neutral-face": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/neutral-face.svg"
+    },
+    "next-track-button": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/next-track-button.svg"
+    },
+    "notifications": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/notifications.svg"
+    },
+    "open-folder": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/open-folder.svg"
+    },
+    "padlock": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/padlock.svg"
+    },
+    "paper-clip": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/paper-clip.svg"
+    },
+    "paste": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/paste.svg"
+    },
+    "pause-button": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/pause-button.svg"
+    },
+    "photo-camera": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/photo-camera.svg"
+    },
+    "picture-gallery": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/picture-gallery.svg"
+    },
+    "pie-chart": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/pie-chart.svg"
+    },
+    "pinterest": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/pinterest.svg"
+    },
+    "play-button": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/play-button.svg"
+    },
+    "power": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/power.svg"
+    },
+    "previous-track": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/previous-track.svg"
+    },
+    "print": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/print.svg"
+    },
+    "profile": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/profile.svg"
+    },
+    "remove": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/remove.svg"
+    },
+    "remove-contact": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/remove-contact.svg"
+    },
+    "rewind": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/rewind.svg"
+    },
+    "rotate": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/rotate.svg"
+    },
+    "rotate-1": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/rotate-1.svg"
+    },
+    "rss": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/rss.svg"
+    },
+    "sad": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/sad.svg"
+    },
+    "save": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/save.svg"
+    },
+    "scissors": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/scissors.svg"
+    },
+    "search": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/search.svg"
+    },
+    "settings": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/settings.svg"
+    },
+    "settings-1": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/settings-1.svg"
+    },
+    "share": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/share.svg"
+    },
+    "shopping-bag": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/shopping-bag.svg"
+    },
+    "shopping-cart": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/shopping-cart.svg"
+    },
+    "smile": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/smile.svg"
+    },
+    "smiley": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/smiley.svg"
+    },
+    "snowflake": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/snowflake.svg"
+    },
+    "speaker": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/speaker.svg"
+    },
+    "squares": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/squares.svg"
+    },
+    "statistics": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/statistics.svg"
+    },
+    "statistics-1": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/statistics-1.svg"
+    },
+    "stop": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/stop.svg"
+    },
+    "sun": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/sun.svg"
+    },
+    "tag": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/tag.svg"
+    },
+    "telephone": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/telephone.svg"
+    },
+    "thumb-down": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/thumb-down.svg"
+    },
+    "tick": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/tick.svg"
+    },
+    "trophy": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/trophy.svg"
+    },
+    "twiter": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/twiter.svg"
+    },
+    "umbrella": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/umbrella.svg"
+    },
+    "unlink": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/unlink.svg"
+    },
+    "unlock": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/unlock.svg"
+    },
+    "up-arrow": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/up-arrow.svg"
+    },
+    "upload": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/upload.svg"
+    },
+    "video-camera": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/video-camera.svg"
+    },
+    "water-drop": {
+      "codepoint": 61796,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/water-drop.svg"
+    },
+    "wifi": {
+      "codepoint": 61797,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/wifi.svg"
+    },
+    "zoom-in": {
+      "codepoint": 61798,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/zoom-in.svg"
+    },
+    "zoom-out": {
+      "codepoint": 61799,
+      "source": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg/zoom-out.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112145-basic-solid-ui/font/flaticon.css"
+  ]
+}

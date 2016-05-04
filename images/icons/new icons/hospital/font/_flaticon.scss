@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/02/2016 14:48
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-ambiental-mercury-thermometer:before { content: "\f100"; }
+.flaticon-ambulance-silhouette:before { content: "\f101"; }
+.flaticon-blood-perfusion:before { content: "\f102"; }
+.flaticon-cardiogram-in-a-heart:before { content: "\f103"; }
+.flaticon-cardiologist-stethoscope:before { content: "\f104"; }
+.flaticon-downstairs-sign:before { content: "\f105"; }
+.flaticon-female-doctor:before { content: "\f106"; }
+.flaticon-flask-with-medicine:before { content: "\f107"; }
+.flaticon-health-clinic-sign:before { content: "\f108"; }
+.flaticon-hospital-apple-silhouette:before { content: "\f109"; }
+.flaticon-hospital-band-aid:before { content: "\f10a"; }
+.flaticon-hospital-bandage:before { content: "\f10b"; }
+.flaticon-hospital-bed:before { content: "\f10c"; }
+.flaticon-hospital-bed-silhouette:before { content: "\f10d"; }
+.flaticon-hospital-building:before { content: "\f10e"; }
+.flaticon-hospital-garbage-can:before { content: "\f10f"; }
+.flaticon-hospital-leaflet:before { content: "\f110"; }
+.flaticon-hospital-location:before { content: "\f111"; }
+.flaticon-hospital-phone:before { content: "\f112"; }
+.flaticon-hospital-pipette:before { content: "\f113"; }
+.flaticon-hospital-secretary:before { content: "\f114"; }
+.flaticon-hospital-sign:before { content: "\f115"; }
+.flaticon-hospital-sign-silhouette:before { content: "\f116"; }
+.flaticon-hospital-supplies:before { content: "\f117"; }
+.flaticon-hospital-test-tube:before { content: "\f118"; }
+.flaticon-hospitals-computer:before { content: "\f119"; }
+.flaticon-hospitals-lift:before { content: "\f11a"; }
+.flaticon-icu-monitor:before { content: "\f11b"; }
+.flaticon-injection-needle:before { content: "\f11c"; }
+.flaticon-medical-chart:before { content: "\f11d"; }
+.flaticon-medical-equipment:before { content: "\f11e"; }
+.flaticon-medical-kit:before { content: "\f11f"; }
+.flaticon-medication-bottles:before { content: "\f120"; }
+.flaticon-medicine-bottle:before { content: "\f121"; }
+.flaticon-medicine-bottle-1:before { content: "\f122"; }
+.flaticon-medicine-pot:before { content: "\f123"; }
+.flaticon-mercury-thermometer:before { content: "\f124"; }
+.flaticon-microscope-silhouette:before { content: "\f125"; }
+.flaticon-nurse-head:before { content: "\f126"; }
+.flaticon-nurse-uniform:before { content: "\f127"; }
+.flaticon-patient-in-a-stretcher:before { content: "\f128"; }
+.flaticon-pill-and-tablet:before { content: "\f129"; }
+.flaticon-scalpel:before { content: "\f12a"; }
+.flaticon-smartphone-sign-in-hospital:before { content: "\f12b"; }
+.flaticon-stairs-sign-silhouette:before { content: "\f12c"; }
+.flaticon-steel-forceps:before { content: "\f12d"; }
+.flaticon-surgeon-icon:before { content: "\f12e"; }
+.flaticon-syrup:before { content: "\f12f"; }
+.flaticon-tablets-outline:before { content: "\f130"; }
+.flaticon-x-ray-sign:before { content: "\f131"; }
+    
+    $font-Flaticon-ambiental-mercury-thermometer: "\f100";
+    $font-Flaticon-ambulance-silhouette: "\f101";
+    $font-Flaticon-blood-perfusion: "\f102";
+    $font-Flaticon-cardiogram-in-a-heart: "\f103";
+    $font-Flaticon-cardiologist-stethoscope: "\f104";
+    $font-Flaticon-downstairs-sign: "\f105";
+    $font-Flaticon-female-doctor: "\f106";
+    $font-Flaticon-flask-with-medicine: "\f107";
+    $font-Flaticon-health-clinic-sign: "\f108";
+    $font-Flaticon-hospital-apple-silhouette: "\f109";
+    $font-Flaticon-hospital-band-aid: "\f10a";
+    $font-Flaticon-hospital-bandage: "\f10b";
+    $font-Flaticon-hospital-bed: "\f10c";
+    $font-Flaticon-hospital-bed-silhouette: "\f10d";
+    $font-Flaticon-hospital-building: "\f10e";
+    $font-Flaticon-hospital-garbage-can: "\f10f";
+    $font-Flaticon-hospital-leaflet: "\f110";
+    $font-Flaticon-hospital-location: "\f111";
+    $font-Flaticon-hospital-phone: "\f112";
+    $font-Flaticon-hospital-pipette: "\f113";
+    $font-Flaticon-hospital-secretary: "\f114";
+    $font-Flaticon-hospital-sign: "\f115";
+    $font-Flaticon-hospital-sign-silhouette: "\f116";
+    $font-Flaticon-hospital-supplies: "\f117";
+    $font-Flaticon-hospital-test-tube: "\f118";
+    $font-Flaticon-hospitals-computer: "\f119";
+    $font-Flaticon-hospitals-lift: "\f11a";
+    $font-Flaticon-icu-monitor: "\f11b";
+    $font-Flaticon-injection-needle: "\f11c";
+    $font-Flaticon-medical-chart: "\f11d";
+    $font-Flaticon-medical-equipment: "\f11e";
+    $font-Flaticon-medical-kit: "\f11f";
+    $font-Flaticon-medication-bottles: "\f120";
+    $font-Flaticon-medicine-bottle: "\f121";
+    $font-Flaticon-medicine-bottle-1: "\f122";
+    $font-Flaticon-medicine-pot: "\f123";
+    $font-Flaticon-mercury-thermometer: "\f124";
+    $font-Flaticon-microscope-silhouette: "\f125";
+    $font-Flaticon-nurse-head: "\f126";
+    $font-Flaticon-nurse-uniform: "\f127";
+    $font-Flaticon-patient-in-a-stretcher: "\f128";
+    $font-Flaticon-pill-and-tablet: "\f129";
+    $font-Flaticon-scalpel: "\f12a";
+    $font-Flaticon-smartphone-sign-in-hospital: "\f12b";
+    $font-Flaticon-stairs-sign-silhouette: "\f12c";
+    $font-Flaticon-steel-forceps: "\f12d";
+    $font-Flaticon-surgeon-icon: "\f12e";
+    $font-Flaticon-syrup: "\f12f";
+    $font-Flaticon-tablets-outline: "\f130";
+    $font-Flaticon-x-ray-sign: "\f131";

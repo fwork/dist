@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "flaticon38";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon38-"]:before, [class*=" flaticon38-"]:before,
+[class^="flaticon38-"]:after, [class*=" flaticon38-"]:after {   
+	font-family: flaticon38;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon38-camera131:before {
+	content: "\e000";
+}
+.flaticon38-charging1:before {
+	content: "\e001";
+}
+.flaticon38-clapperboard6:before {
+	content: "\e002";
+}
+.flaticon38-cloud381:before {
+	content: "\e003";
+}
+.flaticon38-control16:before {
+	content: "\e004";
+}
+.flaticon38-dvd9:before {
+	content: "\e005";
+}
+.flaticon38-globe39:before {
+	content: "\e006";
+}
+.flaticon38-headphones50:before {
+	content: "\e007";
+}
+.flaticon38-image6:before {
+	content: "\e008";
+}
+.flaticon38-microphone110:before {
+	content: "\e009";
+}
+.flaticon38-microphone111:before {
+	content: "\e00a";
+}
+.flaticon38-monitor2:before {
+	content: "\e00b";
+}
+.flaticon38-newspaper20:before {
+	content: "\e00c";
+}
+.flaticon38-play-button4:before {
+	content: "\e00d";
+}
+.flaticon38-smartphone66:before {
+	content: "\e00e";
+}
+.flaticon38-sound waves:before {
+	content: "\e00f";
+}
+.flaticon38-speaker126:before {
+	content: "\e010";
+}
+.flaticon38-technology7:before {
+	content: "\e011";
+}
+.flaticon38-video11:before {
+	content: "\e012";
+}
+.flaticon38-webcam:before {
+	content: "\e013";
+}

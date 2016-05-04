@@ -1,0 +1,112 @@
+{
+  "checksum": {
+    "previous": "1214957185613f14cb3ebd641002e7746be210a977438733065f2e07f1c288d4",
+    "current": "1214957185613f14cb3ebd641002e7746be210a977438733065f2e07f1c288d4"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "bucket-with-bubbles": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/bucket-with-bubbles.svg"
+    },
+    "clean-floor": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/clean-floor.svg"
+    },
+    "clean-window-glass": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/clean-window-glass.svg"
+    },
+    "clothes-peg": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/clothes-peg.svg"
+    },
+    "cooker-woman": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/cooker-woman.svg"
+    },
+    "dishwashing-liquid-and-clean-plate": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/dishwashing-liquid-and-clean-plate.svg"
+    },
+    "dishwashing-liquid-bottle": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/dishwashing-liquid-bottle.svg"
+    },
+    "duster": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/duster.svg"
+    },
+    "flower-top-view": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/flower-top-view.svg"
+    },
+    "frontal-oven": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/frontal-oven.svg"
+    },
+    "garden-leaf": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/garden-leaf.svg"
+    },
+    "hanger-with-clothes": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/hanger-with-clothes.svg"
+    },
+    "ironing-machine": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/ironing-machine.svg"
+    },
+    "kitchen-gloves": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/kitchen-gloves.svg"
+    },
+    "rectangular-cleaning-sponge": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/rectangular-cleaning-sponge.svg"
+    },
+    "vintage-washing-machine": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg/vintage-washing-machine.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111102-cleaning/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111102-cleaning/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111102-cleaning/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111102-cleaning/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111102-cleaning/font/flaticon.css"
+  ]
+}

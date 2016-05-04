@@ -1,0 +1,248 @@
+{
+  "checksum": {
+    "previous": "242db90f2a8af8bfd96d21b426637fe7f47f71102a27d9a6ba96e426e1eef6cf",
+    "current": "242db90f2a8af8bfd96d21b426637fe7f47f71102a27d9a6ba96e426e1eef6cf"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "accordion": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/accordion.svg"
+    },
+    "acoustic-guitar": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/acoustic-guitar.svg"
+    },
+    "balalaika": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/balalaika.svg"
+    },
+    "banjo": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/banjo.svg"
+    },
+    "cassete": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/cassete.svg"
+    },
+    "cd-in-box": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/cd-in-box.svg"
+    },
+    "cloud-cd": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/cloud-cd.svg"
+    },
+    "cymbals": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/cymbals.svg"
+    },
+    "disc-jockey": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/disc-jockey.svg"
+    },
+    "drum": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/drum.svg"
+    },
+    "drum-set": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/drum-set.svg"
+    },
+    "earphones": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/earphones.svg"
+    },
+    "gramophone": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/gramophone.svg"
+    },
+    "harp": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/harp.svg"
+    },
+    "headphones": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/headphones.svg"
+    },
+    "high-volume": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/high-volume.svg"
+    },
+    "ipod": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/ipod.svg"
+    },
+    "jack": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/jack.svg"
+    },
+    "keyboard": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/keyboard.svg"
+    },
+    "klaxon": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/klaxon.svg"
+    },
+    "metronome": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/metronome.svg"
+    },
+    "microphone": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/microphone.svg"
+    },
+    "microphone-1": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/microphone-1.svg"
+    },
+    "music-file": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/music-file.svg"
+    },
+    "musical-note": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/musical-note.svg"
+    },
+    "next-button": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/next-button.svg"
+    },
+    "pause-button": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/pause-button.svg"
+    },
+    "piano": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/piano.svg"
+    },
+    "play-button": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/play-button.svg"
+    },
+    "playlist": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/playlist.svg"
+    },
+    "quaver": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/quaver.svg"
+    },
+    "radiocassete": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/radiocassete.svg"
+    },
+    "recorder": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/recorder.svg"
+    },
+    "saxophone": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/saxophone.svg"
+    },
+    "settings": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/settings.svg"
+    },
+    "sound-waves": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/sound-waves.svg"
+    },
+    "speaker": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/speaker.svg"
+    },
+    "speaker-1": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/speaker-1.svg"
+    },
+    "stop-button": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/stop-button.svg"
+    },
+    "synthesizer": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/synthesizer.svg"
+    },
+    "tambourine": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/tambourine.svg"
+    },
+    "triangle": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/triangle.svg"
+    },
+    "trumpet": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/trumpet.svg"
+    },
+    "tuning-fork": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/tuning-fork.svg"
+    },
+    "vinyl": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/vinyl.svg"
+    },
+    "violin": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/violin.svg"
+    },
+    "volume-down": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/volume-down.svg"
+    },
+    "volume-off": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/volume-off.svg"
+    },
+    "volume-up": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/volume-up.svg"
+    },
+    "xylophone": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg/xylophone.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112134-music-control-panel/font/flaticon.css"
+  ]
+}

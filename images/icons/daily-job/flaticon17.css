@@ -1,0 +1,88 @@
+@font-face {
+	font-family: "flaticon17";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon17-"]:before, [class*=" flaticon17-"]:before,
+[class^="flaticon17-"]:after, [class*=" flaticon17-"]:after {   
+	font-family: flaticon17;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon17-administration1:before {
+	content: "\e000";
+}
+.flaticon17-businessman157:before {
+	content: "\e001";
+}
+.flaticon17-businessman158:before {
+	content: "\e002";
+}
+.flaticon17-businessman175:before {
+	content: "\e003";
+}
+.flaticon17-businessman202:before {
+	content: "\e004";
+}
+.flaticon17-call39:before {
+	content: "\e005";
+}
+.flaticon17-comfortable:before {
+	content: "\e006";
+}
+.flaticon17-coworkers:before {
+	content: "\e007";
+}
+.flaticon17-hiring:before {
+	content: "\e008";
+}
+.flaticon17-male216:before {
+	content: "\e009";
+}
+.flaticon17-man331:before {
+	content: "\e00a";
+}
+.flaticon17-man332:before {
+	content: "\e00b";
+}
+.flaticon17-man334:before {
+	content: "\e00c";
+}
+.flaticon17-man335:before {
+	content: "\e00d";
+}
+.flaticon17-man337:before {
+	content: "\e00e";
+}
+.flaticon17-man342:before {
+	content: "\e00f";
+}
+.flaticon17-man343:before {
+	content: "\e010";
+}
+.flaticon17-man349:before {
+	content: "\e011";
+}
+.flaticon17-man353:before {
+	content: "\e012";
+}
+.flaticon17-office26:before {
+	content: "\e013";
+}
+.flaticon17-sales1:before {
+	content: "\e014";
+}
+.flaticon17-two218:before {
+	content: "\e015";
+}
+.flaticon17-two220:before {
+	content: "\e016";
+}
+.flaticon17-worker6:before {
+	content: "\e017";
+}

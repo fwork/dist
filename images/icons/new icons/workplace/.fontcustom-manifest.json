@@ -1,0 +1,244 @@
+{
+  "checksum": {
+    "previous": "8ba72a799bf732578138b94342003fc7f84df8f978f02bf7b9875c823b3a492b",
+    "current": "8ba72a799bf732578138b94342003fc7f84df8f978f02bf7b9875c823b3a492b"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "agenda": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/agenda.svg"
+    },
+    "agenda-1": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/agenda-1.svg"
+    },
+    "calculator": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/calculator.svg"
+    },
+    "calendar": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/calendar.svg"
+    },
+    "calendar-1": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/calendar-1.svg"
+    },
+    "clip": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/clip.svg"
+    },
+    "clipboard-with-pencil": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/clipboard-with-pencil.svg"
+    },
+    "coffee-cup": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/coffee-cup.svg"
+    },
+    "computer-mouse": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/computer-mouse.svg"
+    },
+    "computer-screen": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/computer-screen.svg"
+    },
+    "crayon": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/crayon.svg"
+    },
+    "desk": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/desk.svg"
+    },
+    "desk-1": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/desk-1.svg"
+    },
+    "desk-lamp": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/desk-lamp.svg"
+    },
+    "envelope": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/envelope.svg"
+    },
+    "envelope-1": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/envelope-1.svg"
+    },
+    "eyeglasses": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/eyeglasses.svg"
+    },
+    "fax-machine": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/fax-machine.svg"
+    },
+    "file": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/file.svg"
+    },
+    "flower": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/flower.svg"
+    },
+    "folder": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/folder.svg"
+    },
+    "folders": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/folders.svg"
+    },
+    "garbage": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/garbage.svg"
+    },
+    "laptop": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/laptop.svg"
+    },
+    "lock": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/lock.svg"
+    },
+    "locker": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/locker.svg"
+    },
+    "locker-1": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/locker-1.svg"
+    },
+    "marker": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/marker.svg"
+    },
+    "newspaper": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/newspaper.svg"
+    },
+    "note": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/note.svg"
+    },
+    "note-1": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/note-1.svg"
+    },
+    "notebook": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/notebook.svg"
+    },
+    "pens": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/pens.svg"
+    },
+    "phone": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/phone.svg"
+    },
+    "phone-1": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/phone-1.svg"
+    },
+    "phone-2": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/phone-2.svg"
+    },
+    "photocopier": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/photocopier.svg"
+    },
+    "printer": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/printer.svg"
+    },
+    "projector": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/projector.svg"
+    },
+    "round-clock": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/round-clock.svg"
+    },
+    "save-file": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/save-file.svg"
+    },
+    "scissors": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/scissors.svg"
+    },
+    "seat": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/seat.svg"
+    },
+    "stamp": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/stamp.svg"
+    },
+    "staple": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/staple.svg"
+    },
+    "suitcase": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/suitcase.svg"
+    },
+    "tape": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/tape.svg"
+    },
+    "tie": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/tie.svg"
+    },
+    "typewriter": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/112049-workplace/svg/typewriter.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/112049-workplace/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/112049-workplace/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/112049-workplace/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/112049-workplace/font",
+      "preview": "/var/www/static/flaticon/zip_packs/112049-workplace/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/112049-workplace/font/flaticon.css"
+  ]
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>Error !... 401 Authorization Required</title>
+<style> 
+ 
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    padding: 20px; 
+    width: 800px;
+    height: 350px;    
+}
+
+ 
+</style>
+</head>
+<body>
+<br><br>
+<center>
+ <p id="rcorners2"> <br> <img src=".../error_pages/error_page1/401_1.png"><br><br>
+ 
+ <font size=3 face=menlo>Sorry! You have attempted to access a page for which you are not authorized. 
+ 
+ Please use your browser's Back button, or go to the <a href="../php/index.php">home page</a></>
+ 
+ </p>
+ 
+
+</body>
+</html>

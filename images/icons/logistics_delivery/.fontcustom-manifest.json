@@ -1,0 +1,448 @@
+{
+  "checksum": {
+    "previous": "1608a1bc469930e5f016071933e42792ae6487ac04037fa2b506928e47f0f09b",
+    "current": "1608a1bc469930e5f016071933e42792ae6487ac04037fa2b506928e47f0f09b"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "24-hours-delivery": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/24-hours-delivery.svg"
+    },
+    "24-hours-phone-service": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/24-hours-phone-service.svg"
+    },
+    "24-hours-symbol": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/24-hours-symbol.svg"
+    },
+    "air-transport": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/air-transport.svg"
+    },
+    "airplane-around-earth": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/airplane-around-earth.svg"
+    },
+    "airplane-frontal-view": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/airplane-frontal-view.svg"
+    },
+    "airplane-in-vertical-ascending-position": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/airplane-in-vertical-ascending-position.svg"
+    },
+    "barscode-with-a-magnifier-business-symbol": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/barscode-with-a-magnifier-business-symbol.svg"
+    },
+    "black-delivery-small-truck-side-view": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/black-delivery-small-truck-side-view.svg"
+    },
+    "black-opened-umbrella-symbol-with-rain-drops-falling-on-it": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/black-opened-umbrella-symbol-with-rain-drops-falling-on-it.svg"
+    },
+    "boat-from-front-view": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/boat-from-front-view.svg"
+    },
+    "box-of-packing-for-delivery": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/box-of-packing-for-delivery.svg"
+    },
+    "boxes-piles-stored-inside-a-garage-for-delivery": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/boxes-piles-stored-inside-a-garage-for-delivery.svg"
+    },
+    "boxes-storage-for-delivery-inside-a-truck-box-from-back-view": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/boxes-storage-for-delivery-inside-a-truck-box-from-back-view.svg"
+    },
+    "call-center-service-for-information": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/call-center-service-for-information.svg"
+    },
+    "call-center-worker-with-headset": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/call-center-worker-with-headset.svg"
+    },
+    "chronometer": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/chronometer.svg"
+    },
+    "clipboard-verification-symbol": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/clipboard-verification-symbol.svg"
+    },
+    "commercial-delivery-symbol-of-a-list-on-clipboard-on-a-box-package": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/commercial-delivery-symbol-of-a-list-on-clipboard-on-a-box-package.svg"
+    },
+    "container-hanging-of-a-crane": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/container-hanging-of-a-crane.svg"
+    },
+    "container-on-a-crane": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/container-on-a-crane.svg"
+    },
+    "containers-on-oceanic-ship": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/containers-on-oceanic-ship.svg"
+    },
+    "crane": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/crane.svg"
+    },
+    "crane-truck": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/crane-truck.svg"
+    },
+    "delivered-box-verification-symbol": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivered-box-verification-symbol.svg"
+    },
+    "delivery-box": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-box.svg"
+    },
+    "delivery-box-and-timer": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-box-and-timer.svg"
+    },
+    "delivery-box-on-a-hand": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-box-on-a-hand.svg"
+    },
+    "delivery-box-package-opened-with-up-arrow": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-box-package-opened-with-up-arrow.svg"
+    },
+    "delivery-cube-box-package-with-four-arrows-in-different-directions": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-cube-box-package-with-four-arrows-in-different-directions.svg"
+    },
+    "delivery-of-a-box": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-of-a-box.svg"
+    },
+    "delivery-pack-security-symbol-with-a-shield": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-pack-security-symbol-with-a-shield.svg"
+    },
+    "delivery-package": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-package.svg"
+    },
+    "delivery-package-box-with-fragile-content-symbol-of-broken-glass": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-package-box-with-fragile-content-symbol-of-broken-glass.svg"
+    },
+    "delivery-package-opened": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-package-opened.svg"
+    },
+    "delivery-package-with-umbrella-symbol": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-package-with-umbrella-symbol.svg"
+    },
+    "delivery-packages-on-a-trolley": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-packages-on-a-trolley.svg"
+    },
+    "delivery-packaging-box": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-packaging-box.svg"
+    },
+    "delivery-packing": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-packing.svg"
+    },
+    "delivery-scale-with-a-box": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-scale-with-a-box.svg"
+    },
+    "delivery-time-symbol": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-time-symbol.svg"
+    },
+    "delivery-time-tool": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-time-tool.svg"
+    },
+    "delivery-transportation-machine": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-transportation-machine.svg"
+    },
+    "delivery-truck": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-truck.svg"
+    },
+    "delivery-truck-1": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-truck-1.svg"
+    },
+    "delivery-truck-2": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-truck-2.svg"
+    },
+    "delivery-truck-with-circular-clock": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-truck-with-circular-clock.svg"
+    },
+    "delivery-truck-with-packages-behind": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-truck-with-packages-behind.svg"
+    },
+    "delivery-worker-giving-a-box-to-a-receiver": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/delivery-worker-giving-a-box-to-a-receiver.svg"
+    },
+    "fragile-broken-glass-symbol-for-delivery-boxes": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/fragile-broken-glass-symbol-for-delivery-boxes.svg"
+    },
+    "free-delivery-truck": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/free-delivery-truck.svg"
+    },
+    "frontal-truck": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/frontal-truck.svg"
+    },
+    "identification-for-delivery-with-bars": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/identification-for-delivery-with-bars.svg"
+    },
+    "international-calling-service-symbol": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/international-calling-service-symbol.svg"
+    },
+    "international-delivery": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/international-delivery.svg"
+    },
+    "international-delivery-business-symbol-of-world-grid-with-an-arrow-around": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/international-delivery-business-symbol-of-world-grid-with-an-arrow-around.svg"
+    },
+    "international-delivery-symbol": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/international-delivery-symbol.svg"
+    },
+    "international-logistics-delivery-truck-symbol-with-world-grid-behind": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/international-logistics-delivery-truck-symbol-with-world-grid-behind.svg"
+    },
+    "localization-orientation-tool-of-compass-with-cardinal-points": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/localization-orientation-tool-of-compass-with-cardinal-points.svg"
+    },
+    "locked-package": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/locked-package.svg"
+    },
+    "logistics-delivery-truck-and-clock": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-delivery-truck-and-clock.svg"
+    },
+    "logistics-delivery-truck-in-movement": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-delivery-truck-in-movement.svg"
+    },
+    "logistics-package": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-package.svg"
+    },
+    "logistics-transport": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-transport.svg"
+    },
+    "logistics-truck": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-truck.svg"
+    },
+    "logistics-weight-scale": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/logistics-weight-scale.svg"
+    },
+    "man-standing-with-delivery-box": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/man-standing-with-delivery-box.svg"
+    },
+    "ocean-transportation": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/ocean-transportation.svg"
+    },
+    "package-cube-box-for-delivery": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-cube-box-for-delivery.svg"
+    },
+    "package-delivery": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-delivery.svg"
+    },
+    "package-delivery-in-hand": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-delivery-in-hand.svg"
+    },
+    "package-for-delivery": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-for-delivery.svg"
+    },
+    "package-on-rolling-transport": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-on-rolling-transport.svg"
+    },
+    "package-transport-for-delivery": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-transport-for-delivery.svg"
+    },
+    "package-transportation-on-a-trolley": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/package-transportation-on-a-trolley.svg"
+    },
+    "packages-storage-for-delivery": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/packages-storage-for-delivery.svg"
+    },
+    "packages-transportation-on-a-truck": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/packages-transportation-on-a-truck.svg"
+    },
+    "person-standing-beside-a-delivery-box": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/person-standing-beside-a-delivery-box.svg"
+    },
+    "phone-auricular-and-a-clock": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/phone-auricular-and-a-clock.svg"
+    },
+    "phone-auricular-and-clock-delivery-symbol": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/phone-auricular-and-clock-delivery-symbol.svg"
+    },
+    "placeholder-on-map-paper-in-perspective": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/placeholder-on-map-paper-in-perspective.svg"
+    },
+    "protection-symbol-of-opened-umbrella-silhouette-under-raindrops": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/protection-symbol-of-opened-umbrella-silhouette-under-raindrops.svg"
+    },
+    "sea-ship": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/sea-ship.svg"
+    },
+    "sea-ship-with-containers": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/sea-ship-with-containers.svg"
+    },
+    "search-delivery-service-tool": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/search-delivery-service-tool.svg"
+    },
+    "storage": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/storage.svg"
+    },
+    "talking-by-phone-auricular-symbol-with-speech-bubble": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/talking-by-phone-auricular-symbol-with-speech-bubble.svg"
+    },
+    "telephone": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/telephone.svg"
+    },
+    "telephone-1": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/telephone-1.svg"
+    },
+    "three-stored-boxes-for-delivery": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/three-stored-boxes-for-delivery.svg"
+    },
+    "train-front": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/train-front.svg"
+    },
+    "triangular-arrows-sign-for-recycle": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/triangular-arrows-sign-for-recycle.svg"
+    },
+    "up-arrows-couple-sign-for-packaging": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/up-arrows-couple-sign-for-packaging.svg"
+    },
+    "verification-of-delivery-list-clipboard-symbol": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/verification-of-delivery-list-clipboard-symbol.svg"
+    },
+    "view-symbol-on-delivery-opened-box": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/view-symbol-on-delivery-opened-box.svg"
+    },
+    "weight-of-delivery-package-on-a-scale": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/weight-of-delivery-package-on-a-scale.svg"
+    },
+    "weight-tool": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/weight-tool.svg"
+    },
+    "woman-with-headset": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/woman-with-headset.svg"
+    },
+    "wood-package-box-of-square-shape-for-delivery": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/wood-package-box-of-square-shape-for-delivery.svg"
+    },
+    "world-grid-with-placeholder": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg/world-grid-with-placeholder.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111075-logistics-delivery/font/flaticon.css"
+  ]
+}

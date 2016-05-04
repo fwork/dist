@@ -1,0 +1,248 @@
+{
+  "checksum": {
+    "previous": "394f0751fe7f212b6c7ac097f10b0fcf9ec12418be6be39854f90055b50c59be",
+    "current": "394f0751fe7f212b6c7ac097f10b0fcf9ec12418be6be39854f90055b50c59be"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "armchair": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/armchair.svg"
+    },
+    "armchair-1": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/armchair-1.svg"
+    },
+    "bathtub": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bathtub.svg"
+    },
+    "bed": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bed.svg"
+    },
+    "bed-1": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bed-1.svg"
+    },
+    "bed-2": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bed-2.svg"
+    },
+    "bed-3": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bed-3.svg"
+    },
+    "bedside-table": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bedside-table.svg"
+    },
+    "bookcase": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bookcase.svg"
+    },
+    "bookshelve": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bookshelve.svg"
+    },
+    "bunk-bed": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/bunk-bed.svg"
+    },
+    "cabinet": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/cabinet.svg"
+    },
+    "carpet": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/carpet.svg"
+    },
+    "chair": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chair.svg"
+    },
+    "chair-1": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chair-1.svg"
+    },
+    "chair-2": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chair-2.svg"
+    },
+    "chair-3": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chair-3.svg"
+    },
+    "chair-4": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chair-4.svg"
+    },
+    "chandelier": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/chandelier.svg"
+    },
+    "clock": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/clock.svg"
+    },
+    "closet": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/closet.svg"
+    },
+    "coat-stand": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/coat-stand.svg"
+    },
+    "crib": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/crib.svg"
+    },
+    "curtain": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/curtain.svg"
+    },
+    "desk": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/desk.svg"
+    },
+    "dresser": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/dresser.svg"
+    },
+    "dresser-1": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/dresser-1.svg"
+    },
+    "dresser-2": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/dresser-2.svg"
+    },
+    "dresser-3": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/dresser-3.svg"
+    },
+    "fireplace": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/fireplace.svg"
+    },
+    "frame": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/frame.svg"
+    },
+    "furniture": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/furniture.svg"
+    },
+    "kitchen-furniture": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/kitchen-furniture.svg"
+    },
+    "kitchen-sink": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/kitchen-sink.svg"
+    },
+    "lamp": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/lamp.svg"
+    },
+    "lamp-1": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/lamp-1.svg"
+    },
+    "lamp-2": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/lamp-2.svg"
+    },
+    "lamp-3": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/lamp-3.svg"
+    },
+    "mirror": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/mirror.svg"
+    },
+    "rocking-chair": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/rocking-chair.svg"
+    },
+    "shelves": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/shelves.svg"
+    },
+    "sink": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/sink.svg"
+    },
+    "sofa": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/sofa.svg"
+    },
+    "sofa-1": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/sofa-1.svg"
+    },
+    "sofa-2": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/sofa-2.svg"
+    },
+    "stool": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/stool.svg"
+    },
+    "stool-1": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/stool-1.svg"
+    },
+    "table-with-chair": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/table-with-chair.svg"
+    },
+    "tv-table": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/tv-table.svg"
+    },
+    "wardrobe": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg/wardrobe.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111736-furniture-fill-icons/font/flaticon.css"
+  ]
+}

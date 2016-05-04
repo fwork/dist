@@ -1,0 +1,81 @@
+	/*
+  	flaticon58 icon font: flaticon58
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon58";
+  src: url("./flaticon.eot");
+  src: url("./flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./flaticon.woff") format("woff"),
+       url("./flaticon.ttf") format("truetype"),
+       url("./flaticon.svg#flaticon58") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon58";
+    src: url("./flaticon.svg#flaticon") format("svg");
+  }
+}
+
+[class^="flaticon58-"]:before, [class*=" flaticon58-"]:before,
+[class^="flaticon58-"]:after, [class*=" flaticon58-"]:after {   
+  font-family: flaticon58;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon58-add-button:before { content: "\f100"; }
+.flaticon58-apps:before { content: "\f101"; }
+.flaticon58-at:before { content: "\f102"; }
+.flaticon58-bookmark:before { content: "\f103"; }
+.flaticon58-browser:before { content: "\f104"; }
+.flaticon58-browser-visualization:before { content: "\f105"; }
+.flaticon58-check-square:before { content: "\f106"; }
+.flaticon58-chrome-logo:before { content: "\f107"; }
+.flaticon58-close:before { content: "\f108"; }
+.flaticon58-compass:before { content: "\f109"; }
+.flaticon58-compass-1:before { content: "\f10a"; }
+.flaticon58-compass-2:before { content: "\f10b"; }
+.flaticon58-compass-3:before { content: "\f10c"; }
+.flaticon58-connections:before { content: "\f10d"; }
+.flaticon58-diagonal-enlarge:before { content: "\f10e"; }
+.flaticon58-download:before { content: "\f10f"; }
+.flaticon58-downloading-from-smartphone:before { content: "\f110"; }
+.flaticon58-favorites-button:before { content: "\f111"; }
+.flaticon58-folders:before { content: "\f112"; }
+.flaticon58-glasses:before { content: "\f113"; }
+.flaticon58-high-volume:before { content: "\f114"; }
+.flaticon58-history-button:before { content: "\f115"; }
+.flaticon58-home:before { content: "\f116"; }
+.flaticon58-menu-button:before { content: "\f117"; }
+.flaticon58-microphone:before { content: "\f118"; }
+.flaticon58-mouse:before { content: "\f119"; }
+.flaticon58-multi-tab:before { content: "\f11a"; }
+.flaticon58-mute:before { content: "\f11b"; }
+.flaticon58-new-file:before { content: "\f11c"; }
+.flaticon58-next-page:before { content: "\f11d"; }
+.flaticon58-note:before { content: "\f11e"; }
+.flaticon58-notification:before { content: "\f11f"; }
+.flaticon58-open-book:before { content: "\f120"; }
+.flaticon58-order:before { content: "\f121"; }
+.flaticon58-padlock:before { content: "\f122"; }
+.flaticon58-picture:before { content: "\f123"; }
+.flaticon58-pin:before { content: "\f124"; }
+.flaticon58-play-button:before { content: "\f125"; }
+.flaticon58-play-button-1:before { content: "\f126"; }
+.flaticon58-refresh-button:before { content: "\f127"; }
+.flaticon58-retweet:before { content: "\f128"; }
+.flaticon58-settings:before { content: "\f129"; }
+.flaticon58-shop:before { content: "\f12a"; }
+.flaticon58-side-menu:before { content: "\f12b"; }
+.flaticon58-spider-web:before { content: "\f12c"; }
+.flaticon58-tracker:before { content: "\f12d"; }
+.flaticon58-turn-right:before { content: "\f12e"; }
+.flaticon58-upload-arrow:before { content: "\f12f"; }
+.flaticon58-upload-to-cloud:before { content: "\f130"; }
+.flaticon58-user:before { content: "\f131"; }

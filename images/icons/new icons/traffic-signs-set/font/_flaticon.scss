@@ -1,0 +1,199 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/04/2016 15:34
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-ahead:before { content: "\f100"; }
+.flaticon-ahead-1:before { content: "\f101"; }
+.flaticon-ahead-2:before { content: "\f102"; }
+.flaticon-ahead-3:before { content: "\f103"; }
+.flaticon-ahead-4:before { content: "\f104"; }
+.flaticon-bend:before { content: "\f105"; }
+.flaticon-bend-1:before { content: "\f106"; }
+.flaticon-bicycle:before { content: "\f107"; }
+.flaticon-bicycle-1:before { content: "\f108"; }
+.flaticon-bicycle-2:before { content: "\f109"; }
+.flaticon-bicycle-3:before { content: "\f10a"; }
+.flaticon-biological-hazard:before { content: "\f10b"; }
+.flaticon-bus:before { content: "\f10c"; }
+.flaticon-bus-1:before { content: "\f10d"; }
+.flaticon-car:before { content: "\f10e"; }
+.flaticon-car-1:before { content: "\f10f"; }
+.flaticon-child:before { content: "\f110"; }
+.flaticon-crossroads:before { content: "\f111"; }
+.flaticon-death:before { content: "\f112"; }
+.flaticon-electricity:before { content: "\f113"; }
+.flaticon-falling-rocks:before { content: "\f114"; }
+.flaticon-fire:before { content: "\f115"; }
+.flaticon-handicap:before { content: "\f116"; }
+.flaticon-handicap-1:before { content: "\f117"; }
+.flaticon-horn:before { content: "\f118"; }
+.flaticon-horn-1:before { content: "\f119"; }
+.flaticon-horseshoe:before { content: "\f11a"; }
+.flaticon-intersection:before { content: "\f11b"; }
+.flaticon-intersection-1:before { content: "\f11c"; }
+.flaticon-keep-left:before { content: "\f11d"; }
+.flaticon-keep-right:before { content: "\f11e"; }
+.flaticon-nuclear:before { content: "\f11f"; }
+.flaticon-parking:before { content: "\f120"; }
+.flaticon-pedestrian:before { content: "\f121"; }
+.flaticon-pedestrian-1:before { content: "\f122"; }
+.flaticon-pedestrian-2:before { content: "\f123"; }
+.flaticon-pedestrian-3:before { content: "\f124"; }
+.flaticon-pedestrian-4:before { content: "\f125"; }
+.flaticon-pedestrian-5:before { content: "\f126"; }
+.flaticon-pedestrian-6:before { content: "\f127"; }
+.flaticon-prohibition:before { content: "\f128"; }
+.flaticon-railroad:before { content: "\f129"; }
+.flaticon-roundabout:before { content: "\f12a"; }
+.flaticon-roundabout-1:before { content: "\f12b"; }
+.flaticon-runner:before { content: "\f12c"; }
+.flaticon-runner-1:before { content: "\f12d"; }
+.flaticon-settings:before { content: "\f12e"; }
+.flaticon-signal:before { content: "\f12f"; }
+.flaticon-skateboard:before { content: "\f130"; }
+.flaticon-skateboard-1:before { content: "\f131"; }
+.flaticon-ski:before { content: "\f132"; }
+.flaticon-ski-1:before { content: "\f133"; }
+.flaticon-slope:before { content: "\f134"; }
+.flaticon-slope-1:before { content: "\f135"; }
+.flaticon-snow:before { content: "\f136"; }
+.flaticon-speed:before { content: "\f137"; }
+.flaticon-speed-1:before { content: "\f138"; }
+.flaticon-swimming:before { content: "\f139"; }
+.flaticon-swimming-1:before { content: "\f13a"; }
+.flaticon-traffic-light:before { content: "\f13b"; }
+.flaticon-traffic-sign:before { content: "\f13c"; }
+.flaticon-traffic-sign-1:before { content: "\f13d"; }
+.flaticon-traffic-sign-2:before { content: "\f13e"; }
+.flaticon-traffic-sign-3:before { content: "\f13f"; }
+.flaticon-traffic-sign-4:before { content: "\f140"; }
+.flaticon-traffic-sign-5:before { content: "\f141"; }
+.flaticon-turn:before { content: "\f142"; }
+.flaticon-turn-left:before { content: "\f143"; }
+.flaticon-turn-left-1:before { content: "\f144"; }
+.flaticon-turn-right:before { content: "\f145"; }
+.flaticon-turn-right-1:before { content: "\f146"; }
+.flaticon-two-way:before { content: "\f147"; }
+.flaticon-warning:before { content: "\f148"; }
+.flaticon-woman:before { content: "\f149"; }
+.flaticon-woman-1:before { content: "\f14a"; }
+.flaticon-working:before { content: "\f14b"; }
+.flaticon-working-1:before { content: "\f14c"; }
+.flaticon-working-2:before { content: "\f14d"; }
+.flaticon-zebra-crossing:before { content: "\f14e"; }
+.flaticon-zebra-crossing-1:before { content: "\f14f"; }
+    
+    $font-Flaticon-ahead: "\f100";
+    $font-Flaticon-ahead-1: "\f101";
+    $font-Flaticon-ahead-2: "\f102";
+    $font-Flaticon-ahead-3: "\f103";
+    $font-Flaticon-ahead-4: "\f104";
+    $font-Flaticon-bend: "\f105";
+    $font-Flaticon-bend-1: "\f106";
+    $font-Flaticon-bicycle: "\f107";
+    $font-Flaticon-bicycle-1: "\f108";
+    $font-Flaticon-bicycle-2: "\f109";
+    $font-Flaticon-bicycle-3: "\f10a";
+    $font-Flaticon-biological-hazard: "\f10b";
+    $font-Flaticon-bus: "\f10c";
+    $font-Flaticon-bus-1: "\f10d";
+    $font-Flaticon-car: "\f10e";
+    $font-Flaticon-car-1: "\f10f";
+    $font-Flaticon-child: "\f110";
+    $font-Flaticon-crossroads: "\f111";
+    $font-Flaticon-death: "\f112";
+    $font-Flaticon-electricity: "\f113";
+    $font-Flaticon-falling-rocks: "\f114";
+    $font-Flaticon-fire: "\f115";
+    $font-Flaticon-handicap: "\f116";
+    $font-Flaticon-handicap-1: "\f117";
+    $font-Flaticon-horn: "\f118";
+    $font-Flaticon-horn-1: "\f119";
+    $font-Flaticon-horseshoe: "\f11a";
+    $font-Flaticon-intersection: "\f11b";
+    $font-Flaticon-intersection-1: "\f11c";
+    $font-Flaticon-keep-left: "\f11d";
+    $font-Flaticon-keep-right: "\f11e";
+    $font-Flaticon-nuclear: "\f11f";
+    $font-Flaticon-parking: "\f120";
+    $font-Flaticon-pedestrian: "\f121";
+    $font-Flaticon-pedestrian-1: "\f122";
+    $font-Flaticon-pedestrian-2: "\f123";
+    $font-Flaticon-pedestrian-3: "\f124";
+    $font-Flaticon-pedestrian-4: "\f125";
+    $font-Flaticon-pedestrian-5: "\f126";
+    $font-Flaticon-pedestrian-6: "\f127";
+    $font-Flaticon-prohibition: "\f128";
+    $font-Flaticon-railroad: "\f129";
+    $font-Flaticon-roundabout: "\f12a";
+    $font-Flaticon-roundabout-1: "\f12b";
+    $font-Flaticon-runner: "\f12c";
+    $font-Flaticon-runner-1: "\f12d";
+    $font-Flaticon-settings: "\f12e";
+    $font-Flaticon-signal: "\f12f";
+    $font-Flaticon-skateboard: "\f130";
+    $font-Flaticon-skateboard-1: "\f131";
+    $font-Flaticon-ski: "\f132";
+    $font-Flaticon-ski-1: "\f133";
+    $font-Flaticon-slope: "\f134";
+    $font-Flaticon-slope-1: "\f135";
+    $font-Flaticon-snow: "\f136";
+    $font-Flaticon-speed: "\f137";
+    $font-Flaticon-speed-1: "\f138";
+    $font-Flaticon-swimming: "\f139";
+    $font-Flaticon-swimming-1: "\f13a";
+    $font-Flaticon-traffic-light: "\f13b";
+    $font-Flaticon-traffic-sign: "\f13c";
+    $font-Flaticon-traffic-sign-1: "\f13d";
+    $font-Flaticon-traffic-sign-2: "\f13e";
+    $font-Flaticon-traffic-sign-3: "\f13f";
+    $font-Flaticon-traffic-sign-4: "\f140";
+    $font-Flaticon-traffic-sign-5: "\f141";
+    $font-Flaticon-turn: "\f142";
+    $font-Flaticon-turn-left: "\f143";
+    $font-Flaticon-turn-left-1: "\f144";
+    $font-Flaticon-turn-right: "\f145";
+    $font-Flaticon-turn-right-1: "\f146";
+    $font-Flaticon-two-way: "\f147";
+    $font-Flaticon-warning: "\f148";
+    $font-Flaticon-woman: "\f149";
+    $font-Flaticon-woman-1: "\f14a";
+    $font-Flaticon-working: "\f14b";
+    $font-Flaticon-working-1: "\f14c";
+    $font-Flaticon-working-2: "\f14d";
+    $font-Flaticon-zebra-crossing: "\f14e";
+    $font-Flaticon-zebra-crossing-1: "\f14f";

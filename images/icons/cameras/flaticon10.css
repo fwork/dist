@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon10";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon10";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon10-"]:before, [class*=" flaticon10-"]:before,
+[class^="flaticon10-"]:after, [class*=" flaticon10-"]:after {   
+  font-family: flaticon10;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon10-aperture:before { content: "\f100"; }
+.flaticon10-aperture-1:before { content: "\f101"; }
+.flaticon10-auto-flash:before { content: "\f102"; }
+.flaticon10-blitz-flash:before { content: "\f103"; }
+.flaticon10-brightness-option:before { content: "\f104"; }
+.flaticon10-camera-big-screen-size:before { content: "\f105"; }
+.flaticon10-camera-screen:before { content: "\f106"; }
+.flaticon10-camera-screen-1:before { content: "\f107"; }
+.flaticon10-camera-small-screen-size:before { content: "\f108"; }
+.flaticon10-camera-stand:before { content: "\f109"; }
+.flaticon10-camera-timer:before { content: "\f10a"; }
+.flaticon10-clapperboard:before { content: "\f10b"; }
+.flaticon10-compact-camera:before { content: "\f10c"; }
+.flaticon10-digital-camera:before { content: "\f10d"; }
+.flaticon10-eye:before { content: "\f10e"; }
+.flaticon10-film-roll:before { content: "\f10f"; }
+.flaticon10-film-roll-1:before { content: "\f110"; }
+.flaticon10-film-strip:before { content: "\f111"; }
+.flaticon10-flash:before { content: "\f112"; }
+.flaticon10-flash-off:before { content: "\f113"; }
+.flaticon10-flip-camera:before { content: "\f114"; }
+.flaticon10-focus:before { content: "\f115"; }
+.flaticon10-focus-1:before { content: "\f116"; }
+.flaticon10-landscape:before { content: "\f117"; }
+.flaticon10-landscape-photo:before { content: "\f118"; }
+.flaticon10-macro:before { content: "\f119"; }
+.flaticon10-memory-card:before { content: "\f11a"; }
+.flaticon10-minute-countdown:before { content: "\f11b"; }
+.flaticon10-objective:before { content: "\f11c"; }
+.flaticon10-objective-1:before { content: "\f11d"; }
+.flaticon10-old-camera:before { content: "\f11e"; }
+.flaticon10-old-camera-1:before { content: "\f11f"; }
+.flaticon10-old-video-camera:before { content: "\f120"; }
+.flaticon10-panorama-with-right-arrow:before { content: "\f121"; }
+.flaticon10-photo-camera:before { content: "\f122"; }
+.flaticon10-photo-camera-1:before { content: "\f123"; }
+.flaticon10-photo-camera-with-flash:before { content: "\f124"; }
+.flaticon10-photograph:before { content: "\f125"; }
+.flaticon10-portrait:before { content: "\f126"; }
+.flaticon10-quarter:before { content: "\f127"; }
+.flaticon10-reflector:before { content: "\f128"; }
+.flaticon10-scenic:before { content: "\f129"; }
+.flaticon10-screen-grid:before { content: "\f12a"; }
+.flaticon10-shake-camera:before { content: "\f12b"; }
+.flaticon10-three-quarters:before { content: "\f12c"; }
+.flaticon10-usb-cable:before { content: "\f12d"; }
+.flaticon10-video-camera:before { content: "\f12e"; }
+.flaticon10-video-camera-1:before { content: "\f12f"; }
+.flaticon10-video-file-list:before { content: "\f130"; }
+.flaticon10-webcam:before { content: "\f131"; }

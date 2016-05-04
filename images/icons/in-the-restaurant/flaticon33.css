@@ -1,0 +1,82 @@
+@font-face {
+	font-family: "flaticon33";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon33-"]:before, [class*=" flaticon33-"]:before,
+[class^="flaticon33-"]:after, [class*=" flaticon33-"]:after {   
+	font-family: flaticon33;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon33-bakery10:before {
+	content: "\e000";
+}
+.flaticon33-cafe:before {
+	content: "\e001";
+}
+.flaticon33-chicken3:before {
+	content: "\e002";
+}
+.flaticon33-coffee shop:before {
+	content: "\e003";
+}
+.flaticon33-condiment:before {
+	content: "\e004";
+}
+.flaticon33-cooking26:before {
+	content: "\e005";
+}
+.flaticon33-cup54:before {
+	content: "\e006";
+}
+.flaticon33-cut31:before {
+	content: "\e007";
+}
+.flaticon33-cutlery22:before {
+	content: "\e008";
+}
+.flaticon33-cutlery23:before {
+	content: "\e009";
+}
+.flaticon33-dinner:before {
+	content: "\e00a";
+}
+.flaticon33-drink71:before {
+	content: "\e00b";
+}
+.flaticon33-drink72:before {
+	content: "\e00c";
+}
+.flaticon33-drink73:before {
+	content: "\e00d";
+}
+.flaticon33-drink75:before {
+	content: "\e00e";
+}
+.flaticon33-hamburger11:before {
+	content: "\e00f";
+}
+.flaticon33-ice cream3:before {
+	content: "\e010";
+}
+.flaticon33-lunch4:before {
+	content: "\e011";
+}
+.flaticon33-muffin1:before {
+	content: "\e012";
+}
+.flaticon33-soft2:before {
+	content: "\e013";
+}
+.flaticon33-tea25:before {
+	content: "\e014";
+}
+.flaticon33-turkey leg1:before {
+	content: "\e015";
+}

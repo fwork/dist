@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "flaticon13";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon13";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon13-"]:before, [class*=" flaticon13-"]:before,
+[class^="flaticon13-"]:after, [class*=" flaticon13-"]:after {   
+  font-family: flaticon13;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon13-alarm:before { content: "\f100"; }
+.flaticon13-closed-lock:before { content: "\f101"; }
+.flaticon13-eye:before { content: "\f102"; }
+.flaticon13-firewall:before { content: "\f103"; }
+.flaticon13-key:before { content: "\f104"; }
+.flaticon13-key-1:before { content: "\f105"; }
+.flaticon13-keyhole:before { content: "\f106"; }
+.flaticon13-keyhole-1:before { content: "\f107"; }
+.flaticon13-laptop-spy:before { content: "\f108"; }
+.flaticon13-locked-cloud:before { content: "\f109"; }
+.flaticon13-locked-file:before { content: "\f10a"; }
+.flaticon13-magnifying-glass:before { content: "\f10b"; }
+.flaticon13-monitor-spy:before { content: "\f10c"; }
+.flaticon13-open-lock:before { content: "\f10d"; }
+.flaticon13-open-lock-1:before { content: "\f10e"; }
+.flaticon13-padlock:before { content: "\f10f"; }
+.flaticon13-password:before { content: "\f110"; }
+.flaticon13-pin-code:before { content: "\f111"; }
+.flaticon13-protected-cloud:before { content: "\f112"; }
+.flaticon13-safebox:before { content: "\f113"; }
+.flaticon13-security-camera:before { content: "\f114"; }
+.flaticon13-shield:before { content: "\f115"; }
+.flaticon13-shield-1:before { content: "\f116"; }
+.flaticon13-shield-2:before { content: "\f117"; }
+.flaticon13-shield-3:before { content: "\f118"; }
+.flaticon13-shield-with-thumb-up:before { content: "\f119"; }
+.flaticon13-spy:before { content: "\f11a"; }
+.flaticon13-virus:before { content: "\f11b"; }
+.flaticon13-wall:before { content: "\f11c"; }
+.flaticon13-webcam:before { content: "\f11d"; }

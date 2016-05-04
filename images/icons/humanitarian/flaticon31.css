@@ -1,0 +1,106 @@
+@font-face {
+	font-family: "flaticon31";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon31-"]:before, [class*=" flaticon31-"]:before,
+[class^="flaticon31-"]:after, [class*=" flaticon31-"]:after {   
+	font-family: flaticon31;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon31-adopt:before {
+	content: "\e000";
+}
+.flaticon31-balloon10:before {
+	content: "\e001";
+}
+.flaticon31-carry piggy back:before {
+	content: "\e002";
+}
+.flaticon31-cart7:before {
+	content: "\e003";
+}
+.flaticon31-celebration10:before {
+	content: "\e004";
+}
+.flaticon31-celebration11:before {
+	content: "\e005";
+}
+.flaticon31-children3:before {
+	content: "\e006";
+}
+.flaticon31-donate1:before {
+	content: "\e007";
+}
+.flaticon31-donate2:before {
+	content: "\e008";
+}
+.flaticon31-elderly2:before {
+	content: "\e009";
+}
+.flaticon31-feed2:before {
+	content: "\e00a";
+}
+.flaticon31-hamburger9:before {
+	content: "\e00b";
+}
+.flaticon31-hand 1:before {
+	content: "\e00c";
+}
+.flaticon31-heart309:before {
+	content: "\e00d";
+}
+.flaticon31-heart316:before {
+	content: "\e00e";
+}
+.flaticon31-heart317:before {
+	content: "\e00f";
+}
+.flaticon31-help20:before {
+	content: "\e010";
+}
+.flaticon31-help21:before {
+	content: "\e011";
+}
+.flaticon31-help22:before {
+	content: "\e012";
+}
+.flaticon31-help23:before {
+	content: "\e013";
+}
+.flaticon31-holding hands1:before {
+	content: "\e014";
+}
+.flaticon31-holding hands2:before {
+	content: "\e015";
+}
+.flaticon31-holding hands3:before {
+	content: "\e016";
+}
+.flaticon31-holding hands:before {
+	content: "\e017";
+}
+.flaticon31-nurse14:before {
+	content: "\e018";
+}
+.flaticon31-plant43:before {
+	content: "\e019";
+}
+.flaticon31-sweep1:before {
+	content: "\e01a";
+}
+.flaticon31-teaching:before {
+	content: "\e01b";
+}
+.flaticon31-traffic24:before {
+	content: "\e01c";
+}
+.flaticon31-waving1:before {
+	content: "\e01d";
+}

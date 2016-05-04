@@ -1,0 +1,168 @@
+{
+  "checksum": {
+    "previous": "ff6c5766c6f8d6f4a62b506ba52340a76580dac75c349dfaaec54880c56bf460",
+    "current": "ff6c5766c6f8d6f4a62b506ba52340a76580dac75c349dfaaec54880c56bf460"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "beetle-car-front": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/beetle-car-front.svg"
+    },
+    "bus-front": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/bus-front.svg"
+    },
+    "cabrio-car": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/cabrio-car.svg"
+    },
+    "camaro-car-front": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/camaro-car-front.svg"
+    },
+    "car": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car.svg"
+    },
+    "car-black-side-view-pointing-left": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-black-side-view-pointing-left.svg"
+    },
+    "car-city-model": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-city-model.svg"
+    },
+    "car-front": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-front.svg"
+    },
+    "car-muscle-design": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-muscle-design.svg"
+    },
+    "car-of-formula-1": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-of-formula-1.svg"
+    },
+    "car-of-hatchback-model": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-of-hatchback-model.svg"
+    },
+    "car-suv": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/car-suv.svg"
+    },
+    "coupe-car": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/coupe-car.svg"
+    },
+    "delivery-truck-front": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/delivery-truck-front.svg"
+    },
+    "impala-car-front": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/impala-car-front.svg"
+    },
+    "jeep": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/jeep.svg"
+    },
+    "jeep-cabrio": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/jeep-cabrio.svg"
+    },
+    "microbus": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/microbus.svg"
+    },
+    "mini-van": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/mini-van.svg"
+    },
+    "minivan-car": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/minivan-car.svg"
+    },
+    "old-pickup": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/old-pickup.svg"
+    },
+    "pick-up": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/pick-up.svg"
+    },
+    "rolls-royce-luxury-car-front": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/rolls-royce-luxury-car-front.svg"
+    },
+    "sedan-car-front": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/sedan-car-front.svg"
+    },
+    "sedan-car-model": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/sedan-car-model.svg"
+    },
+    "sportive-car": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/sportive-car.svg"
+    },
+    "supercar": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/supercar.svg"
+    },
+    "tractor-front": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/tractor-front.svg"
+    },
+    "truck-front": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/truck-front.svg"
+    },
+    "van-black-transport-side-view-pointing-to-left": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111093-cars/svg/van-black-transport-side-view-pointing-to-left.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111093-cars/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111093-cars/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111093-cars/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111093-cars/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111093-cars/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111093-cars/font/flaticon.css"
+  ]
+}

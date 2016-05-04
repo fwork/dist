@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-boy-silhouette-playing-soccer:before { content: "\f100"; }
+.flaticon-businessman-with-handbag-standing-silhouette:before { content: "\f101"; }
+.flaticon-couple-in-love:before { content: "\f102"; }
+.flaticon-couple-portrait-with-frame:before { content: "\f103"; }
+.flaticon-couple-silhouette:before { content: "\f104"; }
+.flaticon-couple-with-baby-silhouettes-of-a-family-group:before { content: "\f105"; }
+.flaticon-elderly-couple:before { content: "\f106"; }
+.flaticon-elderly-couple-silhouettes-with-canes:before { content: "\f107"; }
+.flaticon-familiar-group-of-two-children-father-and-mother:before { content: "\f108"; }
+.flaticon-family-group-of-four:before { content: "\f109"; }
+.flaticon-family-group-of-three:before { content: "\f10a"; }
+.flaticon-family-of-six-including-a-baby:before { content: "\f10b"; }
+.flaticon-family-silhouette:before { content: "\f10c"; }
+.flaticon-family-with-balloons:before { content: "\f10d"; }
+.flaticon-father-daughter-and-mother:before { content: "\f10e"; }
+.flaticon-father-mother-and-son-silhouette:before { content: "\f10f"; }
+.flaticon-father-playing-with-son:before { content: "\f110"; }
+.flaticon-father-with-children-raising-arms:before { content: "\f111"; }
+.flaticon-father-with-son-on-shopping-cart:before { content: "\f112"; }
+.flaticon-girl-with-butterflies:before { content: "\f113"; }
+.flaticon-grandmother-and-grandfather-with-child-familiar-silhouettes:before { content: "\f114"; }
+.flaticon-grandson-with-grandfather:before { content: "\f115"; }
+.flaticon-happy-shopper-jumping-with-shopping-bags:before { content: "\f116"; }
+.flaticon-hugging-couple:before { content: "\f117"; }
+.flaticon-jumping-man:before { content: "\f118"; }
+.flaticon-man-giving-flowers-present-to-a-woman:before { content: "\f119"; }
+.flaticon-man-silhouette-playing-soccer:before { content: "\f11a"; }
+.flaticon-mother-and-son-silhouettes:before { content: "\f11b"; }
+.flaticon-mother-and-son-silhouettes-1:before { content: "\f11c"; }
+.flaticon-mother-with-baby:before { content: "\f11d"; }
+.flaticon-mother-with-son-silhouettes:before { content: "\f11e"; }
+.flaticon-mother-with-two-childs:before { content: "\f11f"; }
+.flaticon-person-playing-making-soap-bubbles:before { content: "\f120"; }
+.flaticon-person-riding-a-bike-ecological-transport:before { content: "\f121"; }
+.flaticon-person-with-baby:before { content: "\f122"; }
+.flaticon-two-childs-playing-silhouettes:before { content: "\f123"; }
+.flaticon-walking-family-group-of-father-mother-and-daughter:before { content: "\f124"; }
+.flaticon-woman-holding-a-heart:before { content: "\f125"; }
+.flaticon-woman-silhouette-with-hearts-balloons:before { content: "\f126"; }
+.flaticon-woman-with-balloon:before { content: "\f127"; }

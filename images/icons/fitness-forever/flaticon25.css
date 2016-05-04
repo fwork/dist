@@ -1,0 +1,226 @@
+@font-face {
+	font-family: "flaticon25";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon25-"]:before, [class*=" flaticon25-"]:before,
+[class^="flaticon25-"]:after, [class*=" flaticon25-"]:after {   
+	font-family: flaticon25;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon25-apple63:before {
+	content: "\e000";
+}
+.flaticon25-apple64:before {
+	content: "\e001";
+}
+.flaticon25-bald37:before {
+	content: "\e002";
+}
+.flaticon25-ball23:before {
+	content: "\e003";
+}
+.flaticon25-band13:before {
+	content: "\e004";
+}
+.flaticon25-bicycle14:before {
+	content: "\e005";
+}
+.flaticon25-bike15:before {
+	content: "\e006";
+}
+.flaticon25-break1:before {
+	content: "\e007";
+}
+.flaticon25-burger10:before {
+	content: "\e008";
+}
+.flaticon25-calendar146:before {
+	content: "\e009";
+}
+.flaticon25-carrot8:before {
+	content: "\e00a";
+}
+.flaticon25-chronometer19:before {
+	content: "\e00b";
+}
+.flaticon25-chronometer20:before {
+	content: "\e00c";
+}
+.flaticon25-cross85:before {
+	content: "\e00d";
+}
+.flaticon25-date6:before {
+	content: "\e00e";
+}
+.flaticon25-drugs6:before {
+	content: "\e00f";
+}
+.flaticon25-dumbbell24:before {
+	content: "\e010";
+}
+.flaticon25-dumbbells2:before {
+	content: "\e011";
+}
+.flaticon25-dumbbells3:before {
+	content: "\e012";
+}
+.flaticon25-file73:before {
+	content: "\e013";
+}
+.flaticon25-first41:before {
+	content: "\e014";
+}
+.flaticon25-fitness:before {
+	content: "\e015";
+}
+.flaticon25-flexions:before {
+	content: "\e016";
+}
+.flaticon25-gloves5:before {
+	content: "\e017";
+}
+.flaticon25-hanging14:before {
+	content: "\e018";
+}
+.flaticon25-healthy7:before {
+	content: "\e019";
+}
+.flaticon25-heart285:before {
+	content: "\e01a";
+}
+.flaticon25-heart286:before {
+	content: "\e01b";
+}
+.flaticon25-heart287:before {
+	content: "\e01c";
+}
+.flaticon25-heart288:before {
+	content: "\e01d";
+}
+.flaticon25-kickboxing1:before {
+	content: "\e01e";
+}
+.flaticon25-man428:before {
+	content: "\e01f";
+}
+.flaticon25-man429:before {
+	content: "\e020";
+}
+.flaticon25-medical85:before {
+	content: "\e021";
+}
+.flaticon25-medical86:before {
+	content: "\e022";
+}
+.flaticon25-medical87:before {
+	content: "\e023";
+}
+.flaticon25-meter7:before {
+	content: "\e024";
+}
+.flaticon25-musculous:before {
+	content: "\e025";
+}
+.flaticon25-music224:before {
+	content: "\e026";
+}
+.flaticon25-musical103:before {
+	content: "\e027";
+}
+.flaticon25-musical104:before {
+	content: "\e028";
+}
+.flaticon25-no67:before {
+	content: "\e029";
+}
+.flaticon25-notes24:before {
+	content: "\e02a";
+}
+.flaticon25-oxygenation:before {
+	content: "\e02b";
+}
+.flaticon25-pencil88:before {
+	content: "\e02c";
+}
+.flaticon25-restaurant44:before {
+	content: "\e02d";
+}
+.flaticon25-resting5:before {
+	content: "\e02e";
+}
+.flaticon25-runer:before {
+	content: "\e02f";
+}
+.flaticon25-sauce3:before {
+	content: "\e030";
+}
+.flaticon25-scale16:before {
+	content: "\e031";
+}
+.flaticon25-scale17:before {
+	content: "\e032";
+}
+.flaticon25-skating3:before {
+	content: "\e033";
+}
+.flaticon25-sportive57:before {
+	content: "\e034";
+}
+.flaticon25-standing92:before {
+	content: "\e035";
+}
+.flaticon25-star157:before {
+	content: "\e036";
+}
+.flaticon25-steroids1:before {
+	content: "\e037";
+}
+.flaticon25-sunrise4:before {
+	content: "\e038";
+}
+.flaticon25-swimming22:before {
+	content: "\e039";
+}
+.flaticon25-thin37:before {
+	content: "\e03a";
+}
+.flaticon25-thumb42:before {
+	content: "\e03b";
+}
+.flaticon25-trophy56:before {
+	content: "\e03c";
+}
+.flaticon25-truck38:before {
+	content: "\e03d";
+}
+.flaticon25-two328:before {
+	content: "\e03e";
+}
+.flaticon25-water53:before {
+	content: "\e03f";
+}
+.flaticon25-weightlifter1:before {
+	content: "\e040";
+}
+.flaticon25-weightlifter2:before {
+	content: "\e041";
+}
+.flaticon25-weightlifter3:before {
+	content: "\e042";
+}
+.flaticon25-wine57:before {
+	content: "\e043";
+}
+.flaticon25-yin6:before {
+	content: "\e044";
+}
+.flaticon25-yoga13:before {
+	content: "\e045";
+}

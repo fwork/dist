@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 12:15
+  	*/
+
+@font-face {
+  font-family: "flaticon30";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon30";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon30-"]:before, [class*=" flaticon30-"]:before,
+[class^="flaticon30-"]:after, [class*=" flaticon30-"]:after {   
+  font-family: flaticon30;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon30-air-conditioning:before { content: "\f100"; }
+.flaticon30-armchair:before { content: "\f101"; }
+.flaticon30-bathtub:before { content: "\f102"; }
+.flaticon30-battery:before { content: "\f103"; }
+.flaticon30-cctv:before { content: "\f104"; }
+.flaticon30-clock:before { content: "\f105"; }
+.flaticon30-coffee-machine:before { content: "\f106"; }
+.flaticon30-computer:before { content: "\f107"; }
+.flaticon30-door:before { content: "\f108"; }
+.flaticon30-doorknob:before { content: "\f109"; }
+.flaticon30-extinguishing:before { content: "\f10a"; }
+.flaticon30-eye:before { content: "\f10b"; }
+.flaticon30-garage:before { content: "\f10c"; }
+.flaticon30-garbage:before { content: "\f10d"; }
+.flaticon30-house:before { content: "\f10e"; }
+.flaticon30-house-1:before { content: "\f10f"; }
+.flaticon30-house-2:before { content: "\f110"; }
+.flaticon30-house-3:before { content: "\f111"; }
+.flaticon30-house-4:before { content: "\f112"; }
+.flaticon30-house-5:before { content: "\f113"; }
+.flaticon30-info:before { content: "\f114"; }
+.flaticon30-key:before { content: "\f115"; }
+.flaticon30-keyhole:before { content: "\f116"; }
+.flaticon30-lamp:before { content: "\f117"; }
+.flaticon30-lamp-1:before { content: "\f118"; }
+.flaticon30-light-bulb:before { content: "\f119"; }
+.flaticon30-light-bulb-1:before { content: "\f11a"; }
+.flaticon30-lock:before { content: "\f11b"; }
+.flaticon30-microwave-oven:before { content: "\f11c"; }
+.flaticon30-mobile-phone:before { content: "\f11d"; }
+.flaticon30-padlock:before { content: "\f11e"; }
+.flaticon30-placeholder:before { content: "\f11f"; }
+.flaticon30-placeholder-1:before { content: "\f120"; }
+.flaticon30-plug:before { content: "\f121"; }
+.flaticon30-power-button:before { content: "\f122"; }
+.flaticon30-refrigerator:before { content: "\f123"; }
+.flaticon30-remote-control:before { content: "\f124"; }
+.flaticon30-safebox:before { content: "\f125"; }
+.flaticon30-shield:before { content: "\f126"; }
+.flaticon30-snowflake:before { content: "\f127"; }
+.flaticon30-socket:before { content: "\f128"; }
+.flaticon30-sound:before { content: "\f129"; }
+.flaticon30-stove:before { content: "\f12a"; }
+.flaticon30-tap:before { content: "\f12b"; }
+.flaticon30-television:before { content: "\f12c"; }
+.flaticon30-thermometers:before { content: "\f12d"; }
+.flaticon30-umbrella:before { content: "\f12e"; }
+.flaticon30-washing-machine:before { content: "\f12f"; }
+.flaticon30-webcam:before { content: "\f130"; }
+.flaticon30-window:before { content: "\f131"; }

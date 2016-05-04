@@ -1,0 +1,1008 @@
+{
+  "checksum": {
+    "previous": "7cd50e79d663c3062aeaa5539690d39f38da35e46f1ee6f668284b0a2390ec95",
+    "current": "7cd50e79d663c3062aeaa5539690d39f38da35e46f1ee6f668284b0a2390ec95"
+  },
+  "fonts": [
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/Flaticon.ttf",
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/Flaticon.svg",
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/Flaticon.woff",
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/Flaticon.eot"
+  ],
+  "glyphs": {
+    "apron-silhouette": {
+      "codepoint": 61696,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/apron-silhouette.svg"
+    },
+    "big-food-container-with-cover": {
+      "codepoint": 61697,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/big-food-container-with-cover.svg"
+    },
+    "black-bottle": {
+      "codepoint": 61698,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-bottle.svg"
+    },
+    "black-bottle-sauce-container": {
+      "codepoint": 61699,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-bottle-sauce-container.svg"
+    },
+    "black-elegant-drinking-glass-tool": {
+      "codepoint": 61700,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-elegant-drinking-glass-tool.svg"
+    },
+    "black-glass": {
+      "codepoint": 61701,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-glass.svg"
+    },
+    "black-glass-of-convex-sides": {
+      "codepoint": 61702,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-glass-of-convex-sides.svg"
+    },
+    "black-glass-side-view": {
+      "codepoint": 61703,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-glass-side-view.svg"
+    },
+    "black-glass-to-drink": {
+      "codepoint": 61704,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-glass-to-drink.svg"
+    },
+    "black-plate-side-view": {
+      "codepoint": 61705,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-plate-side-view.svg"
+    },
+    "black-wine-bottle-glass-shape": {
+      "codepoint": 61706,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/black-wine-bottle-glass-shape.svg"
+    },
+    "boiler-silhouette": {
+      "codepoint": 61707,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/boiler-silhouette.svg"
+    },
+    "bowl": {
+      "codepoint": 61708,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bowl.svg"
+    },
+    "bowl-or-flask-with-empty-label-for-kitchen-to-store-food": {
+      "codepoint": 61709,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bowl-or-flask-with-empty-label-for-kitchen-to-store-food.svg"
+    },
+    "bucket-for-dessert": {
+      "codepoint": 61710,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bucket-for-dessert.svg"
+    },
+    "bucket-for-tea": {
+      "codepoint": 61711,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bucket-for-tea.svg"
+    },
+    "bucket-for-vegetables-in-diagonal-position": {
+      "codepoint": 61712,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bucket-for-vegetables-in-diagonal-position.svg"
+    },
+    "bucket-tool": {
+      "codepoint": 61713,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/bucket-tool.svg"
+    },
+    "buckets-kitchen-set": {
+      "codepoint": 61714,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/buckets-kitchen-set.svg"
+    },
+    "champagne-glass": {
+      "codepoint": 61715,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/champagne-glass.svg"
+    },
+    "chef": {
+      "codepoint": 61716,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef.svg"
+    },
+    "chef-hat": {
+      "codepoint": 61717,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat.svg"
+    },
+    "chef-hat-and-a-spoon": {
+      "codepoint": 61718,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat-and-a-spoon.svg"
+    },
+    "chef-hat-and-fork": {
+      "codepoint": 61719,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat-and-fork.svg"
+    },
+    "chef-hat-on-a-plate-from-side-view": {
+      "codepoint": 61720,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat-on-a-plate-from-side-view.svg"
+    },
+    "chef-hat-outline-symbol": {
+      "codepoint": 61721,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat-outline-symbol.svg"
+    },
+    "chef-hat-with-cutlery-restaurant-symbol": {
+      "codepoint": 61722,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-hat-with-cutlery-restaurant-symbol.svg"
+    },
+    "chef-recipes-book": {
+      "codepoint": 61723,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-recipes-book.svg"
+    },
+    "chef-with-hat": {
+      "codepoint": 61724,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chef-with-hat.svg"
+    },
+    "chinese-food-bowl-from-side-view-and-chopsticks": {
+      "codepoint": 61725,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chinese-food-bowl-from-side-view-and-chopsticks.svg"
+    },
+    "chopsticks-couple-in-cross": {
+      "codepoint": 61726,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/chopsticks-couple-in-cross.svg"
+    },
+    "cloth-for-kitchen-rotated-square-or-label-for-commerce": {
+      "codepoint": 61727,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cloth-for-kitchen-rotated-square-or-label-for-commerce.svg"
+    },
+    "coffee-cup-on-a-hand": {
+      "codepoint": 61728,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/coffee-cup-on-a-hand.svg"
+    },
+    "cooking-accessories-set-of-three-pieces": {
+      "codepoint": 61729,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-accessories-set-of-three-pieces.svg"
+    },
+    "cooking-accessory-for-kitchen": {
+      "codepoint": 61730,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-accessory-for-kitchen.svg"
+    },
+    "cooking-bowl": {
+      "codepoint": 61731,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-bowl.svg"
+    },
+    "cooking-bowl-for-kitchen": {
+      "codepoint": 61732,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-bowl-for-kitchen.svg"
+    },
+    "cooking-bowl-wih-cover": {
+      "codepoint": 61733,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-bowl-wih-cover.svg"
+    },
+    "cooking-container-with-cover": {
+      "codepoint": 61734,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-container-with-cover.svg"
+    },
+    "cooking-on-fire": {
+      "codepoint": 61735,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-on-fire.svg"
+    },
+    "cooking-pan-and-cutlery-set": {
+      "codepoint": 61736,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-pan-and-cutlery-set.svg"
+    },
+    "cooking-pot-with-cover": {
+      "codepoint": 61737,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-pot-with-cover.svg"
+    },
+    "cooking-recipes-book": {
+      "codepoint": 61738,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-recipes-book.svg"
+    },
+    "cooking-recipes-book-with-a-fork-and-a-spoon-in-cross-on-the-cover": {
+      "codepoint": 61739,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-recipes-book-with-a-fork-and-a-spoon-in-cross-on-the-cover.svg"
+    },
+    "cooking-roller-silhouette": {
+      "codepoint": 61740,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cooking-roller-silhouette.svg"
+    },
+    "covered-food-tray-on-a-hand-of-hotel-room-service": {
+      "codepoint": 61741,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/covered-food-tray-on-a-hand-of-hotel-room-service.svg"
+    },
+    "covered-kitchen-bowl": {
+      "codepoint": 61742,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/covered-kitchen-bowl.svg"
+    },
+    "covered-pan-on-fire": {
+      "codepoint": 61743,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/covered-pan-on-fire.svg"
+    },
+    "covered-plate-of-food": {
+      "codepoint": 61744,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/covered-plate-of-food.svg"
+    },
+    "cup-black-shape-side-view": {
+      "codepoint": 61745,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cup-black-shape-side-view.svg"
+    },
+    "cup-for-tea-or-coffee": {
+      "codepoint": 61746,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cup-for-tea-or-coffee.svg"
+    },
+    "cup-with-hot-drink": {
+      "codepoint": 61747,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cup-with-hot-drink.svg"
+    },
+    "cup-with-hot-tea": {
+      "codepoint": 61748,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cup-with-hot-tea.svg"
+    },
+    "cutlery": {
+      "codepoint": 61749,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery.svg"
+    },
+    "cutlery-1": {
+      "codepoint": 61750,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-1.svg"
+    },
+    "cutlery-2": {
+      "codepoint": 61751,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-2.svg"
+    },
+    "cutlery-3": {
+      "codepoint": 61752,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-3.svg"
+    },
+    "cutlery-cross-couple-of-fork-and-spoon": {
+      "codepoint": 61753,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-cross-couple-of-fork-and-spoon.svg"
+    },
+    "cutlery-cross-of-a-knife-and-a-spoon": {
+      "codepoint": 61754,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-cross-of-a-knife-and-a-spoon.svg"
+    },
+    "cutlery-for-fish": {
+      "codepoint": 61755,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-for-fish.svg"
+    },
+    "cutlery-kitchen-set": {
+      "codepoint": 61756,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-kitchen-set.svg"
+    },
+    "cutlery-kitchen-set-1": {
+      "codepoint": 61757,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-kitchen-set-1.svg"
+    },
+    "cutlery-on-circular-plate": {
+      "codepoint": 61758,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-on-circular-plate.svg"
+    },
+    "cutlery-pieces-on-a-circular-plate-from-top-view": {
+      "codepoint": 61759,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-pieces-on-a-circular-plate-from-top-view.svg"
+    },
+    "cutlery-set": {
+      "codepoint": 61760,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set.svg"
+    },
+    "cutlery-set-of-eating-tools": {
+      "codepoint": 61761,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-of-eating-tools.svg"
+    },
+    "cutlery-set-of-five-pieces": {
+      "codepoint": 61762,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-of-five-pieces.svg"
+    },
+    "cutlery-set-of-five-pieces-1": {
+      "codepoint": 61763,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-of-five-pieces-1.svg"
+    },
+    "cutlery-set-of-three-pieces": {
+      "codepoint": 61764,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-of-three-pieces.svg"
+    },
+    "cutlery-set-on-a-plate": {
+      "codepoint": 61765,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-on-a-plate.svg"
+    },
+    "cutlery-set-on-a-plate-1": {
+      "codepoint": 61766,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-on-a-plate-1.svg"
+    },
+    "cutlery-set-on-a-plate-2": {
+      "codepoint": 61767,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-set-on-a-plate-2.svg"
+    },
+    "cutlery-symbol": {
+      "codepoint": 61768,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutlery-symbol.svg"
+    },
+    "cutting-board-black-rectangular-silhouette-of-the-tool": {
+      "codepoint": 61769,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutting-board-black-rectangular-silhouette-of-the-tool.svg"
+    },
+    "cutting-board-side-view-silhouettes-of-tools": {
+      "codepoint": 61770,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutting-board-side-view-silhouettes-of-tools.svg"
+    },
+    "cutting-tool-for-potatoes": {
+      "codepoint": 61771,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/cutting-tool-for-potatoes.svg"
+    },
+    "dessert-glass-container-of-tall-elegant-shape": {
+      "codepoint": 61772,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/dessert-glass-container-of-tall-elegant-shape.svg"
+    },
+    "desserts-recipes-book": {
+      "codepoint": 61773,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/desserts-recipes-book.svg"
+    },
+    "drinks-recipes-book": {
+      "codepoint": 61774,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/drinks-recipes-book.svg"
+    },
+    "electrical-kettle-tool-side-view": {
+      "codepoint": 61775,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/electrical-kettle-tool-side-view.svg"
+    },
+    "elegant-black-wine-glass": {
+      "codepoint": 61776,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/elegant-black-wine-glass.svg"
+    },
+    "elegant-glass-for-water": {
+      "codepoint": 61777,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/elegant-glass-for-water.svg"
+    },
+    "flat-cooking-bowl-from-side-view": {
+      "codepoint": 61778,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/flat-cooking-bowl-from-side-view.svg"
+    },
+    "flat-cooking-pan": {
+      "codepoint": 61779,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/flat-cooking-pan.svg"
+    },
+    "flat-covered-pan-kitchen-tool-for-cooking-from-side-view": {
+      "codepoint": 61780,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/flat-covered-pan-kitchen-tool-for-cooking-from-side-view.svg"
+    },
+    "flat-kitchen-bowl-to-cook-heating-the-food": {
+      "codepoint": 61781,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/flat-kitchen-bowl-to-cook-heating-the-food.svg"
+    },
+    "flat-plate-with-hot-food-from-side-view": {
+      "codepoint": 61782,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/flat-plate-with-hot-food-from-side-view.svg"
+    },
+    "food-scale-tool": {
+      "codepoint": 61783,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/food-scale-tool.svg"
+    },
+    "fork-and-knife-cutlery-circle-interface-symbol-for-restaurant": {
+      "codepoint": 61784,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-and-knife-cutlery-circle-interface-symbol-for-restaurant.svg"
+    },
+    "fork-and-knife-in-cross": {
+      "codepoint": 61785,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-and-knife-in-cross.svg"
+    },
+    "fork-and-spoon-for-salad": {
+      "codepoint": 61786,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-and-spoon-for-salad.svg"
+    },
+    "fork-eating-tool-silhouette-in-diagonal": {
+      "codepoint": 61787,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-eating-tool-silhouette-in-diagonal.svg"
+    },
+    "fork-for-dessert": {
+      "codepoint": 61788,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-for-dessert.svg"
+    },
+    "fork-in-diagonal": {
+      "codepoint": 61789,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-in-diagonal.svg"
+    },
+    "fork-of-long-and-thin-shape": {
+      "codepoint": 61790,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/fork-of-long-and-thin-shape.svg"
+    },
+    "forks": {
+      "codepoint": 61791,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/forks.svg"
+    },
+    "forks-for-meat": {
+      "codepoint": 61792,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/forks-for-meat.svg"
+    },
+    "forks-set-for-kitchen": {
+      "codepoint": 61793,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/forks-set-for-kitchen.svg"
+    },
+    "four-cooking-accessories-set-for-kitchen": {
+      "codepoint": 61794,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/four-cooking-accessories-set-for-kitchen.svg"
+    },
+    "frying-pan-silhouette-from-top-view": {
+      "codepoint": 61795,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/frying-pan-silhouette-from-top-view.svg"
+    },
+    "glass": {
+      "codepoint": 61796,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass.svg"
+    },
+    "glass-1": {
+      "codepoint": 61797,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-1.svg"
+    },
+    "glass-2": {
+      "codepoint": 61798,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-2.svg"
+    },
+    "glass-black-drinking-tool": {
+      "codepoint": 61799,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-black-drinking-tool.svg"
+    },
+    "glass-black-shape-from-side-view": {
+      "codepoint": 61800,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-black-shape-from-side-view.svg"
+    },
+    "glass-black-side-view-shape": {
+      "codepoint": 61801,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-black-side-view-shape.svg"
+    },
+    "glass-black-tool": {
+      "codepoint": 61802,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-black-tool.svg"
+    },
+    "glass-elegant-black-shape": {
+      "codepoint": 61803,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-elegant-black-shape.svg"
+    },
+    "glass-for-flowers": {
+      "codepoint": 61804,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-for-flowers.svg"
+    },
+    "glass-of-wine": {
+      "codepoint": 61805,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-of-wine.svg"
+    },
+    "glass-on-a-hand": {
+      "codepoint": 61806,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-on-a-hand.svg"
+    },
+    "glass-shape": {
+      "codepoint": 61807,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-shape.svg"
+    },
+    "glass-with-beverage-ice-cubes-and-straw": {
+      "codepoint": 61808,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/glass-with-beverage-ice-cubes-and-straw.svg"
+    },
+    "grinder-for-meat": {
+      "codepoint": 61809,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/grinder-for-meat.svg"
+    },
+    "heating-food-in-flat-pan-on-fire": {
+      "codepoint": 61810,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/heating-food-in-flat-pan-on-fire.svg"
+    },
+    "hot-coffee-cup-with-spoon-in-it": {
+      "codepoint": 61811,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/hot-coffee-cup-with-spoon-in-it.svg"
+    },
+    "hot-food-bowl": {
+      "codepoint": 61812,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/hot-food-bowl.svg"
+    },
+    "hot-food-in-a-bowl": {
+      "codepoint": 61813,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/hot-food-in-a-bowl.svg"
+    },
+    "hot-food-in-open-bowl": {
+      "codepoint": 61814,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/hot-food-in-open-bowl.svg"
+    },
+    "hot-recipes-kitchen-book": {
+      "codepoint": 61815,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/hot-recipes-kitchen-book.svg"
+    },
+    "ice-cream-balls-on-tall-glass": {
+      "codepoint": 61816,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/ice-cream-balls-on-tall-glass.svg"
+    },
+    "jar": {
+      "codepoint": 61817,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/jar.svg"
+    },
+    "kitchen-accessory": {
+      "codepoint": 61818,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory.svg"
+    },
+    "kitchen-accessory-1": {
+      "codepoint": 61819,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-1.svg"
+    },
+    "kitchen-accessory-2": {
+      "codepoint": 61820,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-2.svg"
+    },
+    "kitchen-accessory-3": {
+      "codepoint": 61821,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-3.svg"
+    },
+    "kitchen-accessory-for-cake": {
+      "codepoint": 61822,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-for-cake.svg"
+    },
+    "kitchen-accessory-for-cheese": {
+      "codepoint": 61823,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-for-cheese.svg"
+    },
+    "kitchen-accessory-in-diagonal-position": {
+      "codepoint": 61824,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-in-diagonal-position.svg"
+    },
+    "kitchen-accessory-silhouette": {
+      "codepoint": 61825,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-silhouette.svg"
+    },
+    "kitchen-accessory-silhouette-in-diagonal": {
+      "codepoint": 61826,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-accessory-silhouette-in-diagonal.svg"
+    },
+    "kitchen-apron-and-glove": {
+      "codepoint": 61827,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-apron-and-glove.svg"
+    },
+    "kitchen-ax": {
+      "codepoint": 61828,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-ax.svg"
+    },
+    "kitchen-bowl": {
+      "codepoint": 61829,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-bowl.svg"
+    },
+    "kitchen-bowl-for-cooking-with-cover": {
+      "codepoint": 61830,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-bowl-for-cooking-with-cover.svg"
+    },
+    "kitchen-bowl-with-cover": {
+      "codepoint": 61831,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-bowl-with-cover.svg"
+    },
+    "kitchen-forceps-silhouette-in-diagonal-position": {
+      "codepoint": 61832,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-forceps-silhouette-in-diagonal-position.svg"
+    },
+    "kitchen-glove": {
+      "codepoint": 61833,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-glove.svg"
+    },
+    "kitchen-hammer-silhouette": {
+      "codepoint": 61834,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-hammer-silhouette.svg"
+    },
+    "kitchen-mixer": {
+      "codepoint": 61835,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-mixer.svg"
+    },
+    "kitchen-opened-pan-tool": {
+      "codepoint": 61836,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-opened-pan-tool.svg"
+    },
+    "kitchen-pan-with-cover": {
+      "codepoint": 61837,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-pan-with-cover.svg"
+    },
+    "kitchen-pan-with-cover-1": {
+      "codepoint": 61838,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-pan-with-cover-1.svg"
+    },
+    "kitchen-pan-with-cover-for-heat": {
+      "codepoint": 61839,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-pan-with-cover-for-heat.svg"
+    },
+    "kitchen-scale-tool": {
+      "codepoint": 61840,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-scale-tool.svg"
+    },
+    "kitchen-set-for-cake": {
+      "codepoint": 61841,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-set-for-cake.svg"
+    },
+    "kitchen-utensil": {
+      "codepoint": 61842,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-utensil.svg"
+    },
+    "kitchen-utensil-for-salt": {
+      "codepoint": 61843,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-utensil-for-salt.svg"
+    },
+    "kitchen-utensil-to-cook-hot-food": {
+      "codepoint": 61844,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-utensil-to-cook-hot-food.svg"
+    },
+    "kitchen-wheel-accessory-for-cutting": {
+      "codepoint": 61845,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/kitchen-wheel-accessory-for-cutting.svg"
+    },
+    "knife": {
+      "codepoint": 61846,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife.svg"
+    },
+    "knife-and-fork-in-a-square-for-interface-symbol-for-restaurants": {
+      "codepoint": 61847,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-and-fork-in-a-square-for-interface-symbol-for-restaurants.svg"
+    },
+    "knife-black-diagonal-tool-silhouette": {
+      "codepoint": 61848,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-black-diagonal-tool-silhouette.svg"
+    },
+    "knife-cutting-tool": {
+      "codepoint": 61849,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-cutting-tool.svg"
+    },
+    "knife-diagonal-tool-silhouette": {
+      "codepoint": 61850,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-diagonal-tool-silhouette.svg"
+    },
+    "knife-for-pizza-with-a-wheel-of-metal": {
+      "codepoint": 61851,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-for-pizza-with-a-wheel-of-metal.svg"
+    },
+    "knife-long-thin-cutting-tool-silhouette": {
+      "codepoint": 61852,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-long-thin-cutting-tool-silhouette.svg"
+    },
+    "knife-of-thin-shape-in-diagonal-position": {
+      "codepoint": 61853,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-of-thin-shape-in-diagonal-position.svg"
+    },
+    "knife-on-cutting-board": {
+      "codepoint": 61854,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-on-cutting-board.svg"
+    },
+    "knife-silhouette-in-diagonal-position": {
+      "codepoint": 61855,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-silhouette-in-diagonal-position.svg"
+    },
+    "knife-tool": {
+      "codepoint": 61856,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knife-tool.svg"
+    },
+    "knives-cross": {
+      "codepoint": 61857,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knives-cross.svg"
+    },
+    "knives-cutlery-set-for-kitchen": {
+      "codepoint": 61858,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knives-cutlery-set-for-kitchen.svg"
+    },
+    "knives-set-silhouette": {
+      "codepoint": 61859,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/knives-set-silhouette.svg"
+    },
+    "long-thin-spoon-for-kitchen": {
+      "codepoint": 61860,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/long-thin-spoon-for-kitchen.svg"
+    },
+    "meat-recipes-book": {
+      "codepoint": 61861,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/meat-recipes-book.svg"
+    },
+    "meat-recipes-book-1": {
+      "codepoint": 61862,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/meat-recipes-book-1.svg"
+    },
+    "microwave-oven": {
+      "codepoint": 61863,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/microwave-oven.svg"
+    },
+    "mixer": {
+      "codepoint": 61864,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/mixer.svg"
+    },
+    "mixer-kitchen-machine": {
+      "codepoint": 61865,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/mixer-kitchen-machine.svg"
+    },
+    "mixer-kitchen-tool-side-view": {
+      "codepoint": 61866,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/mixer-kitchen-tool-side-view.svg"
+    },
+    "mixing-machine": {
+      "codepoint": 61867,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/mixing-machine.svg"
+    },
+    "opener-for-wine-bottles": {
+      "codepoint": 61868,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/opener-for-wine-bottles.svg"
+    },
+    "opener-in-diagonal-position": {
+      "codepoint": 61869,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/opener-in-diagonal-position.svg"
+    },
+    "oven-kitchen-tool-for-cooking-foods": {
+      "codepoint": 61870,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/oven-kitchen-tool-for-cooking-foods.svg"
+    },
+    "pitcher": {
+      "codepoint": 61871,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/pitcher.svg"
+    },
+    "pitcher-kitchen-container-for-liquids-measuring": {
+      "codepoint": 61872,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/pitcher-kitchen-container-for-liquids-measuring.svg"
+    },
+    "pitcher-kitchen-utensil-with-liquid-inside": {
+      "codepoint": 61873,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/pitcher-kitchen-utensil-with-liquid-inside.svg"
+    },
+    "pitcher-or-tea-pot": {
+      "codepoint": 61874,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/pitcher-or-tea-pot.svg"
+    },
+    "pitcher-or-teapot-side-view": {
+      "codepoint": 61875,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/pitcher-or-teapot-side-view.svg"
+    },
+    "plate-and-cutlery-from-top-view": {
+      "codepoint": 61876,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-and-cutlery-from-top-view.svg"
+    },
+    "plate-and-forks-couple-from-top-view": {
+      "codepoint": 61877,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-and-forks-couple-from-top-view.svg"
+    },
+    "plate-circles-from-top-view": {
+      "codepoint": 61878,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-circles-from-top-view.svg"
+    },
+    "plate-glass-and-napkin-from-top-view": {
+      "codepoint": 61879,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-glass-and-napkin-from-top-view.svg"
+    },
+    "plate-gross-circle": {
+      "codepoint": 61880,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-gross-circle.svg"
+    },
+    "plate-of-food": {
+      "codepoint": 61881,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-of-food.svg"
+    },
+    "plate-with-cutlery-and-glass-from-top-view": {
+      "codepoint": 61882,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-with-cutlery-and-glass-from-top-view.svg"
+    },
+    "plate-with-fork-and-knife-eating-set-tools-from-top-view": {
+      "codepoint": 61883,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-with-fork-and-knife-eating-set-tools-from-top-view.svg"
+    },
+    "plate-with-glass-and-cutlery-from-top-view": {
+      "codepoint": 61884,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/plate-with-glass-and-cutlery-from-top-view.svg"
+    },
+    "potatoes-cutting-tool": {
+      "codepoint": 61885,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/potatoes-cutting-tool.svg"
+    },
+    "recipes-book-kitchen-guide": {
+      "codepoint": 61886,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/recipes-book-kitchen-guide.svg"
+    },
+    "recipes-book-with-spaghetti-plate-on-the-cover": {
+      "codepoint": 61887,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/recipes-book-with-spaghetti-plate-on-the-cover.svg"
+    },
+    "refrigerator": {
+      "codepoint": 61888,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/refrigerator.svg"
+    },
+    "restaurant-cutlery-circular-interface-symbol-with-a-knife-and-a-spoon": {
+      "codepoint": 61889,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-cutlery-circular-interface-symbol-with-a-knife-and-a-spoon.svg"
+    },
+    "restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle": {
+      "codepoint": 61890,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.svg"
+    },
+    "restaurant-cutlery-symbol-in-a-square": {
+      "codepoint": 61891,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-cutlery-symbol-in-a-square.svg"
+    },
+    "restaurant-eating-tools-set-of-three-pieces": {
+      "codepoint": 61892,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-eating-tools-set-of-three-pieces.svg"
+    },
+    "restaurant-plate-top-view": {
+      "codepoint": 61893,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-plate-top-view.svg"
+    },
+    "restaurant-square-interface-symbol-with-a-knife-and-a-spoon": {
+      "codepoint": 61894,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/restaurant-square-interface-symbol-with-a-knife-and-a-spoon.svg"
+    },
+    "rounded-bowl": {
+      "codepoint": 61895,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/rounded-bowl.svg"
+    },
+    "salty-food-in-a-bowl": {
+      "codepoint": 61896,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/salty-food-in-a-bowl.svg"
+    },
+    "sauce-container-silhouette": {
+      "codepoint": 61897,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/sauce-container-silhouette.svg"
+    },
+    "saucepan-from-side-view": {
+      "codepoint": 61898,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/saucepan-from-side-view.svg"
+    },
+    "scoop-kitchen-utensil": {
+      "codepoint": 61899,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/scoop-kitchen-utensil.svg"
+    },
+    "scoop-of-egg-shape": {
+      "codepoint": 61900,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/scoop-of-egg-shape.svg"
+    },
+    "scoops-couple": {
+      "codepoint": 61901,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/scoops-couple.svg"
+    },
+    "serving-tea-in-a-cup-from-a-teapot": {
+      "codepoint": 61902,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/serving-tea-in-a-cup-from-a-teapot.svg"
+    },
+    "serving-wine-in-a-glass-with-a-bottle": {
+      "codepoint": 61903,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/serving-wine-in-a-glass-with-a-bottle.svg"
+    },
+    "silhouette-of-kitchen-tool-for-pepper": {
+      "codepoint": 61904,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/silhouette-of-kitchen-tool-for-pepper.svg"
+    },
+    "skewer": {
+      "codepoint": 61905,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/skewer.svg"
+    },
+    "skimmer": {
+      "codepoint": 61906,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/skimmer.svg"
+    },
+    "soup-bucket": {
+      "codepoint": 61907,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/soup-bucket.svg"
+    },
+    "soup-hot-bowl-with-spoon": {
+      "codepoint": 61908,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/soup-hot-bowl-with-spoon.svg"
+    },
+    "spoon-for-cream": {
+      "codepoint": 61909,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/spoon-for-cream.svg"
+    },
+    "spoons-and-forks-of-kitchen": {
+      "codepoint": 61910,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/spoons-and-forks-of-kitchen.svg"
+    },
+    "spoons-and-skewer-long-kitchen-utensils": {
+      "codepoint": 61911,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/spoons-and-skewer-long-kitchen-utensils.svg"
+    },
+    "strainer-kitchen-bowl-with-holes": {
+      "codepoint": 61912,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/strainer-kitchen-bowl-with-holes.svg"
+    },
+    "sweet-recipes-opened-cooking-book": {
+      "codepoint": 61913,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/sweet-recipes-opened-cooking-book.svg"
+    },
+    "tall-alcohol-glass": {
+      "codepoint": 61914,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tall-alcohol-glass.svg"
+    },
+    "tall-cup-with-straw-and-spoon-inside": {
+      "codepoint": 61915,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tall-cup-with-straw-and-spoon-inside.svg"
+    },
+    "tall-elegant-glass-shape": {
+      "codepoint": 61916,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tall-elegant-glass-shape.svg"
+    },
+    "tall-kitchen-pan-with-cover": {
+      "codepoint": 61917,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tall-kitchen-pan-with-cover.svg"
+    },
+    "tea-set": {
+      "codepoint": 61918,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tea-set.svg"
+    },
+    "teapot": {
+      "codepoint": 61919,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/teapot.svg"
+    },
+    "thin-glasses-couple-for-celebration": {
+      "codepoint": 61920,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/thin-glasses-couple-for-celebration.svg"
+    },
+    "thin-long-spoon-kitchen-accessory": {
+      "codepoint": 61921,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/thin-long-spoon-kitchen-accessory.svg"
+    },
+    "three-buckets-set-for-kitchen-of-different-sizes": {
+      "codepoint": 61922,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/three-buckets-set-for-kitchen-of-different-sizes.svg"
+    },
+    "timer-kitchen-tool-of-egg-shape": {
+      "codepoint": 61923,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/timer-kitchen-tool-of-egg-shape.svg"
+    },
+    "toaster": {
+      "codepoint": 61924,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/toaster.svg"
+    },
+    "toaster-1": {
+      "codepoint": 61925,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/toaster-1.svg"
+    },
+    "tool-for-soup": {
+      "codepoint": 61926,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/tool-for-soup.svg"
+    },
+    "two-plates-from-side-view": {
+      "codepoint": 61927,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/two-plates-from-side-view.svg"
+    },
+    "vase": {
+      "codepoint": 61928,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/vase.svg"
+    },
+    "whisk-kitchen-tool": {
+      "codepoint": 61929,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/whisk-kitchen-tool.svg"
+    },
+    "wine-black-glass": {
+      "codepoint": 61930,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-black-glass.svg"
+    },
+    "wine-bottle": {
+      "codepoint": 61931,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-bottle.svg"
+    },
+    "wine-bottle-1": {
+      "codepoint": 61932,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-bottle-1.svg"
+    },
+    "wine-bottle-2": {
+      "codepoint": 61933,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-bottle-2.svg"
+    },
+    "wine-bottle-and-opener": {
+      "codepoint": 61934,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-bottle-and-opener.svg"
+    },
+    "wine-opener-silhouette": {
+      "codepoint": 61935,
+      "source": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg/wine-opener-silhouette.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".flaticon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "Flaticon",
+    "force": true,
+    "input": {
+      "templates": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg",
+      "vectors": "/var/www/static/flaticon/zip_packs/111056-kitchen/svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "/var/www/static/flaticon/zip_packs/111056-kitchen/font",
+      "fonts": "/var/www/static/flaticon/zip_packs/111056-kitchen/font",
+      "preview": "/var/www/static/flaticon/zip_packs/111056-kitchen/font"
+    },
+    "preprocessor_path": null,
+    "quiet": true,
+    "templates": [
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.html",
+      "../../../../../sites/flaticon/libraries/webfont/templates/_flaticon.scss",
+      "../../../../../sites/flaticon/libraries/webfont/templates/flaticon.css"
+    ]
+  },
+  "templates": [
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/flaticon.html",
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/_flaticon.scss",
+    "/var/www/static/flaticon/zip_packs/111056-kitchen/font/flaticon.css"
+  ]
+}
