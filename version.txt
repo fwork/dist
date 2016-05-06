@@ -1,3 +1,4 @@
 1.1
 update_1.1.zip
 32 MB
+https://github.com/fwork/dist/releases/download/1.1/Archive.zip
