@@ -1,0 +1,51 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:48
+  	*/
+
+@font-face {
+  font-family: "Flaticon70";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon70";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon70-"]:before, [class*=" flaticon70-"]:before,
+[class^="flaticon70-"]:after, [class*=" flaticon70-"]:after {   
+  font-family: flaticon70;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon70-alarm:before { content: "\f100"; }
+.flaticon70-electric-socket-on-fire:before { content: "\f101"; }
+.flaticon70-emergency-bell:before { content: "\f102"; }
+.flaticon70-emergency-exit:before { content: "\f103"; }
+.flaticon70-empty-bucket:before { content: "\f104"; }
+.flaticon70-fire-axe:before { content: "\f105"; }
+.flaticon70-fire-extinguisher:before { content: "\f106"; }
+.flaticon70-fire-hose:before { content: "\f107"; }
+.flaticon70-fire-hydrant:before { content: "\f108"; }
+.flaticon70-fire-in-the-house:before { content: "\f109"; }
+.flaticon70-fire-over-line:before { content: "\f10a"; }
+.flaticon70-firefighter-hat:before { content: "\f10b"; }
+.flaticon70-first-aid-kit:before { content: "\f10c"; }
+.flaticon70-gas-mask:before { content: "\f10d"; }
+.flaticon70-ladder:before { content: "\f10e"; }
+.flaticon70-lifeguard-float:before { content: "\f10f"; }
+.flaticon70-match-fire:before { content: "\f110"; }
+.flaticon70-megaphone-side-view:before { content: "\f111"; }
+.flaticon70-no-smoking:before { content: "\f112"; }
+.flaticon70-pine-tree-on-fire:before { content: "\f113"; }

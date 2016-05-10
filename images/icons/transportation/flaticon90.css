@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:48
+  	*/
+
+@font-face {
+  font-family: "Flaticon90";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon90";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon90-"]:before, [class*=" flaticon90-"]:before,
+[class^="flaticon90-"]:after, [class*=" flaticon90-"]:after {   
+  font-family: flaticon90;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon90-ambulance:before { content: "\f100"; }
+.flaticon90-automobile:before { content: "\f101"; }
+.flaticon90-baby-carriage:before { content: "\f102"; }
+.flaticon90-bicycle:before { content: "\f103"; }
+.flaticon90-box-trolley:before { content: "\f104"; }
+.flaticon90-bus-front-view:before { content: "\f105"; }
+.flaticon90-cable-car-cabin:before { content: "\f106"; }
+.flaticon90-car-frontal-view:before { content: "\f107"; }
+.flaticon90-cruiser-front-view:before { content: "\f108"; }
+.flaticon90-delivery-truck:before { content: "\f109"; }
+.flaticon90-delivery-van:before { content: "\f10a"; }
+.flaticon90-ferry:before { content: "\f10b"; }
+.flaticon90-helicopter:before { content: "\f10c"; }
+.flaticon90-hot-air-balloon:before { content: "\f10d"; }
+.flaticon90-logistics-truck:before { content: "\f10e"; }
+.flaticon90-paper-sailboat:before { content: "\f10f"; }
+.flaticon90-pickup-truck:before { content: "\f110"; }
+.flaticon90-plane:before { content: "\f111"; }
+.flaticon90-railroad-with-wood-planks:before { content: "\f112"; }
+.flaticon90-road-sign:before { content: "\f113"; }
+.flaticon90-school-bus:before { content: "\f114"; }
+.flaticon90-scooter-bike:before { content: "\f115"; }
+.flaticon90-speedboat:before { content: "\f116"; }
+.flaticon90-speedboat-1:before { content: "\f117"; }
+.flaticon90-sports-car:before { content: "\f118"; }
+.flaticon90-tanker:before { content: "\f119"; }
+.flaticon90-taxi:before { content: "\f11a"; }
+.flaticon90-taxi-front-view:before { content: "\f11b"; }
+.flaticon90-three-door-car:before { content: "\f11c"; }
+.flaticon90-touring-car:before { content: "\f11d"; }
+.flaticon90-train-front-view:before { content: "\f11e"; }
+.flaticon90-train-wagon:before { content: "\f11f"; }
+.flaticon90-transportation-truck:before { content: "\f120"; }
+.flaticon90-transportation-truck-1:before { content: "\f121"; }
+.flaticon90-transportation-truck-2:before { content: "\f122"; }
+.flaticon90-truck-with-hook-lift:before { content: "\f123"; }
+.flaticon90-unicycle:before { content: "\f124"; }
+.flaticon90-war-tank:before { content: "\f125"; }
+.flaticon90-wide-rear-wheel-car:before { content: "\f126"; }
+.flaticon90-youth-bicycle:before { content: "\f127"; }

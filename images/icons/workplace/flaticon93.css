@@ -1,0 +1,80 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "Flaticon93";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon93";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon93-"]:before, [class*=" flaticon93-"]:before,
+[class^="flaticon93-"]:after, [class*=" flaticon93-"]:after {   
+  font-family: flaticon93;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon93-agenda:before { content: "\f100"; }
+.flaticon93-agenda-1:before { content: "\f101"; }
+.flaticon93-calculator:before { content: "\f102"; }
+.flaticon93-calendar:before { content: "\f103"; }
+.flaticon93-calendar-1:before { content: "\f104"; }
+.flaticon93-clip:before { content: "\f105"; }
+.flaticon93-clipboard-with-pencil:before { content: "\f106"; }
+.flaticon93-coffee-cup:before { content: "\f107"; }
+.flaticon93-computer-mouse:before { content: "\f108"; }
+.flaticon93-computer-screen:before { content: "\f109"; }
+.flaticon93-crayon:before { content: "\f10a"; }
+.flaticon93-desk:before { content: "\f10b"; }
+.flaticon93-desk-1:before { content: "\f10c"; }
+.flaticon93-desk-lamp:before { content: "\f10d"; }
+.flaticon93-envelope:before { content: "\f10e"; }
+.flaticon93-envelope-1:before { content: "\f10f"; }
+.flaticon93-eyeglasses:before { content: "\f110"; }
+.flaticon93-fax-machine:before { content: "\f111"; }
+.flaticon93-file:before { content: "\f112"; }
+.flaticon93-flower:before { content: "\f113"; }
+.flaticon93-folder:before { content: "\f114"; }
+.flaticon93-folders:before { content: "\f115"; }
+.flaticon93-garbage:before { content: "\f116"; }
+.flaticon93-laptop:before { content: "\f117"; }
+.flaticon93-lock:before { content: "\f118"; }
+.flaticon93-locker:before { content: "\f119"; }
+.flaticon93-locker-1:before { content: "\f11a"; }
+.flaticon93-marker:before { content: "\f11b"; }
+.flaticon93-newspaper:before { content: "\f11c"; }
+.flaticon93-note:before { content: "\f11d"; }
+.flaticon93-note-1:before { content: "\f11e"; }
+.flaticon93-notebook:before { content: "\f11f"; }
+.flaticon93-pens:before { content: "\f120"; }
+.flaticon93-phone:before { content: "\f121"; }
+.flaticon93-phone-1:before { content: "\f122"; }
+.flaticon93-phone-2:before { content: "\f123"; }
+.flaticon93-photocopier:before { content: "\f124"; }
+.flaticon93-printer:before { content: "\f125"; }
+.flaticon93-projector:before { content: "\f126"; }
+.flaticon93-round-clock:before { content: "\f127"; }
+.flaticon93-save-file:before { content: "\f128"; }
+.flaticon93-scissors:before { content: "\f129"; }
+.flaticon93-seat:before { content: "\f12a"; }
+.flaticon93-stamp:before { content: "\f12b"; }
+.flaticon93-staple:before { content: "\f12c"; }
+.flaticon93-suitcase:before { content: "\f12d"; }
+.flaticon93-tape:before { content: "\f12e"; }
+.flaticon93-tie:before { content: "\f12f"; }
+.flaticon93-typewriter:before { content: "\f130"; }

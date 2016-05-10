@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:51
+  	*/
+
+@font-face {
+  font-family: "Flaticon72";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon72";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon72-"]:before, [class*=" flaticon72-"]:before,
+[class^="flaticon72-"]:after, [class*=" flaticon72-"]:after {   
+  font-family: flaticon72;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon72-armchair:before { content: "\f100"; }
+.flaticon72-armchair-1:before { content: "\f101"; }
+.flaticon72-bathtub:before { content: "\f102"; }
+.flaticon72-bed:before { content: "\f103"; }
+.flaticon72-bed-1:before { content: "\f104"; }
+.flaticon72-bed-2:before { content: "\f105"; }
+.flaticon72-bed-3:before { content: "\f106"; }
+.flaticon72-bedside-table:before { content: "\f107"; }
+.flaticon72-bookcase:before { content: "\f108"; }
+.flaticon72-bookshelve:before { content: "\f109"; }
+.flaticon72-bunk-bed:before { content: "\f10a"; }
+.flaticon72-cabinet:before { content: "\f10b"; }
+.flaticon72-carpet:before { content: "\f10c"; }
+.flaticon72-chair:before { content: "\f10d"; }
+.flaticon72-chair-1:before { content: "\f10e"; }
+.flaticon72-chair-2:before { content: "\f10f"; }
+.flaticon72-chair-3:before { content: "\f110"; }
+.flaticon72-chair-4:before { content: "\f111"; }
+.flaticon72-chandelier:before { content: "\f112"; }
+.flaticon72-clock:before { content: "\f113"; }
+.flaticon72-closet:before { content: "\f114"; }
+.flaticon72-coat-stand:before { content: "\f115"; }
+.flaticon72-crib:before { content: "\f116"; }
+.flaticon72-curtain:before { content: "\f117"; }
+.flaticon72-desk:before { content: "\f118"; }
+.flaticon72-dresser:before { content: "\f119"; }
+.flaticon72-dresser-1:before { content: "\f11a"; }
+.flaticon72-dresser-2:before { content: "\f11b"; }
+.flaticon72-dresser-3:before { content: "\f11c"; }
+.flaticon72-fireplace:before { content: "\f11d"; }
+.flaticon72-frame:before { content: "\f11e"; }
+.flaticon72-furniture:before { content: "\f11f"; }
+.flaticon72-kitchen-furniture:before { content: "\f120"; }
+.flaticon72-kitchen-sink:before { content: "\f121"; }
+.flaticon72-lamp:before { content: "\f122"; }
+.flaticon72-lamp-1:before { content: "\f123"; }
+.flaticon72-lamp-2:before { content: "\f124"; }
+.flaticon72-lamp-3:before { content: "\f125"; }
+.flaticon72-mirror:before { content: "\f126"; }
+.flaticon72-rocking-chair:before { content: "\f127"; }
+.flaticon72-shelves:before { content: "\f128"; }
+.flaticon72-sink:before { content: "\f129"; }
+.flaticon72-sofa:before { content: "\f12a"; }
+.flaticon72-sofa-1:before { content: "\f12b"; }
+.flaticon72-sofa-2:before { content: "\f12c"; }
+.flaticon72-stool:before { content: "\f12d"; }
+.flaticon72-stool-1:before { content: "\f12e"; }
+.flaticon72-table-with-chair:before { content: "\f12f"; }
+.flaticon72-tv-table:before { content: "\f130"; }
+.flaticon72-wardrobe:before { content: "\f131"; }

@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 15:24
+  	*/
+
+@font-face {
+  font-family: "Flaticon76";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon76";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon76-"]:before, [class*=" flaticon76-"]:before,
+[class^="flaticon76-"]:after, [class*=" flaticon76-"]:after {   
+  font-family: flaticon76;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon76-apron:before { content: "\f100"; }
+.flaticon76-aquarium:before { content: "\f101"; }
+.flaticon76-armchair:before { content: "\f102"; }
+.flaticon76-basket:before { content: "\f103"; }
+.flaticon76-bath:before { content: "\f104"; }
+.flaticon76-bed:before { content: "\f105"; }
+.flaticon76-bleach:before { content: "\f106"; }
+.flaticon76-bowl:before { content: "\f107"; }
+.flaticon76-broom:before { content: "\f108"; }
+.flaticon76-broom-1:before { content: "\f109"; }
+.flaticon76-brush:before { content: "\f10a"; }
+.flaticon76-bucket:before { content: "\f10b"; }
+.flaticon76-cleaner:before { content: "\f10c"; }
+.flaticon76-clothespin:before { content: "\f10d"; }
+.flaticon76-detergent:before { content: "\f10e"; }
+.flaticon76-dustpan:before { content: "\f10f"; }
+.flaticon76-fan:before { content: "\f110"; }
+.flaticon76-faucet:before { content: "\f111"; }
+.flaticon76-flower:before { content: "\f112"; }
+.flaticon76-fridge:before { content: "\f113"; }
+.flaticon76-gloves:before { content: "\f114"; }
+.flaticon76-hammer:before { content: "\f115"; }
+.flaticon76-house:before { content: "\f116"; }
+.flaticon76-iron:before { content: "\f117"; }
+.flaticon76-ironing-board:before { content: "\f118"; }
+.flaticon76-jug:before { content: "\f119"; }
+.flaticon76-kettle:before { content: "\f11a"; }
+.flaticon76-lamp:before { content: "\f11b"; }
+.flaticon76-liquid-soap:before { content: "\f11c"; }
+.flaticon76-microwave-oven:before { content: "\f11d"; }
+.flaticon76-mitten:before { content: "\f11e"; }
+.flaticon76-mixer:before { content: "\f11f"; }
+.flaticon76-mop:before { content: "\f120"; }
+.flaticon76-oven:before { content: "\f121"; }
+.flaticon76-paint-roller:before { content: "\f122"; }
+.flaticon76-palette:before { content: "\f123"; }
+.flaticon76-pan:before { content: "\f124"; }
+.flaticon76-plunger:before { content: "\f125"; }
+.flaticon76-screwdriver:before { content: "\f126"; }
+.flaticon76-shirt:before { content: "\f127"; }
+.flaticon76-soap:before { content: "\f128"; }
+.flaticon76-sponge:before { content: "\f129"; }
+.flaticon76-toilet:before { content: "\f12a"; }
+.flaticon76-toilet-brush:before { content: "\f12b"; }
+.flaticon76-towel:before { content: "\f12c"; }
+.flaticon76-towel-1:before { content: "\f12d"; }
+.flaticon76-trash-can:before { content: "\f12e"; }
+.flaticon76-vacuum-cleaner:before { content: "\f12f"; }
+.flaticon76-washing-machine:before { content: "\f130"; }
+.flaticon76-wrench:before { content: "\f131"; }

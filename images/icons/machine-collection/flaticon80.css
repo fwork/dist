@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/04/2016 11:25
+  	*/
+
+@font-face {
+  font-family: "Flaticon80";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon80";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon80-"]:before, [class*=" flaticon80-"]:before,
+[class^="flaticon80-"]:after, [class*=" flaticon80-"]:after {   
+  font-family: flaticon80;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon80-atm:before { content: "\f100"; }
+.flaticon80-balance:before { content: "\f101"; }
+.flaticon80-calculator:before { content: "\f102"; }
+.flaticon80-coffee-machine:before { content: "\f103"; }
+.flaticon80-driller:before { content: "\f104"; }
+.flaticon80-egg:before { content: "\f105"; }
+.flaticon80-excavator:before { content: "\f106"; }
+.flaticon80-fan:before { content: "\f107"; }
+.flaticon80-fan-1:before { content: "\f108"; }
+.flaticon80-fan-2:before { content: "\f109"; }
+.flaticon80-fan-3:before { content: "\f10a"; }
+.flaticon80-fax:before { content: "\f10b"; }
+.flaticon80-grill:before { content: "\f10c"; }
+.flaticon80-hairdryer:before { content: "\f10d"; }
+.flaticon80-iron:before { content: "\f10e"; }
+.flaticon80-jar:before { content: "\f10f"; }
+.flaticon80-lighter:before { content: "\f110"; }
+.flaticon80-microwave:before { content: "\f111"; }
+.flaticon80-mixer:before { content: "\f112"; }
+.flaticon80-mixer-1:before { content: "\f113"; }
+.flaticon80-mixer-2:before { content: "\f114"; }
+.flaticon80-mixer-3:before { content: "\f115"; }
+.flaticon80-refrigerator:before { content: "\f116"; }
+.flaticon80-scale:before { content: "\f117"; }
+.flaticon80-shaver:before { content: "\f118"; }
+.flaticon80-shaver-1:before { content: "\f119"; }
+.flaticon80-stove:before { content: "\f11a"; }
+.flaticon80-vacuum-cleaner:before { content: "\f11b"; }
+.flaticon80-washing-machine:before { content: "\f11c"; }
+.flaticon80-water-heater:before { content: "\f11d"; }

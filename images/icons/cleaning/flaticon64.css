@@ -1,0 +1,47 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon64";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon64";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon64-"]:before, [class*=" flaticon64-"]:before,
+[class^="flaticon64-"]:after, [class*=" flaticon64-"]:after {   
+  font-family: flaticon64;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon64-bucket-with-bubbles:before { content: "\f100"; }
+.flaticon64-clean-floor:before { content: "\f101"; }
+.flaticon64-clean-window-glass:before { content: "\f102"; }
+.flaticon64-clothes-peg:before { content: "\f103"; }
+.flaticon64-cooker-woman:before { content: "\f104"; }
+.flaticon64-dishwashing-liquid-and-clean-plate:before { content: "\f105"; }
+.flaticon64-dishwashing-liquid-bottle:before { content: "\f106"; }
+.flaticon64-duster:before { content: "\f107"; }
+.flaticon64-flower-top-view:before { content: "\f108"; }
+.flaticon64-frontal-oven:before { content: "\f109"; }
+.flaticon64-garden-leaf:before { content: "\f10a"; }
+.flaticon64-hanger-with-clothes:before { content: "\f10b"; }
+.flaticon64-ironing-machine:before { content: "\f10c"; }
+.flaticon64-kitchen-gloves:before { content: "\f10d"; }
+.flaticon64-rectangular-cleaning-sponge:before { content: "\f10e"; }
+.flaticon64-vintage-washing-machine:before { content: "\f10f"; }

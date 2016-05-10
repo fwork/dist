@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon63";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon63";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon63-"]:before, [class*=" flaticon63-"]:before,
+[class^="flaticon63-"]:after, [class*=" flaticon63-"]:after {   
+  font-family: flaticon63;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon63-beetle-car-front:before { content: "\f100"; }
+.flaticon63-bus-front:before { content: "\f101"; }
+.flaticon63-cabrio-car:before { content: "\f102"; }
+.flaticon63-camaro-car-front:before { content: "\f103"; }
+.flaticon63-car:before { content: "\f104"; }
+.flaticon63-car-black-side-view-pointing-left:before { content: "\f105"; }
+.flaticon63-car-city-model:before { content: "\f106"; }
+.flaticon63-car-front:before { content: "\f107"; }
+.flaticon63-car-muscle-design:before { content: "\f108"; }
+.flaticon63-car-of-formula-1:before { content: "\f109"; }
+.flaticon63-car-of-hatchback-model:before { content: "\f10a"; }
+.flaticon63-car-suv:before { content: "\f10b"; }
+.flaticon63-coupe-car:before { content: "\f10c"; }
+.flaticon63-delivery-truck-front:before { content: "\f10d"; }
+.flaticon63-impala-car-front:before { content: "\f10e"; }
+.flaticon63-jeep:before { content: "\f10f"; }
+.flaticon63-jeep-cabrio:before { content: "\f110"; }
+.flaticon63-microbus:before { content: "\f111"; }
+.flaticon63-mini-van:before { content: "\f112"; }
+.flaticon63-minivan-car:before { content: "\f113"; }
+.flaticon63-old-pickup:before { content: "\f114"; }
+.flaticon63-pick-up:before { content: "\f115"; }
+.flaticon63-rolls-royce-luxury-car-front:before { content: "\f116"; }
+.flaticon63-sedan-car-front:before { content: "\f117"; }
+.flaticon63-sedan-car-model:before { content: "\f118"; }
+.flaticon63-sportive-car:before { content: "\f119"; }
+.flaticon63-supercar:before { content: "\f11a"; }
+.flaticon63-tractor-front:before { content: "\f11b"; }
+.flaticon63-truck-front:before { content: "\f11c"; }
+.flaticon63-van-black-transport-side-view-pointing-to-left:before { content: "\f11d"; }

@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 13:01
+  	*/
+
+@font-face {
+  font-family: "Flaticon87";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon87";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon87-"]:before, [class*=" flaticon87-"]:before,
+[class^="flaticon87-"]:after, [class*=" flaticon87-"]:after {   
+  font-family: flaticon87;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon87-air-conditioning:before { content: "\f100"; }
+.flaticon87-alarm:before { content: "\f101"; }
+.flaticon87-alarm-1:before { content: "\f102"; }
+.flaticon87-alarm-2:before { content: "\f103"; }
+.flaticon87-battery:before { content: "\f104"; }
+.flaticon87-blinds:before { content: "\f105"; }
+.flaticon87-cctv:before { content: "\f106"; }
+.flaticon87-computer:before { content: "\f107"; }
+.flaticon87-computing-cloud:before { content: "\f108"; }
+.flaticon87-console:before { content: "\f109"; }
+.flaticon87-cup:before { content: "\f10a"; }
+.flaticon87-eye:before { content: "\f10b"; }
+.flaticon87-floor:before { content: "\f10c"; }
+.flaticon87-garage:before { content: "\f10d"; }
+.flaticon87-heating:before { content: "\f10e"; }
+.flaticon87-key:before { content: "\f10f"; }
+.flaticon87-light-bulb:before { content: "\f110"; }
+.flaticon87-padlock:before { content: "\f111"; }
+.flaticon87-pan:before { content: "\f112"; }
+.flaticon87-password:before { content: "\f113"; }
+.flaticon87-phone:before { content: "\f114"; }
+.flaticon87-pipes:before { content: "\f115"; }
+.flaticon87-plant:before { content: "\f116"; }
+.flaticon87-plug:before { content: "\f117"; }
+.flaticon87-power-button:before { content: "\f118"; }
+.flaticon87-processor:before { content: "\f119"; }
+.flaticon87-roof:before { content: "\f11a"; }
+.flaticon87-safebox:before { content: "\f11b"; }
+.flaticon87-smart-home:before { content: "\f11c"; }
+.flaticon87-smartphone:before { content: "\f11d"; }
+.flaticon87-solar-panel:before { content: "\f11e"; }
+.flaticon87-surveillance:before { content: "\f11f"; }
+.flaticon87-swimming-pool:before { content: "\f120"; }
+.flaticon87-thermometer:before { content: "\f121"; }
+.flaticon87-toilet:before { content: "\f122"; }
+.flaticon87-touch-pad:before { content: "\f123"; }
+.flaticon87-vacuum-cleaner:before { content: "\f124"; }
+.flaticon87-washer-machine:before { content: "\f125"; }
+.flaticon87-watering-can:before { content: "\f126"; }
+.flaticon87-windmill:before { content: "\f127"; }

@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:48
+  	*/
+
+@font-face {
+  font-family: "Flaticon74";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon74";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon74-"]:before, [class*=" flaticon74-"]:before,
+[class^="flaticon74-"]:after, [class*=" flaticon74-"]:after {   
+  font-family: flaticon74;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon74-ambiental-mercury-thermometer:before { content: "\f100"; }
+.flaticon74-ambulance-silhouette:before { content: "\f101"; }
+.flaticon74-blood-perfusion:before { content: "\f102"; }
+.flaticon74-cardiogram-in-a-heart:before { content: "\f103"; }
+.flaticon74-cardiologist-stethoscope:before { content: "\f104"; }
+.flaticon74-downstairs-sign:before { content: "\f105"; }
+.flaticon74-female-doctor:before { content: "\f106"; }
+.flaticon74-flask-with-medicine:before { content: "\f107"; }
+.flaticon74-health-clinic-sign:before { content: "\f108"; }
+.flaticon74-hospital-apple-silhouette:before { content: "\f109"; }
+.flaticon74-hospital-band-aid:before { content: "\f10a"; }
+.flaticon74-hospital-bandage:before { content: "\f10b"; }
+.flaticon74-hospital-bed:before { content: "\f10c"; }
+.flaticon74-hospital-bed-silhouette:before { content: "\f10d"; }
+.flaticon74-hospital-building:before { content: "\f10e"; }
+.flaticon74-hospital-garbage-can:before { content: "\f10f"; }
+.flaticon74-hospital-leaflet:before { content: "\f110"; }
+.flaticon74-hospital-location:before { content: "\f111"; }
+.flaticon74-hospital-phone:before { content: "\f112"; }
+.flaticon74-hospital-pipette:before { content: "\f113"; }
+.flaticon74-hospital-secretary:before { content: "\f114"; }
+.flaticon74-hospital-sign:before { content: "\f115"; }
+.flaticon74-hospital-sign-silhouette:before { content: "\f116"; }
+.flaticon74-hospital-supplies:before { content: "\f117"; }
+.flaticon74-hospital-test-tube:before { content: "\f118"; }
+.flaticon74-hospitals-computer:before { content: "\f119"; }
+.flaticon74-hospitals-lift:before { content: "\f11a"; }
+.flaticon74-icu-monitor:before { content: "\f11b"; }
+.flaticon74-injection-needle:before { content: "\f11c"; }
+.flaticon74-medical-chart:before { content: "\f11d"; }
+.flaticon74-medical-equipment:before { content: "\f11e"; }
+.flaticon74-medical-kit:before { content: "\f11f"; }
+.flaticon74-medication-bottles:before { content: "\f120"; }
+.flaticon74-medicine-bottle:before { content: "\f121"; }
+.flaticon74-medicine-bottle-1:before { content: "\f122"; }
+.flaticon74-medicine-pot:before { content: "\f123"; }
+.flaticon74-mercury-thermometer:before { content: "\f124"; }
+.flaticon74-microscope-silhouette:before { content: "\f125"; }
+.flaticon74-nurse-head:before { content: "\f126"; }
+.flaticon74-nurse-uniform:before { content: "\f127"; }
+.flaticon74-patient-in-a-stretcher:before { content: "\f128"; }
+.flaticon74-pill-and-tablet:before { content: "\f129"; }
+.flaticon74-scalpel:before { content: "\f12a"; }
+.flaticon74-smartphone-sign-in-hospital:before { content: "\f12b"; }
+.flaticon74-stairs-sign-silhouette:before { content: "\f12c"; }
+.flaticon74-steel-forceps:before { content: "\f12d"; }
+.flaticon74-surgeon-icon:before { content: "\f12e"; }
+.flaticon74-syrup:before { content: "\f12f"; }
+.flaticon74-tablets-outline:before { content: "\f130"; }
+.flaticon74-x-ray-sign:before { content: "\f131"; }

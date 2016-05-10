@@ -1,0 +1,59 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/04/2016 15:59
+  	*/
+
+@font-face {
+  font-family: "Flaticon61";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon61";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon61-"]:before, [class*=" flaticon61-"]:before,
+[class^="flaticon61-"]:after, [class*=" flaticon61-"]:after {   
+  font-family: flaticon61;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon61-balance:before { content: "\f100"; }
+.flaticon61-bank:before { content: "\f101"; }
+.flaticon61-bill:before { content: "\f102"; }
+.flaticon61-bitcoin:before { content: "\f103"; }
+.flaticon61-briefcase:before { content: "\f104"; }
+.flaticon61-calculator:before { content: "\f105"; }
+.flaticon61-chest:before { content: "\f106"; }
+.flaticon61-clipboard:before { content: "\f107"; }
+.flaticon61-contact:before { content: "\f108"; }
+.flaticon61-contract:before { content: "\f109"; }
+.flaticon61-credit-card:before { content: "\f10a"; }
+.flaticon61-download:before { content: "\f10b"; }
+.flaticon61-fingerprint:before { content: "\f10c"; }
+.flaticon61-padlock:before { content: "\f10d"; }
+.flaticon61-percentage:before { content: "\f10e"; }
+.flaticon61-picnic-basket:before { content: "\f10f"; }
+.flaticon61-pie-chart:before { content: "\f110"; }
+.flaticon61-piggy-bank:before { content: "\f111"; }
+.flaticon61-placeholder:before { content: "\f112"; }
+.flaticon61-safebox:before { content: "\f113"; }
+.flaticon61-shopping-bag:before { content: "\f114"; }
+.flaticon61-smartphone:before { content: "\f115"; }
+.flaticon61-stats:before { content: "\f116"; }
+.flaticon61-stats-1:before { content: "\f117"; }
+.flaticon61-transfer:before { content: "\f118"; }
+.flaticon61-user:before { content: "\f119"; }
+.flaticon61-wallet:before { content: "\f11a"; }
+.flaticon61-warning:before { content: "\f11b"; }

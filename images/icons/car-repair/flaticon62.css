@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:53
+  	*/
+
+@font-face {
+  font-family: "Flaticon62";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon62";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon62-"]:before, [class*=" flaticon62-"]:before,
+[class^="flaticon62-"]:after, [class*=" flaticon62-"]:after {   
+  font-family: flaticon62;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon62-24-hours:before { content: "\f100"; }
+.flaticon62-aerosol:before { content: "\f101"; }
+.flaticon62-air-filter:before { content: "\f102"; }
+.flaticon62-airbag:before { content: "\f103"; }
+.flaticon62-autolift:before { content: "\f104"; }
+.flaticon62-automatic-wash-car:before { content: "\f105"; }
+.flaticon62-balancing:before { content: "\f106"; }
+.flaticon62-battery:before { content: "\f107"; }
+.flaticon62-brake-disk:before { content: "\f108"; }
+.flaticon62-car:before { content: "\f109"; }
+.flaticon62-car-painting:before { content: "\f10a"; }
+.flaticon62-car-search:before { content: "\f10b"; }
+.flaticon62-car-wash:before { content: "\f10c"; }
+.flaticon62-chassis:before { content: "\f10d"; }
+.flaticon62-cracked-windshield:before { content: "\f10e"; }
+.flaticon62-cross-wrench:before { content: "\f10f"; }
+.flaticon62-damage:before { content: "\f110"; }
+.flaticon62-electric-car:before { content: "\f111"; }
+.flaticon62-evacuator:before { content: "\f112"; }
+.flaticon62-exhaust-pipe:before { content: "\f113"; }
+.flaticon62-fix-sign:before { content: "\f114"; }
+.flaticon62-flat-tire:before { content: "\f115"; }
+.flaticon62-funnel:before { content: "\f116"; }
+.flaticon62-fuse:before { content: "\f117"; }
+.flaticon62-garage:before { content: "\f118"; }
+.flaticon62-gas-station:before { content: "\f119"; }
+.flaticon62-gears:before { content: "\f11a"; }
+.flaticon62-hammer-and-wrench:before { content: "\f11b"; }
+.flaticon62-headlight:before { content: "\f11c"; }
+.flaticon62-jerrycan:before { content: "\f11d"; }
+.flaticon62-key:before { content: "\f11e"; }
+.flaticon62-mirror:before { content: "\f11f"; }
+.flaticon62-motor:before { content: "\f120"; }
+.flaticon62-oil:before { content: "\f121"; }
+.flaticon62-piston:before { content: "\f122"; }
+.flaticon62-radiator:before { content: "\f123"; }
+.flaticon62-screwdriver-and-wrench:before { content: "\f124"; }
+.flaticon62-shock-absorber:before { content: "\f125"; }
+.flaticon62-signaling:before { content: "\f126"; }
+.flaticon62-spark-plug:before { content: "\f127"; }
+.flaticon62-steering-wheel:before { content: "\f128"; }
+.flaticon62-tachometer:before { content: "\f129"; }
+.flaticon62-tank:before { content: "\f12a"; }
+.flaticon62-timing-belt:before { content: "\f12b"; }
+.flaticon62-tinting:before { content: "\f12c"; }
+.flaticon62-traffic-cone:before { content: "\f12d"; }
+.flaticon62-transmision:before { content: "\f12e"; }
+.flaticon62-voltage:before { content: "\f12f"; }
+.flaticon62-wheel:before { content: "\f130"; }
+.flaticon62-wheel-and-manometer:before { content: "\f131"; }

@@ -1,0 +1,327 @@
+@font-face {
+  font-family: "Flaticon60";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon60";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon60-"]:before, [class*=" flaticon60-"]:before,
+[class^="flaticon60-"]:after, [class*=" flaticon60-"]:after {   
+  font-family: flaticon60;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+
+.flaticon60-ambulance-with-light:before {
+	content: "\e001";
+}
+.flaticon60-automobile-steering-wheel:before {
+	content: "\e002";
+}
+.flaticon60-barrier-and-car:before {
+	content: "\e003";
+}
+.flaticon60-car-accident-1:before {
+	content: "\e004";
+}
+.flaticon60-car-accident:before {
+	content: "\e005";
+}
+.flaticon60-car-at-gas-station:before {
+	content: "\e006";
+}
+.flaticon60-car-battery:before {
+	content: "\e007";
+}
+.flaticon60-car-board:before {
+	content: "\e008";
+}
+.flaticon60-car-compass:before {
+	content: "\e009";
+}
+.flaticon60-car-crash:before {
+	content: "\e00a";
+}
+.flaticon60-car-draw:before {
+	content: "\e00b";
+}
+.flaticon60-car-falling-into-the-water:before {
+	content: "\e00c";
+}
+.flaticon60-car-falling:before {
+	content: "\e00d";
+}
+.flaticon60-car-heating:before {
+	content: "\e00e";
+}
+.flaticon60-car-in-garage:before {
+	content: "\e00f";
+}
+.flaticon60-car-in-service:before {
+	content: "\e010";
+}
+.flaticon60-car-key:before {
+	content: "\e011";
+}
+.flaticon60-car-locked:before {
+	content: "\e012";
+}
+.flaticon60-car-on-a-frame:before {
+	content: "\e013";
+}
+.flaticon60-car-on-fire:before {
+	content: "\e014";
+}
+.flaticon60-car-on-laptop:before {
+	content: "\e015";
+}
+.flaticon60-car-on-stairs:before {
+	content: "\e016";
+}
+.flaticon60-car-on-tablet:before {
+	content: "\e017";
+}
+.flaticon60-car-on-the-bridge:before {
+	content: "\e018";
+}
+.flaticon60-car-on-the-hill-1:before {
+	content: "\e019";
+}
+.flaticon60-car-on-the-hill:before {
+	content: "\e01a";
+}
+.flaticon60-car-placeholder:before {
+	content: "\e01b";
+}
+.flaticon60-car-pollution:before {
+	content: "\e01c";
+}
+.flaticon60-car-price:before {
+	content: "\e01d";
+}
+.flaticon60-car-scaffold:before {
+	content: "\e01e";
+}
+.flaticon60-car-seat:before {
+	content: "\e01f";
+}
+.flaticon60-car-secure:before {
+	content: "\e020";
+}
+.flaticon60-car-service:before {
+	content: "\e021";
+}
+.flaticon60-car-settings:before {
+	content: "\e022";
+}
+.flaticon60-car-sign:before {
+	content: "\e023";
+}
+.flaticon60-car-stopped-traffic-lights:before {
+	content: "\e024";
+}
+.flaticon60-car-washing-machine:before {
+	content: "\e025";
+}
+.flaticon60-car-wheel:before {
+	content: "\e026";
+}
+.flaticon60-car-with-gps:before {
+	content: "\e027";
+}
+.flaticon60-car-with-luggage:before {
+	content: "\e028";
+}
+.flaticon60-car-with-medicine:before {
+	content: "\e029";
+}
+.flaticon60-car-with-music:before {
+	content: "\e02a";
+}
+.flaticon60-car-with-oil-sign:before {
+	content: "\e02b";
+}
+.flaticon60-car-with-spare-tire:before {
+	content: "\e02c";
+}
+.flaticon60-car-with-trailer:before {
+	content: "\e02d";
+}
+.flaticon60-change-gear:before {
+	content: "\e02e";
+}
+.flaticon60-changing-car-oil:before {
+	content: "\e02f";
+}
+.flaticon60-checked-car:before {
+	content: "\e030";
+}
+.flaticon60-climate-car:before {
+	content: "\e031";
+}
+.flaticon60-delivery-truck:before {
+	content: "\e032";
+}
+.flaticon60-destroying-car:before {
+	content: "\e033";
+}
+.flaticon60-eco-car:before {
+	content: "\e034";
+}
+.flaticon60-family-car:before {
+	content: "\e035";
+}
+.flaticon60-front-car:before {
+	content: "\e036";
+}
+.flaticon60-frontal-taxi-cab:before {
+	content: "\e037";
+}
+.flaticon60-gps-on-screen:before {
+	content: "\e038";
+}
+.flaticon60-hospital-ambulance:before {
+	content: "\e039";
+}
+.flaticon60-inflate-wheel:before {
+	content: "\e03a";
+}
+.flaticon60-man-with-car:before {
+	content: "\e03b";
+}
+.flaticon60-mechanic-with-wrench:before {
+	content: "\e03c";
+}
+.flaticon60-minibus:before {
+	content: "\e03d";
+}
+.flaticon60-no-parking-sign:before {
+	content: "\e03e";
+}
+.flaticon60-normal-car:before {
+	content: "\e03f";
+}
+.flaticon60-oil-can:before {
+	content: "\e040";
+}
+.flaticon60-old-petrol-station:before {
+	content: "\e041";
+}
+.flaticon60-overturned-car:before {
+	content: "\e042";
+}
+.flaticon60-painted-car:before {
+	content: "\e043";
+}
+.flaticon60-parked-car:before {
+	content: "\e044";
+}
+.flaticon60-paying-car-ticket:before {
+	content: "\e045";
+}
+.flaticon60-petrol-can:before {
+	content: "\e046";
+}
+.flaticon60-police-car-1:before {
+	content: "\e047";
+}
+.flaticon60-police-car:before {
+	content: "\e048";
+}
+.flaticon60-present-car:before {
+	content: "\e049";
+}
+.flaticon60-private-garage:before {
+	content: "\e04a";
+}
+.flaticon60-refreshing-car:before {
+	content: "\e04b";
+}
+.flaticon60-rent-a-car:before {
+	content: "\e04c";
+}
+.flaticon60-repair-service:before {
+	content: "\e04d";
+}
+.flaticon60-repairing-car-1:before {
+	content: "\e04e";
+}
+.flaticon60-repairing-car:before {
+	content: "\e04f";
+}
+.flaticon60-repairing-service:before {
+	content: "\e050";
+}
+.flaticon60-sale-car:before {
+	content: "\e051";
+}
+.flaticon60-searching-car:before {
+	content: "\e052";
+}
+.flaticon60-security-car:before {
+	content: "\e053";
+}
+.flaticon60-skidding-car:before {
+	content: "\e054";
+}
+.flaticon60-small-car:before {
+	content: "\e055";
+}
+.flaticon60-speed-road-radar:before {
+	content: "\e056";
+}
+.flaticon60-sport-car:before {
+	content: "\e057";
+}
+.flaticon60-sportive-car:before {
+	content: "\e058";
+}
+.flaticon60-stop-car:before {
+	content: "\e059";
+}
+.flaticon60-stop-truck:before {
+	content: "\e05a";
+}
+.flaticon60-three-wheels:before {
+	content: "\e05b";
+}
+.flaticon60-towing-a-car:before {
+	content: "\e05c";
+}
+.flaticon60-trailer-car:before {
+	content: "\e05d";
+}
+.flaticon60-transportation-van:before {
+	content: "\e05e";
+}
+.flaticon60-truck-with-another-car:before {
+	content: "\e05f";
+}
+.flaticon60-two-cars-in-line:before {
+	content: "\e060";
+}
+.flaticon60-umbrella-car:before {
+	content: "\e061";
+}
+.flaticon60-wheel-and-wrench:before {
+	content: "\e062";
+}
+.flaticon60-wheel-frontal-view:before {
+	content: "\e063";
+}
+.flaticon60-wrench-and-screwdriver-crossed:before {
+	content: "\e064";
+}

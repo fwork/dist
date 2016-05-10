@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 13:30
+  	*/
+
+@font-face {
+  font-family: "Flaticon77";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon77";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon77-"]:before, [class*=" flaticon77-"]:before,
+[class^="flaticon77-"]:after, [class*=" flaticon77-"]:after {   
+  font-family: flaticon77;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon77-baton:before { content: "\f100"; }
+.flaticon77-book:before { content: "\f101"; }
+.flaticon77-box:before { content: "\f102"; }
+.flaticon77-case:before { content: "\f103"; }
+.flaticon77-cctv:before { content: "\f104"; }
+.flaticon77-court:before { content: "\f105"; }
+.flaticon77-courthouse:before { content: "\f106"; }
+.flaticon77-fingerprint:before { content: "\f107"; }
+.flaticon77-folder:before { content: "\f108"; }
+.flaticon77-handcuffs:before { content: "\f109"; }
+.flaticon77-hat:before { content: "\f10a"; }
+.flaticon77-jail:before { content: "\f10b"; }
+.flaticon77-law:before { content: "\f10c"; }
+.flaticon77-list:before { content: "\f10d"; }
+.flaticon77-lock:before { content: "\f10e"; }
+.flaticon77-magnifying-glass:before { content: "\f10f"; }
+.flaticon77-patent:before { content: "\f110"; }
+.flaticon77-peace:before { content: "\f111"; }
+.flaticon77-pistol:before { content: "\f112"; }
+.flaticon77-police-car:before { content: "\f113"; }
+.flaticon77-policeman:before { content: "\f114"; }
+.flaticon77-policeman-1:before { content: "\f115"; }
+.flaticon77-prisioner:before { content: "\f116"; }
+.flaticon77-radio:before { content: "\f117"; }
+.flaticon77-rope:before { content: "\f118"; }
+.flaticon77-scale:before { content: "\f119"; }
+.flaticon77-sheriff:before { content: "\f11a"; }
+.flaticon77-shield:before { content: "\f11b"; }
+.flaticon77-siren:before { content: "\f11c"; }
+.flaticon77-swords:before { content: "\f11d"; }

@@ -1,0 +1,116 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/04/2016 15:08
+  	*/
+
+@font-face {
+  font-family: "Flaticon91";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon91";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon91-"]:before, [class*=" flaticon91-"]:before,
+[class^="flaticon91-"]:after, [class*=" flaticon91-"]:after {   
+  font-family: flaticon91;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon91-aquarius:before { content: "\f100"; }
+.flaticon91-aries:before { content: "\f101"; }
+.flaticon91-cancer:before { content: "\f102"; }
+.flaticon91-capricorn:before { content: "\f103"; }
+.flaticon91-cloud:before { content: "\f104"; }
+.flaticon91-cloudy:before { content: "\f105"; }
+.flaticon91-cloudy-1:before { content: "\f106"; }
+.flaticon91-cloudy-2:before { content: "\f107"; }
+.flaticon91-compass:before { content: "\f108"; }
+.flaticon91-compass-1:before { content: "\f109"; }
+.flaticon91-compass-2:before { content: "\f10a"; }
+.flaticon91-compass-3:before { content: "\f10b"; }
+.flaticon91-compass-4:before { content: "\f10c"; }
+.flaticon91-compass-5:before { content: "\f10d"; }
+.flaticon91-compass-6:before { content: "\f10e"; }
+.flaticon91-crescent-moon:before { content: "\f10f"; }
+.flaticon91-crescent-moon-1:before { content: "\f110"; }
+.flaticon91-dawn:before { content: "\f111"; }
+.flaticon91-drop:before { content: "\f112"; }
+.flaticon91-first-quarter:before { content: "\f113"; }
+.flaticon91-first-quarter-1:before { content: "\f114"; }
+.flaticon91-fog:before { content: "\f115"; }
+.flaticon91-fog-1:before { content: "\f116"; }
+.flaticon91-fog-2:before { content: "\f117"; }
+.flaticon91-fog-3:before { content: "\f118"; }
+.flaticon91-full-moon:before { content: "\f119"; }
+.flaticon91-gemini:before { content: "\f11a"; }
+.flaticon91-hail:before { content: "\f11b"; }
+.flaticon91-hail-1:before { content: "\f11c"; }
+.flaticon91-hail-2:before { content: "\f11d"; }
+.flaticon91-hail-3:before { content: "\f11e"; }
+.flaticon91-hail-4:before { content: "\f11f"; }
+.flaticon91-hail-5:before { content: "\f120"; }
+.flaticon91-hail-6:before { content: "\f121"; }
+.flaticon91-hail-7:before { content: "\f122"; }
+.flaticon91-last-quarter:before { content: "\f123"; }
+.flaticon91-leo:before { content: "\f124"; }
+.flaticon91-libra:before { content: "\f125"; }
+.flaticon91-lightning:before { content: "\f126"; }
+.flaticon91-moon:before { content: "\f127"; }
+.flaticon91-moon-1:before { content: "\f128"; }
+.flaticon91-moon-2:before { content: "\f129"; }
+.flaticon91-moon-3:before { content: "\f12a"; }
+.flaticon91-moon-4:before { content: "\f12b"; }
+.flaticon91-new-moon:before { content: "\f12c"; }
+.flaticon91-pisces:before { content: "\f12d"; }
+.flaticon91-rain:before { content: "\f12e"; }
+.flaticon91-rain-1:before { content: "\f12f"; }
+.flaticon91-rain-2:before { content: "\f130"; }
+.flaticon91-rain-3:before { content: "\f131"; }
+.flaticon91-rain-4:before { content: "\f132"; }
+.flaticon91-rain-5:before { content: "\f133"; }
+.flaticon91-rain-6:before { content: "\f134"; }
+.flaticon91-rain-7:before { content: "\f135"; }
+.flaticon91-sagittarius:before { content: "\f136"; }
+.flaticon91-scorpio:before { content: "\f137"; }
+.flaticon91-snow:before { content: "\f138"; }
+.flaticon91-snow-1:before { content: "\f139"; }
+.flaticon91-snow-2:before { content: "\f13a"; }
+.flaticon91-snow-3:before { content: "\f13b"; }
+.flaticon91-snow-4:before { content: "\f13c"; }
+.flaticon91-snow-5:before { content: "\f13d"; }
+.flaticon91-star:before { content: "\f13e"; }
+.flaticon91-storm:before { content: "\f13f"; }
+.flaticon91-storm-1:before { content: "\f140"; }
+.flaticon91-storm-2:before { content: "\f141"; }
+.flaticon91-storm-3:before { content: "\f142"; }
+.flaticon91-storm-4:before { content: "\f143"; }
+.flaticon91-storm-5:before { content: "\f144"; }
+.flaticon91-storm-6:before { content: "\f145"; }
+.flaticon91-storm-7:before { content: "\f146"; }
+.flaticon91-storm-8:before { content: "\f147"; }
+.flaticon91-storm-9:before { content: "\f148"; }
+.flaticon91-sun:before { content: "\f149"; }
+.flaticon91-sunset:before { content: "\f14a"; }
+.flaticon91-taurus:before { content: "\f14b"; }
+.flaticon91-virgo:before { content: "\f14c"; }
+.flaticon91-waning-moon:before { content: "\f14d"; }
+.flaticon91-waning-moon-1:before { content: "\f14e"; }
+.flaticon91-wind:before { content: "\f14f"; }
+.flaticon91-wind-1:before { content: "\f150"; }
+.flaticon91-wind-2:before { content: "\f151"; }
+.flaticon91-wind-3:before { content: "\f152"; }
+.flaticon91-wind-4:before { content: "\f153"; }
+.flaticon91-wind-5:before { content: "\f154"; }

@@ -1,0 +1,157 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon82";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon82";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon82-"]:before, [class*=" flaticon82-"]:before,
+[class^="flaticon82-"]:after, [class*=" flaticon82-"]:after {   
+  font-family: flaticon82;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon82-3d-outlined-shape:before { content: "\f100"; }
+.flaticon82-accept-file-or-checklist:before { content: "\f101"; }
+.flaticon82-add-file:before { content: "\f102"; }
+.flaticon82-alarm-symbol-of-black-bell:before { content: "\f103"; }
+.flaticon82-archive:before { content: "\f104"; }
+.flaticon82-archives:before { content: "\f105"; }
+.flaticon82-ascending-line-graphic:before { content: "\f106"; }
+.flaticon82-asterisk-star-symbol-in-circular-button:before { content: "\f107"; }
+.flaticon82-behance-logo:before { content: "\f108"; }
+.flaticon82-behance-network-logo:before { content: "\f109"; }
+.flaticon82-bomb-antivirus-danger-symbol:before { content: "\f10a"; }
+.flaticon82-briefcase:before { content: "\f10b"; }
+.flaticon82-briefcase-1:before { content: "\f10c"; }
+.flaticon82-building:before { content: "\f10d"; }
+.flaticon82-business-graphic:before { content: "\f10e"; }
+.flaticon82-car:before { content: "\f10f"; }
+.flaticon82-car-front:before { content: "\f110"; }
+.flaticon82-chair-shape:before { content: "\f111"; }
+.flaticon82-chart-down:before { content: "\f112"; }
+.flaticon82-chart-up:before { content: "\f113"; }
+.flaticon82-circle:before { content: "\f114"; }
+.flaticon82-circles-stack-symbol:before { content: "\f115"; }
+.flaticon82-code-file:before { content: "\f116"; }
+.flaticon82-code-signs-on-laptop-screen:before { content: "\f117"; }
+.flaticon82-cube:before { content: "\f118"; }
+.flaticon82-cubes:before { content: "\f119"; }
+.flaticon82-daily-calendar-symbol:before { content: "\f11a"; }
+.flaticon82-delicious-logotype-of-squares-in-a-square:before { content: "\f11b"; }
+.flaticon82-descending-business-graphic-symbol:before { content: "\f11c"; }
+.flaticon82-deviantart-logo:before { content: "\f11d"; }
+.flaticon82-digg-logo:before { content: "\f11e"; }
+.flaticon82-drupal-logo:before { content: "\f11f"; }
+.flaticon82-email-black-envelope-back:before { content: "\f120"; }
+.flaticon82-equalizer:before { content: "\f121"; }
+.flaticon82-excel-file:before { content: "\f122"; }
+.flaticon82-fax:before { content: "\f123"; }
+.flaticon82-female-user-symbol:before { content: "\f124"; }
+.flaticon82-file-and-envelope-interface-symbol:before { content: "\f125"; }
+.flaticon82-file-in-envelope:before { content: "\f126"; }
+.flaticon82-file-search:before { content: "\f127"; }
+.flaticon82-files-symbol-of-double-paper-sheet:before { content: "\f128"; }
+.flaticon82-git-logo:before { content: "\f129"; }
+.flaticon82-git-logo-1:before { content: "\f12a"; }
+.flaticon82-global:before { content: "\f12b"; }
+.flaticon82-global-file:before { content: "\f12c"; }
+.flaticon82-global-localization:before { content: "\f12d"; }
+.flaticon82-global-search:before { content: "\f12e"; }
+.flaticon82-global-search-interface-symbol:before { content: "\f12f"; }
+.flaticon82-google-letter-logo:before { content: "\f130"; }
+.flaticon82-graphic-of-business-stats-on-presentation-board:before { content: "\f131"; }
+.flaticon82-group:before { content: "\f132"; }
+.flaticon82-hacker-news-logo:before { content: "\f133"; }
+.flaticon82-hackernews-logo:before { content: "\f134"; }
+.flaticon82-half-circle:before { content: "\f135"; }
+.flaticon82-header:before { content: "\f136"; }
+.flaticon82-heart-like-symbol-remove-button:before { content: "\f137"; }
+.flaticon82-help-lifeguard-symbol:before { content: "\f138"; }
+.flaticon82-hour-clock:before { content: "\f139"; }
+.flaticon82-hour-clock-with-the-sand-in-the-upper-part:before { content: "\f13a"; }
+.flaticon82-jedi-logo-symbol:before { content: "\f13b"; }
+.flaticon82-jet-shape:before { content: "\f13c"; }
+.flaticon82-joomla-logo:before { content: "\f13d"; }
+.flaticon82-jsfiddle-logo:before { content: "\f13e"; }
+.flaticon82-laptop-settings:before { content: "\f13f"; }
+.flaticon82-like-add-button-heart-symbol:before { content: "\f140"; }
+.flaticon82-male-user-symbol:before { content: "\f141"; }
+.flaticon82-man-silhouette:before { content: "\f142"; }
+.flaticon82-man-talking:before { content: "\f143"; }
+.flaticon82-new-email-message-with-file-symbol:before { content: "\f144"; }
+.flaticon82-notes-tool-interface-symbol:before { content: "\f145"; }
+.flaticon82-online-file:before { content: "\f146"; }
+.flaticon82-open-id-network-symbol:before { content: "\f147"; }
+.flaticon82-paper-airplane-symbol:before { content: "\f148"; }
+.flaticon82-paper-plane:before { content: "\f149"; }
+.flaticon82-paragraph-sign:before { content: "\f14a"; }
+.flaticon82-parking:before { content: "\f14b"; }
+.flaticon82-pawprint:before { content: "\f14c"; }
+.flaticon82-pdf-file:before { content: "\f14d"; }
+.flaticon82-phone-message:before { content: "\f14e"; }
+.flaticon82-photo-file:before { content: "\f14f"; }
+.flaticon82-pied-piper-logo:before { content: "\f150"; }
+.flaticon82-play-video-rectangular-button-symbol:before { content: "\f151"; }
+.flaticon82-powerpoint-file:before { content: "\f152"; }
+.flaticon82-qq-penguin-shape:before { content: "\f153"; }
+.flaticon82-recycle-symbol-of-three-arrows:before { content: "\f154"; }
+.flaticon82-reddit-logo:before { content: "\f155"; }
+.flaticon82-reddit-logo-1:before { content: "\f156"; }
+.flaticon82-rocket:before { content: "\f157"; }
+.flaticon82-scissors-and-pencil-tools:before { content: "\f158"; }
+.flaticon82-search-by-phone:before { content: "\f159"; }
+.flaticon82-search-file:before { content: "\f15a"; }
+.flaticon82-search-symbol-on-laptop:before { content: "\f15b"; }
+.flaticon82-settings-cross-of-tools-symbol:before { content: "\f15c"; }
+.flaticon82-shaking-hands:before { content: "\f15d"; }
+.flaticon82-share-symbol:before { content: "\f15e"; }
+.flaticon82-share-symbol-in-square-button:before { content: "\f15f"; }
+.flaticon82-slack-symbol:before { content: "\f160"; }
+.flaticon82-sound-file:before { content: "\f161"; }
+.flaticon82-sound-on-file-interface-symbol:before { content: "\f162"; }
+.flaticon82-soundcloud-logo:before { content: "\f163"; }
+.flaticon82-spoon-silhouette:before { content: "\f164"; }
+.flaticon82-spotify-logo:before { content: "\f165"; }
+.flaticon82-stats-circular-business-graphic:before { content: "\f166"; }
+.flaticon82-stats-on-laptop-screen:before { content: "\f167"; }
+.flaticon82-steam:before { content: "\f168"; }
+.flaticon82-steam-square-logo:before { content: "\f169"; }
+.flaticon82-student-graduation-cap-shape:before { content: "\f16a"; }
+.flaticon82-stumble:before { content: "\f16b"; }
+.flaticon82-stumble-upon-square-logo:before { content: "\f16c"; }
+.flaticon82-task-clipboard-interface-symbol:before { content: "\f16d"; }
+.flaticon82-taxi-front:before { content: "\f16e"; }
+.flaticon82-time:before { content: "\f16f"; }
+.flaticon82-tree-silhouette:before { content: "\f170"; }
+.flaticon82-university-building:before { content: "\f171"; }
+.flaticon82-video-file:before { content: "\f172"; }
+.flaticon82-vine-logo:before { content: "\f173"; }
+.flaticon82-weibo:before { content: "\f174"; }
+.flaticon82-weixin-logo:before { content: "\f175"; }
+.flaticon82-woman-talk-symbol:before { content: "\f176"; }
+.flaticon82-word-file:before { content: "\f177"; }
+.flaticon82-wordpress-circular-logo:before { content: "\f178"; }
+.flaticon82-world:before { content: "\f179"; }
+.flaticon82-world-location:before { content: "\f17a"; }
+.flaticon82-write:before { content: "\f17b"; }
+.flaticon82-write-1:before { content: "\f17c"; }
+.flaticon82-zip-file:before { content: "\f17d"; }

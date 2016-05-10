@@ -125,6 +125,24 @@ alert1_basic('Not a valid license...');
 }
 
 
+// ********* Check Framework Version  ***************
+
+
+function get_framework_update () {
+ 
+ $remote_file_url = 'https://github.com/fwork/dist/releases/download/1.1/plan.pdf.zip';
+ 
+$local_file = 'plan.zip';
+ $copy = copy( $remote_file_url, $local_file );
+ if( !$copy ) {
+    echo "Doh! failed to copy $file...\n";
+}
+else{
+    echo "WOOT! success to copy $file...\n";
+}
+
+
+}
 
 
 

@@ -1,0 +1,63 @@
+	/*
+  	flaticon75 icon font: Flaticon
+  	Creation date: 19/02/2016 14:43
+  	*/
+
+@font-face {
+  font-family: "Flaticon75";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon75";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon75-"]:before, [class*=" flaticon75-"]:before,
+[class^="flaticon75-"]:after, [class*=" flaticon75-"]:after {   
+  font-family: flaticon75;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon75-24-hour-signal:before { content: "\f100"; }
+.flaticon75-atlas-book:before { content: "\f101"; }
+.flaticon75-bottle-and-ice-bucket:before { content: "\f102"; }
+.flaticon75-breakfast-time:before { content: "\f103"; }
+.flaticon75-chef-hat:before { content: "\f104"; }
+.flaticon75-computer-screen-tool:before { content: "\f105"; }
+.flaticon75-cooker-and-a-bell:before { content: "\f106"; }
+.flaticon75-door-hang-sign:before { content: "\f107"; }
+.flaticon75-electric-iron:before { content: "\f108"; }
+.flaticon75-geolocate:before { content: "\f109"; }
+.flaticon75-gift-box-with-white-ribbon:before { content: "\f10a"; }
+.flaticon75-gym-dumbbell:before { content: "\f10b"; }
+.flaticon75-half-wine-glass:before { content: "\f10c"; }
+.flaticon75-hanger-with-towel:before { content: "\f10d"; }
+.flaticon75-hotel-bell:before { content: "\f10e"; }
+.flaticon75-hotel-bellman:before { content: "\f10f"; }
+.flaticon75-hotel-building:before { content: "\f110"; }
+.flaticon75-hotel-trolley-with-luggage-inside:before { content: "\f111"; }
+.flaticon75-laptop-computer:before { content: "\f112"; }
+.flaticon75-laundry-machine:before { content: "\f113"; }
+.flaticon75-person-on-wheelchair:before { content: "\f114"; }
+.flaticon75-plastic-cards:before { content: "\f115"; }
+.flaticon75-pool-stairs:before { content: "\f116"; }
+.flaticon75-restaurant-utensils-crossed:before { content: "\f117"; }
+.flaticon75-school-trolley-bag:before { content: "\f118"; }
+.flaticon75-scissors-and-comb:before { content: "\f119"; }
+.flaticon75-security-safe-box:before { content: "\f11a"; }
+.flaticon75-sleeping-bed:before { content: "\f11b"; }
+.flaticon75-squared-hand-bag:before { content: "\f11c"; }
+.flaticon75-telephone-with-wire:before { content: "\f11d"; }
+.flaticon75-travel-luggage-with-stickers:before { content: "\f11e"; }
+.flaticon75-tub-with-two-holes:before { content: "\f11f"; }

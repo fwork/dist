@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 14:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon65";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon65";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon65-"]:before, [class*=" flaticon65-"]:before,
+[class^="flaticon65-"]:after, [class*=" flaticon65-"]:after {   
+  font-family: flaticon65;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon65-balance:before { content: "\f100"; }
+.flaticon65-bowl:before { content: "\f101"; }
+.flaticon65-clock:before { content: "\f102"; }
+.flaticon65-container:before { content: "\f103"; }
+.flaticon65-cream:before { content: "\f104"; }
+.flaticon65-cutting:before { content: "\f105"; }
+.flaticon65-cutting-1:before { content: "\f106"; }
+.flaticon65-dosimeter:before { content: "\f107"; }
+.flaticon65-egg:before { content: "\f108"; }
+.flaticon65-funnel:before { content: "\f109"; }
+.flaticon65-glass-of-water:before { content: "\f10a"; }
+.flaticon65-grater:before { content: "\f10b"; }
+.flaticon65-grill:before { content: "\f10c"; }
+.flaticon65-knife:before { content: "\f10d"; }
+.flaticon65-knife-1:before { content: "\f10e"; }
+.flaticon65-microwave-oven:before { content: "\f10f"; }
+.flaticon65-milk:before { content: "\f110"; }
+.flaticon65-mitten:before { content: "\f111"; }
+.flaticon65-mix:before { content: "\f112"; }
+.flaticon65-mixer:before { content: "\f113"; }
+.flaticon65-mixer-1:before { content: "\f114"; }
+.flaticon65-mustard:before { content: "\f115"; }
+.flaticon65-oil:before { content: "\f116"; }
+.flaticon65-pan:before { content: "\f117"; }
+.flaticon65-pan-1:before { content: "\f118"; }
+.flaticon65-pot:before { content: "\f119"; }
+.flaticon65-pour:before { content: "\f11a"; }
+.flaticon65-recipes:before { content: "\f11b"; }
+.flaticon65-rolling-pin:before { content: "\f11c"; }
+.flaticon65-salt:before { content: "\f11d"; }
+.flaticon65-salt-1:before { content: "\f11e"; }
+.flaticon65-soup-ladle:before { content: "\f11f"; }
+.flaticon65-spatula:before { content: "\f120"; }
+.flaticon65-spices:before { content: "\f121"; }
+.flaticon65-spices-1:before { content: "\f122"; }
+.flaticon65-spoon:before { content: "\f123"; }
+.flaticon65-steak:before { content: "\f124"; }
+.flaticon65-stove:before { content: "\f125"; }
+.flaticon65-strainer:before { content: "\f126"; }
+.flaticon65-timer:before { content: "\f127"; }

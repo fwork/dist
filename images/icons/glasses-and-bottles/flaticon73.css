@@ -1,0 +1,59 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/03/2016 08:55
+  	*/
+
+@font-face {
+  font-family: "Flaticon73";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon73";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon73-"]:before, [class*=" flaticon73-"]:before,
+[class^="flaticon73-"]:after, [class*=" flaticon73-"]:after {   
+  font-family: flaticon73;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon73-champagne:before { content: "\f100"; }
+.flaticon73-champagne-1:before { content: "\f101"; }
+.flaticon73-champagne-2:before { content: "\f102"; }
+.flaticon73-champagne-3:before { content: "\f103"; }
+.flaticon73-cup:before { content: "\f104"; }
+.flaticon73-cup-1:before { content: "\f105"; }
+.flaticon73-cup-2:before { content: "\f106"; }
+.flaticon73-cup-3:before { content: "\f107"; }
+.flaticon73-cup-4:before { content: "\f108"; }
+.flaticon73-cup-5:before { content: "\f109"; }
+.flaticon73-glass:before { content: "\f10a"; }
+.flaticon73-glass-1:before { content: "\f10b"; }
+.flaticon73-glass-10:before { content: "\f10c"; }
+.flaticon73-glass-11:before { content: "\f10d"; }
+.flaticon73-glass-12:before { content: "\f10e"; }
+.flaticon73-glass-2:before { content: "\f10f"; }
+.flaticon73-glass-3:before { content: "\f110"; }
+.flaticon73-glass-4:before { content: "\f111"; }
+.flaticon73-glass-5:before { content: "\f112"; }
+.flaticon73-glass-6:before { content: "\f113"; }
+.flaticon73-glass-7:before { content: "\f114"; }
+.flaticon73-glass-8:before { content: "\f115"; }
+.flaticon73-glass-9:before { content: "\f116"; }
+.flaticon73-jar:before { content: "\f117"; }
+.flaticon73-jar-1:before { content: "\f118"; }
+.flaticon73-paper-cup:before { content: "\f119"; }
+.flaticon73-rum:before { content: "\f11a"; }
+.flaticon73-wine-bottle:before { content: "\f11b"; }

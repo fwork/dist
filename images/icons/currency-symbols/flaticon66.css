@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/04/2016 11:32
+  	*/
+
+@font-face {
+  font-family: "Flaticon66";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon66";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon66-"]:before, [class*=" flaticon66-"]:before,
+[class^="flaticon66-"]:after, [class*=" flaticon66-"]:after {   
+  font-family: flaticon66;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon66-brazilian-real:before { content: "\f100"; }
+.flaticon66-canadian-dollar:before { content: "\f101"; }
+.flaticon66-colon:before { content: "\f102"; }
+.flaticon66-czech-koruna:before { content: "\f103"; }
+.flaticon66-danish-krone:before { content: "\f104"; }
+.flaticon66-dollar:before { content: "\f105"; }
+.flaticon66-dong:before { content: "\f106"; }
+.flaticon66-dram:before { content: "\f107"; }
+.flaticon66-euro:before { content: "\f108"; }
+.flaticon66-forint:before { content: "\f109"; }
+.flaticon66-hong-kong-dollar:before { content: "\f10a"; }
+.flaticon66-indonesian-rupiah:before { content: "\f10b"; }
+.flaticon66-lev:before { content: "\f10c"; }
+.flaticon66-malaysian-ringgit:before { content: "\f10d"; }
+.flaticon66-new-shekel:before { content: "\f10e"; }
+.flaticon66-new-taiwan-dollar:before { content: "\f10f"; }
+.flaticon66-philippine-peso:before { content: "\f110"; }
+.flaticon66-pound-sterling:before { content: "\f111"; }
+.flaticon66-renminbi:before { content: "\f112"; }
+.flaticon66-ruble:before { content: "\f113"; }
+.flaticon66-rupee:before { content: "\f114"; }
+.flaticon66-rupee-1:before { content: "\f115"; }
+.flaticon66-singapore-dollar:before { content: "\f116"; }
+.flaticon66-south-african-rand:before { content: "\f117"; }
+.flaticon66-south-korean-won:before { content: "\f118"; }
+.flaticon66-swiss-franc:before { content: "\f119"; }
+.flaticon66-thai-baht:before { content: "\f11a"; }
+.flaticon66-tugrik:before { content: "\f11b"; }
+.flaticon66-turkish-lira:before { content: "\f11c"; }
+.flaticon66-zloty:before { content: "\f11d"; }

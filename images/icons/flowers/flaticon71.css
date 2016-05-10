@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/03/2016 12:34
+  	*/
+
+@font-face {
+  font-family: "Flaticon71";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon71";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon71-"]:before, [class*=" flaticon71-"]:before,
+[class^="flaticon71-"]:after, [class*=" flaticon71-"]:after {   
+  font-family: flaticon71;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon71-almond:before { content: "\f100"; }
+.flaticon71-alstroemeria:before { content: "\f101"; }
+.flaticon71-anemone:before { content: "\f102"; }
+.flaticon71-anthurium:before { content: "\f103"; }
+.flaticon71-aster:before { content: "\f104"; }
+.flaticon71-astrantia:before { content: "\f105"; }
+.flaticon71-bluebell:before { content: "\f106"; }
+.flaticon71-bougainvillea:before { content: "\f107"; }
+.flaticon71-broom:before { content: "\f108"; }
+.flaticon71-calla:before { content: "\f109"; }
+.flaticon71-carnation:before { content: "\f10a"; }
+.flaticon71-chrysanthemum:before { content: "\f10b"; }
+.flaticon71-clematis:before { content: "\f10c"; }
+.flaticon71-daffodil:before { content: "\f10d"; }
+.flaticon71-dahlia:before { content: "\f10e"; }
+.flaticon71-daisy:before { content: "\f10f"; }
+.flaticon71-dianthus:before { content: "\f110"; }
+.flaticon71-flower:before { content: "\f111"; }
+.flaticon71-freesia:before { content: "\f112"; }
+.flaticon71-gardenia:before { content: "\f113"; }
+.flaticon71-gerbera:before { content: "\f114"; }
+.flaticon71-ginger:before { content: "\f115"; }
+.flaticon71-gladiolus:before { content: "\f116"; }
+.flaticon71-hyacinth:before { content: "\f117"; }
+.flaticon71-hydrangea:before { content: "\f118"; }
+.flaticon71-hypericum:before { content: "\f119"; }
+.flaticon71-iris:before { content: "\f11a"; }
+.flaticon71-jasmine:before { content: "\f11b"; }
+.flaticon71-jonquil:before { content: "\f11c"; }
+.flaticon71-knapweed:before { content: "\f11d"; }
+.flaticon71-lily:before { content: "\f11e"; }
+.flaticon71-lotus:before { content: "\f11f"; }
+.flaticon71-magnolia:before { content: "\f120"; }
+.flaticon71-mimosa:before { content: "\f121"; }
+.flaticon71-narcissus:before { content: "\f122"; }
+.flaticon71-nymphea:before { content: "\f123"; }
+.flaticon71-oleander:before { content: "\f124"; }
+.flaticon71-orchid:before { content: "\f125"; }
+.flaticon71-pansy:before { content: "\f126"; }
+.flaticon71-pear:before { content: "\f127"; }
+.flaticon71-peony:before { content: "\f128"; }
+.flaticon71-petunia:before { content: "\f129"; }
+.flaticon71-poinsettia:before { content: "\f12a"; }
+.flaticon71-poppy:before { content: "\f12b"; }
+.flaticon71-protea:before { content: "\f12c"; }
+.flaticon71-rose:before { content: "\f12d"; }
+.flaticon71-sunflower:before { content: "\f12e"; }
+.flaticon71-wallflower:before { content: "\f12f"; }
+.flaticon71-wedelia:before { content: "\f130"; }
+.flaticon71-zinnia:before { content: "\f131"; }

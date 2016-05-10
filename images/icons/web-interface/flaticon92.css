@@ -1,0 +1,68 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:43
+  	*/
+
+@font-face {
+  font-family: "Flaticon92";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon92";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon92-"]:before, [class*=" flaticon92-"]:before,
+[class^="flaticon92-"]:after, [class*=" flaticon92-"]:after {   
+  font-family: flaticon92;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon92-add-button:before { content: "\f100"; }
+.flaticon92-antique-telephone:before { content: "\f101"; }
+.flaticon92-arrow-button-pointing-down-right:before { content: "\f102"; }
+.flaticon92-bold-check-button:before { content: "\f103"; }
+.flaticon92-check-box:before { content: "\f104"; }
+.flaticon92-check-sign:before { content: "\f105"; }
+.flaticon92-close-button:before { content: "\f106"; }
+.flaticon92-closed-door-with-glass:before { content: "\f107"; }
+.flaticon92-closed-email:before { content: "\f108"; }
+.flaticon92-cross-mark:before { content: "\f109"; }
+.flaticon92-decreasing-bar-graph:before { content: "\f10a"; }
+.flaticon92-diagonal-up-arrow-button:before { content: "\f10b"; }
+.flaticon92-down-arrow-button:before { content: "\f10c"; }
+.flaticon92-download-symbol:before { content: "\f10d"; }
+.flaticon92-downwards-arrow:before { content: "\f10e"; }
+.flaticon92-email-messages:before { content: "\f10f"; }
+.flaticon92-four-arrows:before { content: "\f110"; }
+.flaticon92-four-arrows-facing-each-other:before { content: "\f111"; }
+.flaticon92-google-plus-symbol:before { content: "\f112"; }
+.flaticon92-graduation-cap:before { content: "\f113"; }
+.flaticon92-inconsistent-bar-graph:before { content: "\f114"; }
+.flaticon92-information-circular-button:before { content: "\f115"; }
+.flaticon92-linkedin-button-logo:before { content: "\f116"; }
+.flaticon92-next-arrow:before { content: "\f117"; }
+.flaticon92-no-entry-sign:before { content: "\f118"; }
+.flaticon92-pinterest-logotype:before { content: "\f119"; }
+.flaticon92-speech-bubble-chat:before { content: "\f11a"; }
+.flaticon92-square:before { content: "\f11b"; }
+.flaticon92-three-bar-graph:before { content: "\f11c"; }
+.flaticon92-upload-sign:before { content: "\f11d"; }
+.flaticon92-upper-left-arrow:before { content: "\f11e"; }
+.flaticon92-upwards-arrow:before { content: "\f11f"; }
+.flaticon92-video-camera:before { content: "\f120"; }
+.flaticon92-vimeo-logo-button:before { content: "\f121"; }
+.flaticon92-white-arrow-to-the-left:before { content: "\f122"; }
+.flaticon92-wordpress-logo-button:before { content: "\f123"; }
+.flaticon92-youtube-web-logo:before { content: "\f124"; }

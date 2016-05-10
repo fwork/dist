@@ -1,0 +1,59 @@
+	/*
+  	flaticon84 icon font: Flaticon
+  	Creation date: 19/02/2016 14:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon84";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon84";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon84-"]:before, [class*=" flaticon84-"]:before,
+[class^="flaticon84-"]:after, [class*=" flaticon84-"]:after {   
+  font-family: flaticon84;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon84-building-silhouette:before { content: "\f100"; }
+.flaticon84-building-silhouettes-and-tree:before { content: "\f101"; }
+.flaticon84-castle-silhouette:before { content: "\f102"; }
+.flaticon84-castle-tower:before { content: "\f103"; }
+.flaticon84-cell-tower:before { content: "\f104"; }
+.flaticon84-church:before { content: "\f105"; }
+.flaticon84-church-front-view:before { content: "\f106"; }
+.flaticon84-circus-tent:before { content: "\f107"; }
+.flaticon84-circus-tent-1:before { content: "\f108"; }
+.flaticon84-factory-silhouette:before { content: "\f109"; }
+.flaticon84-fortress-with-battlements:before { content: "\f10a"; }
+.flaticon84-home-button:before { content: "\f10b"; }
+.flaticon84-house-front-view:before { content: "\f10c"; }
+.flaticon84-house-silhouette:before { content: "\f10d"; }
+.flaticon84-lighthouse:before { content: "\f10e"; }
+.flaticon84-lighthouse-1:before { content: "\f10f"; }
+.flaticon84-mosque-temple:before { content: "\f110"; }
+.flaticon84-obelisk-silhouette:before { content: "\f111"; }
+.flaticon84-pyramid-with-one-dark-side:before { content: "\f112"; }
+.flaticon84-sea-dyke:before { content: "\f113"; }
+.flaticon84-stepped-building:before { content: "\f114"; }
+.flaticon84-synagogue-front-view:before { content: "\f115"; }
+.flaticon84-temple-front-view:before { content: "\f116"; }
+.flaticon84-temple-front-view-1:before { content: "\f117"; }
+.flaticon84-three-buildings:before { content: "\f118"; }
+.flaticon84-tower-block-front-view:before { content: "\f119"; }
+.flaticon84-two-buildings:before { content: "\f11a"; }
+.flaticon84-two-small-houses:before { content: "\f11b"; }

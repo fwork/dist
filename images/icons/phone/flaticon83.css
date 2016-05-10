@@ -1,0 +1,111 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:43
+  	*/
+
+@font-face {
+  font-family: "Flaticon83";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon83";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon83-"]:before, [class*=" flaticon83-"]:before,
+[class^="flaticon83-"]:after, [class*=" flaticon83-"]:after {   
+  font-family: flaticon83;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon83-boy-talking-by-phone:before { content: "\f100"; }
+.flaticon83-broken-cellphone:before { content: "\f101"; }
+.flaticon83-broken-telephone:before { content: "\f102"; }
+.flaticon83-buying-on-smartphone:before { content: "\f103"; }
+.flaticon83-call-center-girl:before { content: "\f104"; }
+.flaticon83-cellphone-internet-connection:before { content: "\f105"; }
+.flaticon83-cellphone-with-wifi-signal:before { content: "\f106"; }
+.flaticon83-chat-between-two-smartphones:before { content: "\f107"; }
+.flaticon83-communication-by-phone-chat:before { content: "\f108"; }
+.flaticon83-finger-touching-tablet-screen:before { content: "\f109"; }
+.flaticon83-girl-on-phone:before { content: "\f10a"; }
+.flaticon83-girl-telephone-call:before { content: "\f10b"; }
+.flaticon83-hand-graving-smartphone:before { content: "\f10c"; }
+.flaticon83-hand-with-smartphone-and-wireless-internet:before { content: "\f10d"; }
+.flaticon83-horizontal-smartphone-chatting:before { content: "\f10e"; }
+.flaticon83-horizontal-smartphone-with-wifi-connection:before { content: "\f10f"; }
+.flaticon83-incoming-call:before { content: "\f110"; }
+.flaticon83-international-calls:before { content: "\f111"; }
+.flaticon83-mobile-phone-with-wifi:before { content: "\f112"; }
+.flaticon83-office-telephone:before { content: "\f113"; }
+.flaticon83-old-mobile-phone-calling:before { content: "\f114"; }
+.flaticon83-old-telephone-ringing:before { content: "\f115"; }
+.flaticon83-person-of-a-call-center-in-communication-with-headphones:before { content: "\f116"; }
+.flaticon83-phone-auricular-with-high-volume:before { content: "\f117"; }
+.flaticon83-phone-book:before { content: "\f118"; }
+.flaticon83-phone-chat:before { content: "\f119"; }
+.flaticon83-phone-chat-with-wifi-signal:before { content: "\f11a"; }
+.flaticon83-phone-connection-with-a-boy:before { content: "\f11b"; }
+.flaticon83-phone-contact:before { content: "\f11c"; }
+.flaticon83-phone-group-communication:before { content: "\f11d"; }
+.flaticon83-refresh-wifi-signal:before { content: "\f11e"; }
+.flaticon83-smartphone-24-hours-service:before { content: "\f11f"; }
+.flaticon83-smartphone-blocked:before { content: "\f120"; }
+.flaticon83-smartphone-call:before { content: "\f121"; }
+.flaticon83-smartphone-group-chat:before { content: "\f122"; }
+.flaticon83-smartphone-message:before { content: "\f123"; }
+.flaticon83-smartphone-receiving-sign:before { content: "\f124"; }
+.flaticon83-smartphone-ringing:before { content: "\f125"; }
+.flaticon83-smartphone-screen-with-sound-line:before { content: "\f126"; }
+.flaticon83-smartphone-sending-data:before { content: "\f127"; }
+.flaticon83-smartphone-video-conference-with-friends:before { content: "\f128"; }
+.flaticon83-smartphone-with-a-smile:before { content: "\f129"; }
+.flaticon83-smartphone-with-email:before { content: "\f12a"; }
+.flaticon83-smartphone-with-emoticon:before { content: "\f12b"; }
+.flaticon83-smartphone-with-glasses:before { content: "\f12c"; }
+.flaticon83-smartphone-with-globe-grid:before { content: "\f12d"; }
+.flaticon83-smartphone-with-hand:before { content: "\f12e"; }
+.flaticon83-smartphone-with-internet:before { content: "\f12f"; }
+.flaticon83-smartphone-with-internet-connection:before { content: "\f130"; }
+.flaticon83-smartphone-with-internet-connection-1:before { content: "\f131"; }
+.flaticon83-smartphone-with-picture:before { content: "\f132"; }
+.flaticon83-smartphone-with-reload-arrows:before { content: "\f133"; }
+.flaticon83-smartphone-with-sad-face-on-screen:before { content: "\f134"; }
+.flaticon83-smartphone-with-shield:before { content: "\f135"; }
+.flaticon83-smartphone-with-wireless-internet:before { content: "\f136"; }
+.flaticon83-smartphones-couple:before { content: "\f137"; }
+.flaticon83-tablet-with-wifi-signal-on-screen:before { content: "\f138"; }
+.flaticon83-telephone-and-phonebook:before { content: "\f139"; }
+.flaticon83-telephone-auricular-with-cable:before { content: "\f13a"; }
+.flaticon83-telephone-battery-half-charged:before { content: "\f13b"; }
+.flaticon83-telephone-international-communication:before { content: "\f13c"; }
+.flaticon83-telephone-line-24-hours-service:before { content: "\f13d"; }
+.flaticon83-telephone-locked:before { content: "\f13e"; }
+.flaticon83-telephone-of-old-design:before { content: "\f13f"; }
+.flaticon83-telephone-receiver-with-circular-arrows:before { content: "\f140"; }
+.flaticon83-telephone-receiver-with-up-arrow:before { content: "\f141"; }
+.flaticon83-telephone-with-a-bolt-on-screen:before { content: "\f142"; }
+.flaticon83-telephone-with-glasses-and-moustache:before { content: "\f143"; }
+.flaticon83-tower-transmissions:before { content: "\f144"; }
+.flaticon83-vintage-broken-telephone:before { content: "\f145"; }
+.flaticon83-vintage-cellphone:before { content: "\f146"; }
+.flaticon83-vintage-cellphone-with-wifi-signal:before { content: "\f147"; }
+.flaticon83-vintage-mobile-phone:before { content: "\f148"; }
+.flaticon83-vintage-telephone:before { content: "\f149"; }
+.flaticon83-vintage-telephone-call:before { content: "\f14a"; }
+.flaticon83-wifi-signal-tower:before { content: "\f14b"; }
+.flaticon83-world-wide-internet-signal:before { content: "\f14c"; }
+.flaticon83-worldwide-communications:before { content: "\f14d"; }
+.flaticon83-worldwide-transmissions:before { content: "\f14e"; }
+.flaticon83-worlwide-transmission:before { content: "\f14f"; }

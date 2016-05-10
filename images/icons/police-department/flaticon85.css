@@ -1,0 +1,149 @@
+/*
+  	flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:47
+  	*/
+
+@font-face {
+  font-family: "Flaticon85";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon85";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon85-"]:before, [class*=" flaticon85-"]:before,
+[class^="flaticon85-"]:after, [class*=" flaticon85-"]:after {   
+  font-family: flaticon85;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+
+.flaticon85-baton:before {
+	content: "\e001";
+}
+.flaticon85-bullet-proof-vest:before {
+	content: "\e002";
+}
+.flaticon85-bullets:before {
+	content: "\e003";
+}
+.flaticon85-cctv:before {
+	content: "\e004";
+}
+.flaticon85-cone:before {
+	content: "\e005";
+}
+.flaticon85-handcuff:before {
+	content: "\e006";
+}
+.flaticon85-house:before {
+	content: "\e007";
+}
+.flaticon85-id-card-1:before {
+	content: "\e008";
+}
+.flaticon85-id-card:before {
+	content: "\e009";
+}
+.flaticon85-jail:before {
+	content: "\e00a";
+}
+.flaticon85-locked:before {
+	content: "\e00b";
+}
+.flaticon85-padlock:before {
+	content: "\e00c";
+}
+.flaticon85-pistol:before {
+	content: "\e00d";
+}
+.flaticon85-police-1:before {
+	content: "\e00e";
+}
+.flaticon85-police-badge-1:before {
+	content: "\e00f";
+}
+.flaticon85-police-badge-2:before {
+	content: "\e010";
+}
+.flaticon85-police-badge:before {
+	content: "\e011";
+}
+.flaticon85-police-cap:before {
+	content: "\e012";
+}
+.flaticon85-police-car-1:before {
+	content: "\e013";
+}
+.flaticon85-police-car:before {
+	content: "\e014";
+}
+.flaticon85-police-station:before {
+	content: "\e015";
+}
+.flaticon85-police-vest:before {
+	content: "\e016";
+}
+.flaticon85-police:before {
+	content: "\e017";
+}
+.flaticon85-policeman-1:before {
+	content: "\e018";
+}
+.flaticon85-policeman:before {
+	content: "\e019";
+}
+.flaticon85-prisioner-1:before {
+	content: "\e01a";
+}
+.flaticon85-prisioner:before {
+	content: "\e01b";
+}
+.flaticon85-prison:before {
+	content: "\e01c";
+}
+.flaticon85-profile:before {
+	content: "\e01d";
+}
+.flaticon85-radio:before {
+	content: "\e01e";
+}
+.flaticon85-roadblock:before {
+	content: "\e01f";
+}
+.flaticon85-safe-box:before {
+	content: "\e020";
+}
+.flaticon85-search:before {
+	content: "\e021";
+}
+.flaticon85-shield:before {
+	content: "\e022";
+}
+.flaticon85-shoot:before {
+	content: "\e023";
+}
+.flaticon85-shooting:before {
+	content: "\e024";
+}
+.flaticon85-siren:before {
+	content: "\e025";
+}
+.flaticon85-target:before {
+	content: "\e026";
+}
+.flaticon85-whistle:before {
+	content: "\e027";
+}
