@@ -17,7 +17,20 @@ RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?datamgt.nci.org.au [NC]
 RewriteRule \.(jpg|jpeg|png|gif)$ - [NC,F,L]
 
+
+<Files ~ "\.bak">
+  Order allow,deny
+  Deny from all
+</Files>
+<Files ~ "\.ht">
+  Order allow,deny
+  Deny from all
+</Files>
 <Files ~ "\.txt">
+  Order allow,deny
+  Deny from all
+</Files>
+<Files ~ "\.swp">
   Order allow,deny
   Deny from all
 </Files>

@@ -27,13 +27,11 @@ public function check_login() {
 
 function single_session () {
 
-$prefix=PFX;
-$projname=PROJ;
-
+$admin_db=ADMIN_DB;
 $sid=session_id();
 $usid=$_SESSION["uid_".session_id()] ;
 
-$res=MYSQLi_QUERY(db_conn,"select count(*) as cc from ".$prefix."_".$projname."_admin.admin_current_login where userid='$usid' and session_id='$sid'") ;
+$res=MYSQLi_QUERY(db_conn,"select count(*) as cc from ".$admin_db."_admin.admin_current_login where userid='$usid' and session_id='$sid'") ;
 $row=MYSQLi_fetch_array($res);
 $cnt = $row["cc"];
 

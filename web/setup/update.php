@@ -201,7 +201,9 @@ document.getElementById("result_quote").innerHTML=""
                 <div class="box-body">
                 
                 Your framework software is currently running version 
-                 <?$ROOT_PATH =dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;echo file_get_contents($ROOT_PATH.'techscape/version.txt');?>
+                 <?$up_doc_root=UP_DOC_ROOT;
+if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; };
+echo file_get_contents($ROOT_PATH.'version.txt');?>
 
 <br><br> 
                                         
@@ -250,73 +252,11 @@ function move(str) {
 }
 
 </script>
-
-
-
-
-
-
-               <!--   <div class="table-responsive">
-                    <table class="table no-margin">
-                      <thead>
-                        <tr>
-                          <th><button class="btn btn-block btn-warning btn-sm">Check for Framework Update</button></th>
-  
-                        </tr>
-                      </thead>
-                      <tbody>
-                      </table>
-
-                  <div class="table-responsive">
-                    <table class="table no-margin">
-                      <thead>
-                        <tr>
-                          <th>Server</th>
-                          <th>Load Average</th>
-                          <th>Disk Space</th>
-                          <th>Version</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html"> pdb0.anu.edu.au</a></td>
-                          <td>0.04</td>
-                          <td>249.95</td>
-                          <td><div class="sparkbar" data-color="#00a65a" data-height="20">Postgres / 8.4.1</div></td>
-                        </tr>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                          <td>Samsung Smart TV</td>
-                          <td><span class="label label-warning">Pending</span></td>
-                          <td><div class="sparkbar" data-color="#f39c12" data-height="20">90,80,-90,70,61,-83,68</div></td>
-                        </tr>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                          <td>iPhone 6 Plus</td>
-                          <td><span class="label label-danger">Delivered</span></td>
-                          <td><div class="sparkbar" data-color="#f56954" data-height="20">90,-80,90,70,-61,83,63</div></td>
-                        </tr>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                          <td>Samsung Smart TV</td>
-                          <td><span class="label label-info">Processing</span></td>
-                          <td><div class="sparkbar" data-color="#00c0ef" data-height="20">90,80,-90,70,-61,83,63</div></td>
-                        </tr>
-                        <tr>
-                          <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                          <td>Samsung Smart TV</td>
-                          <td><span class="label label-warning">Pending</span></td>
-                          <td><div class="sparkbar" data-color="#f39c12" data-height="20">90,80,-90,70,61,-83,68</div></td>
-                        </tr>
-                                         </tbody>
-                    </table>-->
-                  <!--</div>--><!-- /.table-responsive -->
-                </div><!-- /.box-body -->
-              </div><!-- /.box -->
-              
+ 
+                   
                             <br><br><br>
               <br><br><br>
-           <center> <strong><font color="white">(C) 2016-17 All righst reserved.</font></strong> </center>
+           <center> <strong><font color="white">&copy; 2016-17 All righst reserved.</font></strong> </center>
 
             </div><!-- /.col -->
 

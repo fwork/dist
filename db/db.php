@@ -1,6 +1,32 @@
 <?
-$prefix=PFX;
-$projname=PROJ;
+
+$host=HOST;
+$admin_db=ADMIN_DB;
+$admin_db_user=ADMIN_DB_USER;
+$admin_db_pass=ADMIN_DB_PASS;
+
+
+
+// ************** MySQL  (Admin Database) ***************
+// *************************************************
+
+    $my_host = $host;
+    $my_user = $admin_db_user;
+    $mydb_name = $admin_db;
+    $my_pass =$admin_db_pass;
+
+ $db = @MYSQLi_connect($my_host, $my_user, $my_pass);
+ @MYSQLi_select_db($mydb_name);
+  
+@define("db_conn_admin", $db);
+
+
+
+
+// ************** for general databases ***************
+// **********************************************
+
+
 
 // ************** MySQL  ***************
     $my_host = "";
@@ -9,7 +35,7 @@ $projname=PROJ;
     $my_pass ="";
 
  $db = @MYSQLi_connect($my_host, $my_user, $my_pass);
- @MYSQLi_select_db($prefix."_".$projname."_main");
+ @MYSQLi_select_db($mydb_name);
   
 @define("db_conn", $db);
 

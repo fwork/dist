@@ -8,10 +8,7 @@
 @ini_set('fastcgi.logging','0');
 @ini_set('magic_quotes_gpc','Off');
 
-$res=MYSQLi_QUERY(db_conn,"select openbase_dir  from ".$prefix."_".$projname."_admin.admin_settings   ") ;
-$row=@MYSQLi_fetch_array($res);
-$opdir = $row["openbase_dir"];
-
+$opdir=UP_DOC_ROOT;
 
 @ini_set('open_basedir',$opdir);
 @ini_set('register_globals','Off');

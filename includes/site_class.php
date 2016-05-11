@@ -11,9 +11,8 @@ public function init() {
 
         @session_start();
 	    @date_default_timezone_set('Australia/ACT');
-        $prefix=PFX;
-        $projname=PROJ;
-        $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
+	    $up_doc_root=UP_DOC_ROOT;
+	    if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; }
         $db_path=$ROOT_PATH."db/";
         $inc_path=$ROOT_PATH."includes/";
         $upload_path=$ROOT_PATH."uploads/";
@@ -23,7 +22,6 @@ public function init() {
         $docs_path=$ROOT_PATH."docs/";
         $apps_path=$ROOT_PATH."apps/";
         $conf_path=$ROOT_PATH."conf/";
-        $setup_path=$ROOT_PATH."setup/";
         @include_once ($inc_path.'functions.php');
         @include_once($db_path.'db.php');
         $this->top_comments();
@@ -45,10 +43,9 @@ public function top_comments() {
 $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
 $db_path=$ROOT_PATH."db/";
 include_once($db_path.'db.php');
-$prefix=PFX;
-$projname=PROJ;
+$admin_db=ADMIN_DB;
 
-$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$prefix."_".$projname."_admin.admin_title_text") ;
+$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$admin_db."_admin.admin_title_text") ;
 $row=@MYSQLi_fetch_array($res1);
 echo '<!--
 // **************************************************************************
@@ -71,9 +68,8 @@ echo '<!--
 
 
 public function title() {
-$prefix=PFX;
-$projname=PROJ;
-$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$prefix."_".$projname."_admin.admin_project_meta") ;
+$admin_db=ADMIN_DB;
+$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$admin_db."_admin.admin_project_meta") ;
 $row=@MYSQLi_fetch_array($res1);
 echo '
 <html<head>

@@ -1,7 +1,3 @@
-<Files ~ "\.php$">
-  Order allow,deny
-  Deny from all
-</Files>
 <Files ~ "\.bak">
   Order allow,deny
   Deny from all

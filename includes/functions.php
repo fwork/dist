@@ -5,16 +5,18 @@
 
 function retrieve_file ($filename,$folder_from) {
 
-$ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
- $inc_path=$ROOT_PATH."includes/";
+$up_doc_root=UP_DOC_ROOT;
+if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; }
+$db_path=$ROOT_PATH."db/";
+$inc_path=$ROOT_PATH."includes/";
 $upload_path=$ROOT_PATH."uploads/";
- $temp_path=$ROOT_PATH."temp/";
+$license_path=$ROOT_PATH."license/";
+$temp_path=$ROOT_PATH."temp/";
 $log_path=$ROOT_PATH."logs/";
 $docs_path=$ROOT_PATH."docs/";
 $apps_path=$ROOT_PATH."apps/";
 $conf_path=$ROOT_PATH."conf/";
-$setup_path=$ROOT_PATH."setup/";
-
+ 
 
 // folder_from will be upload,docs,temp ....
 switch ($folder_from) {
@@ -104,15 +106,15 @@ function ts_error_handler($number, $message, $file, $line, $vars)
 
 
 function check_license () {
-$prefix=PFX;
-$projname=PROJ;
+$admin_db=ADMIN_DB;
+
 $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
 $license_path=$ROOT_PATH."license/";
 
 $array = explode("\n", file_get_contents($license_path.'license.txt'));
 $local_text=($array[1]);
 
-$res=MYSQLi_QUERY(db_conn,"select license_key  from ".$prefix."_".$projname."_admin.admin_license") ;
+$res=MYSQLi_QUERY(db_conn,"select license_key  from ".$admin_db."_admin.admin_license") ;
 $row=@MYSQLi_fetch_array($res);
 $db_key = $row["license_key"];
 if (ltrim(rtrim($local_text))!=ltrim(rtrim($db_key))){?>
@@ -124,25 +126,6 @@ alert1_basic('Not a valid license...');
 
 }
 
-
-// ********* Check Framework Version  ***************
-
-
-function get_framework_update () {
- 
- $remote_file_url = 'https://github.com/fwork/dist/releases/download/1.1/plan.pdf.zip';
- 
-$local_file = 'plan.zip';
- $copy = copy( $remote_file_url, $local_file );
- if( !$copy ) {
-    echo "Doh! failed to copy $file...\n";
-}
-else{
-    echo "WOOT! success to copy $file...\n";
-}
-
-
-}
 
 
 
@@ -162,10 +145,10 @@ function decrypt($s) {
 
 
 function check_includes_file_exist ($str) {
-$prefix=PFX;
-$projname=PROJ;
+$admin_db=ADMIN_DB;
 
-$res1=MYSQLi_QUERY(db_conn,"select include_filename  from ".$prefix."_".$projname."_admin.admin_site_includes") ;
+
+$res1=MYSQLi_QUERY(db_conn,"select include_filename  from ".$admin_db."_admin.admin_site_includes") ;
 while ($row=@MYSQLi_fetch_array($res1)){
 $os[] = $row["include_filename"];
 }
@@ -177,9 +160,9 @@ else { return null;}
 
 
 function check_includes_request_from ($str) {
-$prefix=PFX;
-$projname=PROJ;
-$res1=@MYSQLi_QUERY(db_conn,"select main_filename  from ".$prefix."_".$projname."_admin.admin_site_main") ;
+$admin_db=ADMIN_DB;
+
+$res1=@MYSQLi_QUERY(db_conn,"select main_filename  from ".$admin_db."_admin.admin_site_main") ;
 while ($row=@MYSQLi_fetch_array($res1)){
 $os[] = $row["main_filename"];
 }
@@ -245,11 +228,11 @@ function valid_data_bslash($string) {
 
 function insert_hist ($usid,$sid,$ipaddr,$domain) {
 $d=date("Y-m-d H:i:s");
-$prefix=PFX;
-$projname=PROJ;
-$qry=@MYSQLi_query(db_conn,"Insert into ".$prefix."_".$projname."_admin.admin_login_history (userid,date_time,session_id,ip_addr,domain) values ('$usid','$d','$sid','$ipaddr','$domain')");
-$qry2=@MYSQLi_query(db_conn,"delete from ".$prefix."_".$projname."_admin.admin_current_login where userid='$usid' ");
-$qry3=@MYSQLi_query(db_conn,"Insert into ".$prefix."_".$projname."_admin.admin_current_login (userid,date_time,session_id,ip_addr) values ('$usid','$d','$sid','$ipaddr')");
+$admin_db=ADMIN_DB;
+
+$qry=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_login_history (userid,date_time,session_id,ip_addr,domain) values ('$usid','$d','$sid','$ipaddr','$domain')");
+$qry2=@MYSQLi_query(db_conn,"delete from ".$admin_db."_admin.admin_current_login where userid='$usid' ");
+$qry3=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_current_login (userid,date_time,session_id,ip_addr) values ('$usid','$d','$sid','$ipaddr')");
 
 }
 
@@ -609,28 +592,18 @@ function resize_image($filename, $tmpname, $xmax, $ymax)
 // ********* Saving Logs  ***************
 
  function log_save1($string1,$string2) {
-$prefix=PFX;
-$projname=PROJ; 
-  $res1=@MYSQLi_QUERY(db_conn,"select max(log_id) as cc  from ".$prefix."_".$projname."_admin.admin_error_log") ;
+$admin_db=ADMIN_DB;
+
+  $res1=@MYSQLi_QUERY(db_conn,"select max(log_id) as cc  from ".$admin_db."_admin.admin_error_log") ;
                           $row=@MYSQLi_fetch_array($res1);
                           $max_id = $row["cc"];
  $max_id=$max_id+1;
  $d=@date("Y-m-d H:i:s");
-  $qry=@MYSQLi_query(db_conn,"Insert into ".$prefix."_".$projname."_admin.admin_error_log (log_id,date_time,userid,text) values ($max_id,'$d','$string1','$string2')");
+  $qry=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_error_log (log_id,date_time,userid,text) values ($max_id,'$d','$string1','$string2')");
  }
  
 
-function log_save2($string1,$string2) { 
-$prefix=PFX;
-$projname=PROJ;
-  $res1=@MYSQLi_QUERY(db_conn,"select max(log_id) as cc  from ".$prefix."_".$projname."_admin.dm_general_log") ;
-                          $row=@MYSQLi_fetch_array($res1);
-                          $max_id = $row["cc"];
- $max_id=$max_id+1;
- $d=@date("Y-m-d H:i:s");
-  $qry=MYSQLi_query(db_conn,"Insert into nci_data_management.dm_general_log (log_id,date_time,userid,text) values ($max_id,'$d','$string1','$string2')");
- }
-
+ 
 
 
 

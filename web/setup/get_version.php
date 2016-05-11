@@ -10,8 +10,9 @@ $remote_text=($array[0]);
 
  $fs=($array[2]);
 
- 
- $local_text=file_get_contents($ROOT_PATH.'techscape/version.txt');
+$up_doc_root=UP_DOC_ROOT;
+if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; };
+$local_text=file_get_contents($ROOT_PATH.'version.txt');
  
  
  if (ltrim(rtrim($local_text))!=ltrim(rtrim($remote_text))){
