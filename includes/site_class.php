@@ -45,8 +45,8 @@ $db_path=$ROOT_PATH."db/";
 include_once($db_path.'db.php');
 $admin_db=ADMIN_DB;
 
-$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$admin_db."_admin.admin_title_text") ;
-$row=@MYSQLi_fetch_array($res1);
+$res1=@MYSQL_QUERY("select *  from ".$admin_db.".admin_title_text",db_conn_admin) ;
+$row=@MYSQL_fetch_array($res1);
 echo '<!--
 // **************************************************************************
 //
@@ -69,8 +69,8 @@ echo '<!--
 
 public function title() {
 $admin_db=ADMIN_DB;
-$res1=@MYSQLi_QUERY(db_conn,"select *  from ".$admin_db."_admin.admin_project_meta") ;
-$row=@MYSQLi_fetch_array($res1);
+$res1=@MYSQL_QUERY("select *  from ".$admin_db.".admin_project_meta",db_conn_admin) ;
+$row=@MYSQL_fetch_array($res1);
 echo '
 <html<head>
 <title>'.$row['title'].'</title>

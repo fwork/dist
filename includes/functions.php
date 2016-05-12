@@ -114,8 +114,8 @@ $license_path=$ROOT_PATH."license/";
 $array = explode("\n", file_get_contents($license_path.'license.txt'));
 $local_text=($array[1]);
 
-$res=MYSQLi_QUERY(db_conn,"select license_key  from ".$admin_db."_admin.admin_license") ;
-$row=@MYSQLi_fetch_array($res);
+$res=MYSQL_QUERY("select license_key  from ".$admin_db.".admin_license",db_conn_admin) ;
+$row=@MYSQL_fetch_array($res);
 $db_key = $row["license_key"];
 if (ltrim(rtrim($local_text))!=ltrim(rtrim($db_key))){?>
 <script>
@@ -148,8 +148,8 @@ function check_includes_file_exist ($str) {
 $admin_db=ADMIN_DB;
 
 
-$res1=MYSQLi_QUERY(db_conn,"select include_filename  from ".$admin_db."_admin.admin_site_includes") ;
-while ($row=@MYSQLi_fetch_array($res1)){
+$res1=MYSQL_QUERY("select include_filename  from ".$admin_db.".admin_site_includes",db_conn_admin) ;
+while ($row=@MYSQL_fetch_array($res1)){
 $os[] = $row["include_filename"];
 }
 if (in_array($str.".php",$os)) {
@@ -162,8 +162,8 @@ else { return null;}
 function check_includes_request_from ($str) {
 $admin_db=ADMIN_DB;
 
-$res1=@MYSQLi_QUERY(db_conn,"select main_filename  from ".$admin_db."_admin.admin_site_main") ;
-while ($row=@MYSQLi_fetch_array($res1)){
+$res1=@MYSQL_QUERY("select main_filename  from ".$admin_db.".admin_site_main",db_conn_admin) ;
+while ($row=@MYSQL_fetch_array($res1)){
 $os[] = $row["main_filename"];
 }
 if (@in_array($str,$os)) {
@@ -230,9 +230,9 @@ function insert_hist ($usid,$sid,$ipaddr,$domain) {
 $d=date("Y-m-d H:i:s");
 $admin_db=ADMIN_DB;
 
-$qry=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_login_history (userid,date_time,session_id,ip_addr,domain) values ('$usid','$d','$sid','$ipaddr','$domain')");
-$qry2=@MYSQLi_query(db_conn,"delete from ".$admin_db."_admin.admin_current_login where userid='$usid' ");
-$qry3=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_current_login (userid,date_time,session_id,ip_addr) values ('$usid','$d','$sid','$ipaddr')");
+$qry=@MYSQL_query("Insert into ".$admin_db.".admin_login_history (userid,date_time,session_id,ip_addr,domain) values ('$usid','$d','$sid','$ipaddr','$domain')",db_conn_admin);
+$qry2=@MYSQL_query("delete from ".$admin_db.".admin_current_login where userid='$usid' ",db_conn_admin);
+$qry3=@MYSQL_query("Insert into ".$admin_db.".admin_current_login (userid,date_time,session_id,ip_addr) values ('$usid','$d','$sid','$ipaddr')",db_conn_admin);
 
 }
 
@@ -245,8 +245,8 @@ $qry3=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_current_login
  function fixTables($dbname) {
  $result = mysql_list_tables($dbname) or die(mysql_error());
  while ($row = mysql_fetch_row($result)) {
- @mysqli_query(db_conn,"REPAIR TABLE $row[0]");
- @mysqli_query(db_conn,"OPTIMIZE TABLE $row[0]");
+ @MYSQL_query("REPAIR TABLE $row[0]",db_conn_admin);
+ @MYSQL_query("OPTIMIZE TABLE $row[0]",db_conn_admin);
  }
  }
 
@@ -282,7 +282,7 @@ function dbRowInsert($table_name, $form_data)
     VALUES('".implode("','", $form_data)."')";
 
     // run and return the query result resource
-    return @mysqli_query(db_conn,$sql);
+    return @MYSQL_query($sql,db_conn_admin);
 }
 
 
@@ -307,7 +307,7 @@ function dbRowDelete($table_name, $where_clause='')
     $sql = "DELETE FROM ".$table_name.$whereSQL;
 
     // run and return the query result resource
-    return @mysqli_query(db_conn,$sql);
+    return @MYSQL_query($sql,db_conn_admin);
 }
 
 
@@ -344,7 +344,7 @@ function dbRowUpdate($table_name, $form_data, $where_clause='')
     $sql .= $whereSQL;
 
     // run and return the query result
-    return @mysqli_query(db_conn,$sql);
+    return @MYSQL_query($sql,db_conn_admin);
 }
 
 */
@@ -594,12 +594,12 @@ function resize_image($filename, $tmpname, $xmax, $ymax)
  function log_save1($string1,$string2) {
 $admin_db=ADMIN_DB;
 
-  $res1=@MYSQLi_QUERY(db_conn,"select max(log_id) as cc  from ".$admin_db."_admin.admin_error_log") ;
-                          $row=@MYSQLi_fetch_array($res1);
+  $res1=@MYSQL_QUERY("select max(log_id) as cc  from ".$admin_db.".admin_error_log",db_conn_admin) ;
+                          $row=@MYSQL_fetch_array($res1);
                           $max_id = $row["cc"];
  $max_id=$max_id+1;
  $d=@date("Y-m-d H:i:s");
-  $qry=@MYSQLi_query(db_conn,"Insert into ".$admin_db."_admin.admin_error_log (log_id,date_time,userid,text) values ($max_id,'$d','$string1','$string2')");
+  $qry=@MYSQL_query("Insert into ".$admin_db.".admin_error_log (log_id,date_time,userid,text) values ($max_id,'$d','$string1','$string2')",db_conn_admin);
  }
  
 
@@ -1317,133 +1317,7 @@ function contains_array($value){
 
 
 
-// ********* XML to Array  ***************
-
-
-function xml2array($contents, $get_attributes=1, $priority = 'tag') {
-    if(!$contents) return array();
-
-    if(!function_exists('xml_parser_create')) {
-        //print "'xml_parser_create()' function not found!";
-        return array();
-    }
-
-    //Get the XML parser of PHP - PHP must have this module for the parser to work
-    $parser = xml_parser_create('');
-    xml_parser_set_option($parser, XML_OPTION_TARGET_ENCODING, "UTF-8"); # http://minutillo.com/steve/weblog/2004/6/17/php-xml-and-character-encodings-a-tale-of-sadness-rage-and-data-loss
-    xml_parser_set_option($parser, XML_OPTION_CASE_FOLDING, 0);
-    xml_parser_set_option($parser, XML_OPTION_SKIP_WHITE, 1);
-    xml_parse_into_struct($parser, trim($contents), $xml_values);
-    xml_parser_free($parser);
-
-    if(!$xml_values) return;//Hmm...
-
-    //Initializations
-    $xml_array = array();
-    $parents = array();
-    $opened_tags = array();
-    $arr = array();
-
-    $current = &$xml_array; //Refference
-
-    //Go through the tags.
-    $repeated_tag_index = array();//Multiple tags with same name will be turned into an array
-    foreach($xml_values as $data) {
-        unset($attributes,$value);//Remove existing values, or there will be trouble
-
-        //This command will extract these variables into the foreach scope
-        // tag(string), type(string), level(int), attributes(array).
-        extract($data);//We could use the array by itself, but this cooler.
-
-        $result = array();
-        $attributes_data = array();
-        
-        if(isset($value)) {
-            if($priority == 'tag') $result = $value;
-            else $result['value'] = $value; //Put the value in a assoc array if we are in the 'Attribute' mode
-        }
-
-        //Set the attributes too.
-        if(isset($attributes) and $get_attributes) {
-            foreach($attributes as $attr => $val) {
-                if($priority == 'tag') $attributes_data[$attr] = $val;
-                else $result['attr'][$attr] = $val; //Set all the attributes in a array called 'attr'
-            }
-        }
-
-        //See tag status and do the needed.
-        if($type == "open") {//The starting of the tag '<tag>'
-            $parent[$level-1] = &$current;
-            if(!is_array($current) or (!in_array($tag, array_keys($current)))) { //Insert New tag
-                $current[$tag] = $result;
-                if($attributes_data) $current[$tag. '_attr'] = $attributes_data;
-                $repeated_tag_index[$tag.'_'.$level] = 1;
-
-                $current = &$current[$tag];
-
-            } else { //There was another element with the same tag name
-
-                if(isset($current[$tag][0])) {//If there is a 0th element it is already an array
-                    $current[$tag][$repeated_tag_index[$tag.'_'.$level]] = $result;
-                    $repeated_tag_index[$tag.'_'.$level]++;
-                } else {//This section will make the value an array if multiple tags with the same name appear together
-                    $current[$tag] = array($current[$tag],$result);//This will combine the existing item and the new item together to make an array
-                    $repeated_tag_index[$tag.'_'.$level] = 2;
-                    
-                    if(isset($current[$tag.'_attr'])) { //The attribute of the last(0th) tag must be moved as well
-                        $current[$tag]['0_attr'] = $current[$tag.'_attr'];
-                        unset($current[$tag.'_attr']);
-                    }
-
-                }
-                $last_item_index = $repeated_tag_index[$tag.'_'.$level]-1;
-                $current = &$current[$tag][$last_item_index];
-            }
-
-        } elseif($type == "complete") { //Tags that ends in 1 line '<tag />'
-            //See if the key is already taken.
-            if(!isset($current[$tag])) { //New Key
-                $current[$tag] = $result;
-                $repeated_tag_index[$tag.'_'.$level] = 1;
-                if($priority == 'tag' and $attributes_data) $current[$tag. '_attr'] = $attributes_data;
-
-            } else { //If taken, put all things inside a list(array)
-                if(isset($current[$tag][0]) and is_array($current[$tag])) {//If it is already an array...
-
-                    // ...push the new element into that array.
-                    $current[$tag][$repeated_tag_index[$tag.'_'.$level]] = $result;
-                    
-                    if($priority == 'tag' and $get_attributes and $attributes_data) {
-                        $current[$tag][$repeated_tag_index[$tag.'_'.$level] . '_attr'] = $attributes_data;
-                    }
-                    $repeated_tag_index[$tag.'_'.$level]++;
-
-                } else { //If it is not an array...
-                    $current[$tag] = array($current[$tag],$result); //...Make it an array using using the existing value and the new value
-                    $repeated_tag_index[$tag.'_'.$level] = 1;
-                    if($priority == 'tag' and $get_attributes) {
-                        if(isset($current[$tag.'_attr'])) { //The attribute of the last(0th) tag must be moved as well
-                            
-                            $current[$tag]['0_attr'] = $current[$tag.'_attr'];
-                            unset($current[$tag.'_attr']);
-                        }
-                        
-                        if($attributes_data) {
-                            $current[$tag][$repeated_tag_index[$tag.'_'.$level] . '_attr'] = $attributes_data;
-                        }
-                    }
-                    $repeated_tag_index[$tag.'_'.$level]++; //0 and 1 index is already taken
-                }
-            }
-
-        } elseif($type == 'close') { //End of tag '</tag>'
-            $current = &$parent[$level-1];
-        }
-    }
-    
-    return($xml_array);
-}  
-
+ 
 
 
 

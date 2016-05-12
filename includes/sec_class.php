@@ -31,8 +31,8 @@ $admin_db=ADMIN_DB;
 $sid=session_id();
 $usid=$_SESSION["uid_".session_id()] ;
 
-$res=MYSQLi_QUERY(db_conn,"select count(*) as cc from ".$admin_db."_admin.admin_current_login where userid='$usid' and session_id='$sid'") ;
-$row=MYSQLi_fetch_array($res);
+$res=MYSQL_QUERY("select count(*) as cc from ".$admin_db.".admin_current_login where userid='$usid' and session_id='$sid'",db_conn_admin) ;
+$row=MYSQL_fetch_array($res);
 $cnt = $row["cc"];
 
 /*

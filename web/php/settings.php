@@ -16,24 +16,24 @@
 
 //** Host -- eg abc.com
 
-@define("HOST", "");
+@define("HOST", "localhost");
 
 
 //** Document Root -- eg /var/www/abc 
 
-@define("DOC_ROOT", "");
+@define("DOC_ROOT", "/techscapesolutions.com");
 
 
 //** One Level Up Document Root -- eg /var/www/ 
 
-@define("UP_DOC_ROOT", "");
+@define("UP_DOC_ROOT", "/techscape");
 
 
 
 //** Admin Database settings
-@define("ADMIN_DB", "");
-@define("ADMIN_DB_USER", "");
-@define("ADMIN_DB_PASS", "");
+@define("ADMIN_DB", "techs308_techscape_main");
+@define("ADMIN_DB_USER", "techs308_admin");
+@define("ADMIN_DB_PASS", "Every_@12");
  
 
 

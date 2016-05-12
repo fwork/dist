@@ -1,4 +1,4 @@
-<?include_once("autoload.php");?> 
+<?@include_once("autoload.php");?> 
 <?$site_class->init();?>
 
   <?//include_once ($inc_path.check_includes_file_exist('sidebar').".php");?>

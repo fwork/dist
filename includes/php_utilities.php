@@ -67,7 +67,7 @@ print_r ($grp_arr);
 // ********* Create PDF using mPDF  ***************
 
 
-public function create_pdf($str,$file_path,$filename) {
+function create_pdf($str,$file_path,$filename) {
 
 @include_once ($inc_path.'resources/php/mpdf/mpdf.php');
 $mpdf=new mPDF('');
@@ -96,7 +96,7 @@ exit;
 // ********* Create Sitemap  ***************
 
 
-public function create_sitemap($url) {
+function create_sitemap($url) {
 
 @include_once ($inc_path.'resources/php/class_sitemap.php');
 
