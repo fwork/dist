@@ -8,7 +8,7 @@
   <style type="text/css">
 body{
 	font-family: 'Capriola', sans-serif;
-	background:url(bg.jpg) no-repeat 100%;
+	background:url(../error_pages/error_page3/bg.jpg) no-repeat 100%;
 	background-size: 100%;
 	font-family: 'open_sanslight';
 	font-size: 100%;
@@ -60,7 +60,7 @@ body{
 }
 .buttom
 {
-	background:url(bg2.png) no-repeat 100% 0%;
+	background:url(../error_pages/error_page3/bg2.png) no-repeat 100% 0%;
 	background-size: 100%;
 	text-align: center;
 	vertical-align: middle;
@@ -141,7 +141,7 @@ body{
 				<h1>   502</font></h1>
 				
 			</div><div class="logo">
- 				<span><img src="signal.png"/>Oops! Bad Gateway!</span>
+ 				<span><img src="../error_pages/error_page3/signal.png"/>Oops! Bad Gateway!</span>
 			</div>
 			<!-----end-logo--------->
 			<!-----start-search-bar-section--------->

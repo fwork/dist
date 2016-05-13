@@ -8,7 +8,7 @@
   <style type="text/css">
 body{
 	font-family: 'Nunito', sans-serif;
-	background:url(bg.jpg) no-repeat 100%;
+	background:url(../error_pages/error_page4/bg.png) no-repeat 100%;
 	background-size: 100%;
 	font-family: 'Nunito';
 	font-size: 100%;
@@ -60,7 +60,7 @@ body{
 }
 .buttom
 {
-	background:url(bg2.png) no-repeat 100% 0%;
+	background:url(../error_pages/error_page4/bg2.png) no-repeat 100% 0%;
 	background-size: 100%;
 	text-align: center;
 	vertical-align: middle;
@@ -141,12 +141,12 @@ body{
 				<h1>   504</font></h1>
 				
 			</div><div class="logo">
- 				<span><img src="signal.png"/>Oops!  Gateway Time-Out!</span>
+ 				<span><img src="../error_pages/error_page4/signal.png"/>Oops!  Gateway Time-Out!</span>
 			</div>
 			<!-----end-logo--------->
 			<!-----start-search-bar-section--------->
 				<div class="seach_bar"><center>
-					<p>you can  return to home page </p>	 <a href="../php/index.php" title="Return"><img src="back-button.png" >	</a>			 
+					<p>you can  return to home page </p>	 <a href="../php/index.php" title="Return"><img src="../error_pages/error_page4/back-button.png" >	</a>			 
 				</div>
  			<!-----end-sear-bar--------->
 		</div>

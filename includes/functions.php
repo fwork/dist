@@ -111,7 +111,7 @@ $admin_db=ADMIN_DB;
 $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
 $license_path=$ROOT_PATH."license/";
 
-$array = explode("\n", file_get_contents($license_path.'license.txt'));
+$array = explode("\n", file_get_contents($license_path.'framework_license.txt'));
 $local_text=($array[1]);
 
 $res=MYSQL_QUERY("select license_key  from ".$admin_db.".admin_license",db_conn_admin) ;

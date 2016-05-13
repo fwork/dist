@@ -1,7 +1,7 @@
 ErrorDocument 400 /error_pages/error_page1/400.shtml
 ErrorDocument 401 /error_pages/error_page1/401.shtml
 ErrorDocument 403 /error_pages/error_page1/403.shtml
-ErrorDocument 404 /error_pages/error_page3/404.shtml
+ErrorDocument 404 /error_pages/error_page1/404.shtml
 ErrorDocument 405 /error_pages/error_page1/405.shtml
 ErrorDocument 406 /error_pages/error_page1/406.shtml
 ErrorDocument 408 /error_pages/error_page1/408.shtml
@@ -15,7 +15,6 @@ ErrorDocument 504 /error_pages/error_page1/504.shtml
 RewriteEngine on
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?datamgt.nci.org.au [NC]
-RewriteRule \.(jpg|jpeg|png|gif)$ - [NC,F,L]
 
 
 <Files ~ "\.bak">

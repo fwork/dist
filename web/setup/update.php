@@ -17,7 +17,7 @@
   height: 30px;
   background-color: #ddd;
 }
-
+ 
 #myBar {
   position: absolute;
   width: 10%;
@@ -203,7 +203,7 @@ document.getElementById("result_quote").innerHTML=""
                 Your framework software is currently running version 
                  <?$up_doc_root=UP_DOC_ROOT;
 if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; };
-echo file_get_contents($ROOT_PATH.'version.txt');?>
+echo file_get_contents($ROOT_PATH.'framework_version.txt');?>
 
 <br><br> 
                                         
