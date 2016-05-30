@@ -34,12 +34,9 @@ Disallow: /*.jpeg$
 Disallow: /*.png$
 Disallow: /*.exe$
 
-Sitemap: http://your_domainname/sitemap.xml
+Sitemap: http://[your_domainname]/sitemap.xml
 
 
 
 
-Disallow:
-
-Sitemap: {{ site.url }}/sitemap.xml
-
+ 

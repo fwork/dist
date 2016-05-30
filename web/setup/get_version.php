@@ -1,5 +1,6 @@
 <?php
 
+@include_once("../php/settings.php"); 
 
 $ROOT_PATH =dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR;
  
@@ -12,7 +13,7 @@ $remote_text=($array[0]);
 
 $up_doc_root=UP_DOC_ROOT;
 if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; };
-$local_text=file_get_contents($ROOT_PATH.'version.txt');
+$local_text=file_get_contents($ROOT_PATH.'framework_version.txt');
  
  
  if (ltrim(rtrim($local_text))!=ltrim(rtrim($remote_text))){

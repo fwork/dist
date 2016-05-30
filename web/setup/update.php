@@ -35,6 +35,8 @@
   <?php
 @include_once("../php/autoload.php");
 $site_class->init();
+@include_once("../php/settings.php"); 
+
 ?>
 
 <script>

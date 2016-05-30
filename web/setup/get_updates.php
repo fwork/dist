@@ -1,4 +1,6 @@
 <?php
+@include_once("../php/settings.php"); 
+
 $up_doc_root=UP_DOC_ROOT;
 if ($up_doc_root=='/') { $ROOT_PATH = (dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR; } else { $ROOT_PATH=$up_doc_root; }
 $db_path=$ROOT_PATH."db/";
@@ -16,11 +18,11 @@ $array = explode("\n", file_get_contents($remote_file_url));
 $remote_file_url=($array[3]);
 $update_file_url=($array[1]);
 
+$remote_filename=substr_replace($update_file_url,"",-4,4);
+ 
+ // **** creating a folder
 
-
-// **** creating a folder
-
-  $folder_name='update_files/Archive';
+  $folder_name='update_files/'.$remote_filename;
  if (!file_exists($folder_name)) {
     mkdir($folder_name, 0777, true);
 }
@@ -58,7 +60,7 @@ $newfile1 = $temp_path.$fname;
 
 // **** remove folder
 
-deltree($folder_name);
+//deltree($folder_name);
     
  if( !$copy ) {
     echo "Error !.  failed to update ...\n";
