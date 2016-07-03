@@ -72,7 +72,7 @@ $admin_db=ADMIN_DB;
 $res1=@MYSQL_QUERY("select *  from ".$admin_db.".admin_project_meta",db_conn_admin) ;
 $row=@MYSQL_fetch_array($res1);
 echo '
-<html<head>
+<html><head>
 <title>'.$row['title'].'</title>
 <meta name="keywords" content="'.$row['tag_keyword'].'" />
 <meta name="description" content="'.$row['tag_description'].'" />
